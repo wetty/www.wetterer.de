@@ -1,0 +1,17 @@
+_site
+_site_online
+_plugins_disabled
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+Gemfile.lock
+theme-setup
+_fullsize
+assets/images/_fullsize
+assets/_images/_responsive
+assets/images/responsive
