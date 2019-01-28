@@ -15,13 +15,13 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "de-DE"
+title                    : "Wetty's Web World"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Thomas Wetterer"
+description              : "Alles was Thomas Wetterer, alias Wetty interessiert. Vom Reisen, Segeln, übers Motorrad fahren, bis zum fotografieren, sowie das Internet generell."
 # http://github.wetterer.de/www.wetterer.de/
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.wetterer.de/www.wetterer.de/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -29,6 +29,35 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+
+# Wetty - Version um CDN ungültig zu machen
+version: ".35"
+
+# Wetty - Settings
+permalink: /:year/:month/:day/:title/
+timezone:       Europe/Berlin         # default time and date used to local timezone. Vew supported timezones (under TZ column): http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path:  page/:num     # default path for pagination, eg. page/2/
+paginate:       10            # Posts per page on the blog index
+date_format: "%e. %b %Y - %R Uhr"
+image_popup_class: image-popup
+
+
+# Wetty - diverse CDN Settings
+url_cdn: //d2s7alet3cn0i1.cloudfront.net
+url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_large_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1432/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_large_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_medium: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_medium_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1032/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_medium_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_75,h_75,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
+url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
+
+
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -77,14 +106,14 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : google5804ac0d2ef5002f
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : twettyr
 facebook:
   username               :
   app_id                 :
@@ -107,11 +136,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Thomas Wetterer"
+  avatar           : "/assets/images/thomas-wetterer.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Das übliche"
+  location         : "Gernsheim"
+  email            : "thomas@wetterer.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -281,7 +310,6 @@ compress_html:
     envs: development
 
 head_scripts:
-  - https://code.jquery.com/jquery-3.3.1.min.js
   - /assets/js/lazysizes.min.js
   
 # Defaults
