@@ -309,6 +309,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - 
+    scope:
+      path: ""
+      type: garage
+    values:
+      layout: single
+      author_profile: true
 
 # Collections
 # body_id funktioniert hier nicht bei github
