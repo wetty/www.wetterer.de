@@ -284,7 +284,8 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
+  - 
+    scope:
       path: ""
       type: posts
     values:
@@ -294,3 +295,34 @@ defaults:
       comments: # true
       share: true
       related: true
+  - 
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - 
+    scope:
+      path: ""
+      type: sonstiges
+    values:
+      layout: single
+      author_profile: true
+
+# Collections
+# body_id funktioniert hier nicht bei github
+collections:
+  garage:
+    output: true
+    permalink: /:collection/:path/
+  mp3:
+    output: true
+    permalink: /:collection/:path/
+  sonstiges:
+    output: true
+    permalink: /sonstiges/:path/
+  my_tags:
+    output: true
+    permalink: /tags/:slug/
+

@@ -1,0 +1,16 @@
+{% assign photo = site.data.photo_flickr[{{include.id}}] %}
+<figure class="{{ include.class }}">
+	<a href={% if photo.Large %}"{{ photo.Large }}"{% else %}"{{ photo.Original }}"{% endif %} class="{{ site.image_popup_class }}">
+		{% if include.size == "Large_1600" %}
+			<img data-src="{{ photo.Large_1600 }}" alt="Large 1600" width="{{ photo.Large_1600_Size.width }}" height="{{ photo.Large_1600_Size.height }}"
+		{% else %}
+		{% if include.size == "Original" %}
+			<img data-src="{{ photo.Original }}" alt="Original" width="{{ photo.Original_Size.width }}" height="{{ photo.Original_Size.height }}"
+		{% else %}
+		{% if include.size == "Medium" %}
+			<img data-src="{{ photo.Medium }}" alt="Medium" width="{{ photo.Medium_Size.width }}" height="{{ photo.Medium_Size.height }}"
+		{% else %}
+			<img data-src="{{ photo.Small }}" alt="Small" width="{{ photo.Small_Size.width }}" height="{{ photo.Small_Size.height }}"
+		{% endif %}{% endif %}{% endif %} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" data-size="auto"/>
+	</a>
+</figure>
