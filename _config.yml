@@ -347,6 +347,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - 
+    scope:
+      path: ""
+      type: mp3
+    values:
+      layout: single
+      author_profile: true
 
 # Collections
 # body_id funktioniert hier nicht bei github
