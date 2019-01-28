@@ -1,0 +1,12 @@
+---
+title: "Bodö"
+date: 2010-07-11 19:53
+---
+{% include wetty/picture_left.html img="2010-07-04-Lofoten-Tromsoe-Bodoe/dscf2812jpg_4812167015_o.jpg" alt="Bodö" %}
+Nach einem Mittagessen halt in Kjerringöy gings bei schlechtem Wetter mit Motor weiter nach Bodö.
+
+Samstag Abend gings nach dem Essen in die Hotel Bar des Radisson, die oben im letzten Stockwerk ist. Bei schönem Wetter hätte man hier einen grandiosen Ausblick. Nach einem Cocktail stürzten wir uns ins Taghelle Nachtleben.
+
+Heute am Sonntag ist bestes Wetter mit unglaublichen 18 Grad. Wir nutzten das um mit [Arctic Rib](http://www.arcticrib.no) eine Schlauchboottour zu den Saltstraumen zu fahren. Dort lassen sich enorme Wasserstrudel bestaunen, die durch die Tide entstehen.
+
+Heute Abend gehts ins Steakhouse zum essen und Fußball schauen. Morgen früh kurz nach fünf klingelt dann der Wecker und es geht zurück nach Deutschland.

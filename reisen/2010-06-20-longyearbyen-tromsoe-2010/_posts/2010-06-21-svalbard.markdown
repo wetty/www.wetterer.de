@@ -1,0 +1,25 @@
+---
+title: "Svalbard"
+date: 2010-06-20 16:34
+---
+
+{% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2501jpg_4804449446_o.jpg" alt="Svalbard" %}
+Der erste Flug nach Oslo (1 Stunde 40 Minuten) verlief ohne Zwischenfälle. Getr&auml;nke und Snacks gab es nur gegen Bezahlung. In Oslo holt man sein komplettes Gep&auml;ck normalerweise ab, und checkt es dann f&uuml;r den Weiterflug wieder ein. Tja, irgendwann standen nur noch 5 Leute vor dem leeren Gep&auml;ckband. Nach nachfragen kam dann raus, dass dieses mal das Gep&auml;ck durchgecheckt wurde, wir uns also um nix k&uuml;mmern m&uuml;&szlig;ten.
+
+<!--more-->
+
+Meine anderen Leidensgenossen waren ebenfalls Deutsche, die f&uuml;r eine Woche auf die MS Stokkolm gingen. Hier konnte ich gnadenlos konntern, da ich ja 3 Wochen auf einer privaten Segelyacht unterwegs sei. 
+
+Die Security lies mich dann jedenfalls die Schuhe ausziehen und meinen halben Rucksack mit Foto, Netbook etc. auspacken. Nach einem kurzen Snack gings wieder an Board und ab nach Lonyearbyen.
+
+Ich g&ouml;nnte mir zwei 0,3er Carlsberg f&uuml;r je 35 NOK. Die Sonne schien w&auml;hrend der komplette zwei dreiviertel Stunden.
+
+P&uuml;nktlich gegen 23:30 Uhr landeten wir. Der Himmel war bedeckt und es gab Regen/Schneeschauer. Temperatur knapp &uuml;ber 0. Trotz allem war(ist) es Tag hell. Am Gep&auml;ckband erschien endlich mein Gep&auml;ck. Allem voran das neue Steuerrad. Die erstaunten Blicke der meisten waren mir sicher.
+
+Per Bus gings einmal durchs Ort, an allen Unterk&uuml;nften vorbei. Der erste Stopp war im Hafen an der [Noorderlicht]. Der letzte Halt war das [Gjestehuset 102], wo ich untergebracht bin.
+
+Hier zieht man im Flur schon die Schuhe aus. Das Zimmer ist ausreichend gro&szlig;. Toilette und Dusche auf dem Flur. Bettw&auml;sche und Handt&uuml;cher liegen bereit. Also &uuml;berzieh ich mir ersteinmal bei einem 0,5er Sommer&ouml;l f&uuml;r 25 NOK das Bett.
+
+Der erste Eindruck. Alles eher grau in grau. Ist halt eine Bergbau Siedlung. Die Segelyacht liegt derzeit in Barentsburg und wird am Nachmittag hier eintreffen. Bis dahin werd ich mal Karten schreiben, und die Gegend erkunden.
+
+{% include _references.md %}

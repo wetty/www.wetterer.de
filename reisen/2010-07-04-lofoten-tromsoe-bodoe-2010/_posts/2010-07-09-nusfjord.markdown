@@ -1,0 +1,13 @@
+---
+title: "Nusfjord"
+date: 2010-07-09 13:39
+---
+
+{% include wetty/picture_left.html img="2010-07-04-Lofoten-Tromsoe-Bodoe/img_6330jpg_4777172954_o.jpg" alt="Nusfjord" %}
+
+
+Haben die Nacht im Nusfjord verbracht. Hier kommen quasi stündlich Touristenbusse an und werden durch den Ort geführt. Heute früh hat es geregnet. Nachdem die Sonne raus kam, haben wir den Hausberg bestiegen.
+
+<!--more-->
+
+{% include wetty/google_map.html latitude=68.033333 longitude=13.35 %}
