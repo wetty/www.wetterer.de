@@ -23,7 +23,7 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="item-title" itemprop="headline">
+    <h2 class="page__title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -31,8 +31,10 @@
       {% endif %}
     </h2>
 	<p class="page__meta">
-		<i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ page.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;<i class="far fa-clock" aria-hidden="true"> </i> {{ post.date | date: "%R Uhr" }}
-	&nbsp;<a href="{{ site.url }}/about/index.html" rel="author"> <i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a></p>
+		<i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ page.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;
+		<i class="far fa-clock" aria-hidden="true"> </i> {{ post.date | date: "%R Uhr" }}&nbsp;<a href="{{ site.url }}/about/index.html" rel="author">&nbsp;
+		<i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a>
+	</p>
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
