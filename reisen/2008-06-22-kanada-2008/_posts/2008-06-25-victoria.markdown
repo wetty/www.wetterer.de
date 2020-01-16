@@ -1,0 +1,13 @@
+---
+title: "Victoria"
+date: 2008-06-25 09:22
+---
+Gestern haben wir uns bei strahlend blauem Himmel und einigem Wind Victoria angeschaut. Das etwas verspätete Mittagessen gabs bei [Nautical Nellies](http://www.nauticalnelliesrestaurant.com/).
+
+Beim anschliessenden shopping gabs ein paar T-Shirts und eine neue Schirm Mütze.
+
+Den Tag haben wir auf unsere Terrasse mit einem Barbecue abgeschlossen. Es gab Bison und Elch vom Gas Grill.
+
+Das Wetter ist heute auch gut, und wenn alles klappt geht es heute mit dem Boot raus. Dort werden wir den Geburtstag unserer Bekannten feiern. Mit etwas Glück bekommen wir was an die Angel und sehen ein paar Wale.
+
+{% include wetty/google_map.html latitude=48.426808 longitude=-123.362217 %}

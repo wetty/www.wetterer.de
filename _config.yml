@@ -14,35 +14,6 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
-locale                   : "de-DE"
-title                    : "Wetty's Web World"
-title_separator          : "-"
-name                     : "Thomas Wetterer"
-description              : "Alles was Thomas Wetterer, alias Wetty interessiert. Vom Reisen, Segeln, übers Motorrad fahren, bis zum fotografieren, sowie das Internet generell."
-# http://github.wetterer.de/www.wetterer.de/
-url                      : https://github.wetterer.de/www.wetterer.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-
-# Wetty - Version um CDN ungültig zu machen
-version: ".35"
-
-# Wetty - Settings
-permalink: /:year/:month/:day/:title/
-timezone:       Europe/Berlin         # default time and date used to local timezone. Vew supported timezones (under TZ column): http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-paginate_path:  page/:num     # default path for pagination, eg. page/2/
-paginate:       10            # Posts per page on the blog index
-date_format: "%e. %b %Y - %R Uhr"
-image_popup_class: image-popup
-
-
-# Wetty - diverse CDN Settings
 url_cdn: //d2s7alet3cn0i1.cloudfront.net
 url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
 url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
@@ -56,10 +27,33 @@ url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_aut
 url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_75,h_75,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
 url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
+version: ".34"
+ 
+#head_scripts:
+#  - https://code.jquery.com/jquery-3.3.1.min.js
+#  - /assets/js/your-custom-head-script.js
+#footer_scripts:
+#  - /assets/js/your-custom-footer-script.js
+after_footer_scripts:
+  - /assets/js/lazysizes.min.js
 
-
+# Site Settings
+locale                   : "de-DE"
+title                    : "Wetty-Web.de"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : &name "Thomas Wetterer"
+description              : &description "Internet Software-Entwicklung, IT-Dienstleistungen."
+url                      : https://www.wetty-web.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : wetty/wetty-web # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -93,7 +87,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path: "https://feeds.feedburner.com/wetty"
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,15 +99,16 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
 # SEO Related
-google_site_verification : google5804ac0d2ef5002f
+google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : twettyr
+  username               : "twettyr"
 facebook:
   username               :
   app_id                 :
@@ -137,26 +132,35 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Wetterer"
-  avatar           : "/assets/images/thomas-wetterer.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Das übliche"
-  location         : "Gernsheim"
+  avatar           : "/assets/images/thomas-wetterer.jpg"
+  bio              : "Dipl.-Ing. Elektrotechnik"
+  location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+#      url: mailto:thomas@wetterer.de
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.wetterer.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/twettyr"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Thomas_Wetterer/cv"
+    - label: "500px"
+      icon: "fab fa-fw fa-500px"
+      url: "https://500px.com/wetty"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/ThomasWetterer"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/wetty"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -164,15 +168,24 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Thomas_Wetterer/cv"
+    - label: "500px"
+      icon: "fab fa-fw fa-500px"
+      url: "https://500px.com/wetty"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/ThomasWetterer"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/twettyr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/wetty"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -209,6 +222,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
@@ -244,14 +258,14 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /page/:num/
+timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -260,7 +274,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -269,7 +282,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 
@@ -281,8 +293,8 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -303,53 +315,129 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
 
-head_scripts:
-  - /assets/js/lazysizes.min.js
-  
+
 # Defaults
 defaults:
-  # _posts
-  - scope:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      body_id: page
+      comments: true
+      sharing: true
+      footer: true
+  -
+    scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
-      related: true
-  - scope:
+      picture: "picture.html"
+  -
+    scope:
       path: ""
-      type: pages
+      type: my_tags
+    values:
+      layout: articles_by_tag
+      body_id: page
+  -
+    scope:
+      path: ""
+      type: "garage"
     values:
       layout: single
-      author_profile: true
-  - scope:
+      body_id: page
+  -
+    scope:
       path: ""
-      type: sonstiges
+      type: "mp3"
     values:
       layout: single
-      author_profile: true
-  - scope:
+      body_id: page
+  -
+    scope:
       path: ""
-      type: garage
+      type: "sonstiges"
     values:
       layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: mp3
+      body_id: page
+  -
+    scope:
+      path: "_posts/sitenews"
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
-  - scope:
+      categories: [Sitenews]
+#  -
+#    scope:
+#      path: "reisen"
+#      type: posts
+#    values:
+#      category_depth: 2
+  -
+    scope:
+      path: "events/auto/formel1/2000-07-30-formel-1-2000-hockenheim"
+      type: posts
+    values:
+      series:
+        name: "2000-07-30-formel-1-2000-hockenheim"
+  -
+    scope:
+      path: "events/motorrad/enduro/2014-03-18-klassik-gelaendefahrt-2014"
+      type: posts
+    values:
+      series:
+        name: "2014-03-18-klassik-gelaendefahrt-2014"
+  -
+    scope:
+      path: "reisen/2006-08-04-italien-2006"
+      type: posts
+    values:
+      series:
+        name: "2006-08-04-italien-2006"
+  -
+    scope:
+      path: "reisen/2008-04-23-talfahrt-2008"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2008-04-23-talfahrt-2008"
+  -
+    scope:
+      path: "reisen/2008-06-22-kanada-2008"
+      type: posts
+    values:
+      series:
+        name: "2008-06-22-kanada-2008"
+  -
+    scope:
+      path: "reisen/2009-05-21-jugendtoern-norwegen-2009"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2009-05-21-jugendtoern-norwegen-2009"
+  -
+    scope:
+      path: "reisen/2009-08-09-kampanien-2009"
+      type: posts
+    values:
+      tags: [Italien]
+      series:
+        name: "2009-08-09-kampanien-2009"
+  -
+    scope:
       path: "reisen/2010-06-20-longyearbyen-tromsoe-2010"
       type: posts
     values:
@@ -358,20 +446,126 @@ defaults:
         name: "2010-06-20-longyearbyen-tromsoe-2010"
       image:
         feature: headers/header_1070.jpg
-  - scope:
+  -
+    scope:
       path: "reisen/2010-07-04-lofoten-tromsoe-bodoe-2010"
       type: posts
     values:
       tags: [Segeln]
       series:
         name: "2010-07-04-lofoten-tromsoe-bodoe-2010"
-  - scope:
+  -
+    scope:
+      path: "reisen/2012-05-03-ueberfuehrungstoern-2012"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2012-05-03-ueberfuehrungstoern-2012"
+  -
+    scope:
+      path: "reisen/2012-08-11-schottland-2012"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, Schottland]
+      series:
+        name: "2012-08-11-schottland-2012"
+  -
+    scope:
+      path: "reisen/2012-08-25-orkney_inseln_2012"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2012-08-25-orkney_inseln_2012"
+  -
+    scope:
+      path: "reisen/2013-05-19-orkneys-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2013-05-19-orkneys-2013"
+  -
+    scope:
+      path: "reisen/2013-07-13-oslofjord-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2013-07-13-oslofjord-2013"
+  -
+    scope:
+      path: "reisen/2013-10-11-bergfahrt-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2013-10-11-bergfahrt-2013"
+  -
+    scope:
+      path: "reisen/2014-06-07-englischer-kanal-2014"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2014-06-07-englischer-kanal-2014"
+  -
+    scope:
+      path: "reisen/2014-09-13-schnuppertoern-2014"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "2014-09-13-schnuppertoern-2014"
+  -
+    scope:
+      path: "reisen/2015-08-04-kanada-2015"
+      type: "posts"
+    values:
+      tags: [Kanada]
+      series:
+        name: "2015-08-04-kanada-2015"
+  -
+    scope:
+      path: "reisen/2016-07-16-umbrien-2016"
+      type: posts
+    values:
+      tags: [Umbrien, Italien]
+      series:
+        name: "2016-07-16-umbrien-2016"
+  -
+    scope:
+      path: "reisen/2016-11-11-atlantik-ueberquerung-2016"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, Atlantik, Karibik]
+      series:
+        name: "2016-11-11-atlantik-2016"
+  -
+    scope:
+      path: "reisen/2017-05-11-ostkueste-usa-2017"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, USA]
+      series:
+        name: "2017-05-11-ostkueste-usa-2017"
+  -
+    scope:
       path: "reisen/2018-06-25-neufundland-2018"
       type: posts
     values:
       tags: [Neufundland, Kanada]
       series:
         name: "2018-06-25-neufundland-2018"
+  -
+    scope:
+      path: "reisen/2019-07-07-istrien-2019"
+      type: posts
+    values:
+      tags: [Istrien, Kroatien]
+      series:
+        name: "2019-07-07-istrien-2019"
 
 # Collections
 # body_id funktioniert hier nicht bei github
@@ -384,8 +578,9 @@ collections:
     permalink: /:collection/:path/
   sonstiges:
     output: true
-    permalink: /sonstiges/:path/
+    permalink: /:path/
   my_tags:
     output: true
     permalink: /tags/:slug/
 
+github: [metadata]

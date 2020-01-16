@@ -1,0 +1,6 @@
+<figure class="eighth">{% capture cdn_JPG %}{{ site.version }}.JPG{% endcapture %}
+{% for member in include.data %}
+<a href="{% if site.url_cdn %}{{ site.url_cdn }}{% else %}{{ site.url }}{% endif %}/assets/images/responsive/popup/{{ member.image | replace:'.JPG', cdn_JPG }}" class="{{ site.image_popup_class }}" title="{{ member.alt }}">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% if site.url_cdn %}{{ site.url_cdn }}{% else %}{{ site.url }}{% endif %}/assets/images/responsive/square/{{ member.image | replace:'.JPG', cdn_JPG }}" class="square lazyload" width="75" height="75" alt="{{ member.alt }}" /></a>
+{% endfor %}
+</figure>

@@ -1,0 +1,9 @@
+---
+title: "Reboot"
+date: 2012-12-14T17:51:00+02:00
+---
+Nach 946 Tagen ununterbrochener Laufzeit mußte ich leider den Server neu starten, da er keinerlei Verbindung mehr zum Internet bekam.
+
+Der XEN Server auf dem der EisFair Server läuft war bis dahin bereits 963 Tage am Stück durchgelaufen. Hab die Chance genutzt gleich mal alle Updates aufzuspielen.
+
+Leider hab ich die 1000 Tage nicht geschafft. Warten wir mal bis 2016. Vielleicht hält die Hardware ja noch so lange durch.

@@ -1,0 +1,9 @@
+---
+title: "Sau Eng"
+date: 2008-05-01 15:46
+---
+{% include wetty/picture_left.html img="2008-04-23-talfahrt-2008/photo_050108_004_7568362436_o.jpg" alt="Sau Eng" %}
+
+In der Schleuse bei Geesthacht war es ziemlich eng. Die [Moby Dick III] hatte zwischen Schleusenwand und einem Schubverband rechts und links nur etwa 50 cm Platz. Es hat aber gut geklappt und so setzen wir die Fahrt auf der Elbe fort.
+
+{% include _references.md %}

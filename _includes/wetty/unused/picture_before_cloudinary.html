@@ -1,0 +1,17 @@
+{% capture cdn_JPG %}{{ site.version }}.JPG{% endcapture %}
+{% capture cdn_url %}{% if site.url_cdn %}{{ site.url_cdn }}{% else %}{{ site.url }}{% endif %}{% endcapture %}
+{% capture img_ver %}{{ include.img | replace:'.JPG', cdn_JPG }}{% endcapture %}
+
+<figure class="photo-with-exif">
+<a href="{{ cdn_url }}/assets/images/responsive/popup/{{ img_ver }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<picture>
+<source data-srcset="{{ cdn_url }}/assets/images/responsive/large/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/large_2x/{{ img_ver }} 2x" media="(min-width: 35.563em)" type="image/jpeg" />
+<source data-srcset="{{ cdn_url }}/assets/images/responsive/medium/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/medium_2x/{{ img_ver }} 2x" media="(min-width: 20.063em)" type="image/jpeg" />
+<source data-srcset="{{ cdn_url }}/assets/images/responsive/small/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/small_2x/{{ img_ver }} 2x" media="(max-width: 20em)" type="image/jpeg" />
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ cdn_url }}/assets/images/responsive/large/{{ img_ver }}" class="blog-full lazyload" itemprop="image" alt="{{ include.alt }}" data-sizes="auto"/>
+</picture>
+</a>
+{% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+</figure>

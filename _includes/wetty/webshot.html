@@ -1,0 +1,5 @@
+{% if page.link %}{% assign plink = page.link %}
+{% else if include.param %}
+{% assign plink = include.param %}
+{% endif %}
+{% if plink %}<figure class="right"><a href="{{ plink }}" title="Die externe Seite {{ plink }} im neuen Tab/Fenster öffnen." target="_blank" rel="noopener noreferrer"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//s.wordpress.com/mshots/v1/{{ plink | cgi_escape }}?w=218" class="lazyload" width="218" height="163" alt="{{ plink }}"></a></figure><noscript><a href="{{ plink }}" title="{{ plink }}"><img src="//s.wordpress.com/mshots/v1/{{ plink | cgi_escape }}?w=218" width="218" height="163" alt="{{ plink }}" ></a></noscript>{% endif %}

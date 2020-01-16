@@ -1,0 +1,9 @@
+---
+title: "ZZ Top 1983"
+date: 1983-10-31 18:11
+tags: [ticket,ZZ Top]
+---
+{% include wetty/picture_left.html img="Tickets/zztop1983_front.jpg" alt="ZZ Top 1983" %}
+{% include wetty/picture_right.html img="Tickets/zztop1983_back.jpg" alt="ZZ Top 1983" %}
+
+Die An- und Abreise war das beste. Das Konzert an sich etwas zu kurz.

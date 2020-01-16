@@ -8,7 +8,7 @@ description: "Alles was kein Platz im Menu gefunden hat."
 ## Sonstiges 
 
 {% for son in sonstiges %}
-  * [{{ son.title }}]({{ site.url }}{{ son.url }}): {{ son.description }}{% endfor %}
+  * [{{ son.title }}]({{ son.url }}): {{ son.description }}{% endfor %}
 	
 ## Blogroll
   * [Geek & Poke](http://geek-and-poke.com/): Beste Comic Serie überhaupt. Nur für Entwickler zu verstehen.

@@ -1,0 +1,11 @@
+---
+title: "Anzelten 2002"
+date: 2002-03-24 18:11
+tags: [ReiseStart,Galerie]
+---
+Anzelten vom 22. - 24. März 2002 in Schwäbisch Hall.
+
+<!--more-->
+
+{% include wetty/gallery.html data=site.data.Anzelten-2002 %}
+

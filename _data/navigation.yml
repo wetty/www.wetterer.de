@@ -1,39 +1,20 @@
-# main links
+# Site navigation links
 main:
-  - title: Blog
+  - title: "Blog"
     url: /
-  - title: Fotos
+  - title: "Fotos"
     url: /foto-blog/
-  - title: Reisen
-    url: /reisen/
-  - title: Galerien
+  - title: "Reisen"
+    url: /categories/reisen/
+  - title: "Galerien"
     url: /categories/galerie/
-  - title: Archiv
+  - title: "Archiv"
     url: /archives/
-  - title: Sonstiges
+  - title: "Sonstiges"
     url: /sonstiges/
-  - title: Impressum
+  - title: "Impressum"
     url: /about/
-  - title: Datenschutz
+  - title: "Datenschutz"
     url: /datenschutzerklaerung/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-garage:
-  - title: Aktuell
-    children:
-      - title: "Husaberg FE 570 Super Moto, Bj. 2009"
-        url: /garage/husaberg_fe_570_supermoto_bj_2009/
-      - title: "GasGas TXT 270, Bj. 1999"
-        url: /garage/gasgas_txt_270_bj_1999/
-      - title: "NSU Quickly S, Bj. 1963"
-        url: /garage/nsu_quickly_s_bj_1963/
-      - title: "DKW RT 125/2, Bj. 1952"
-        url: /garage/dkw_rt_125-2_bj_1952/
-      - title: "Kawasaki Z 550 B, Bj. 1978"
-        url: /garage/kawasaki_z_550_b_bj_1978/
+  - title: "Suchen"
+    url: /search/

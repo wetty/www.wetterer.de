@@ -126,6 +126,6 @@
 [Harbour Hopper]: https://www.harbourhopper.com/halifax-harbour-hoppers "Ribbit Ribbit! All aboard Atlantic Canada's most popular tour - an amphibious adventure that shows you the best of Halifax by land and sea."
 [Halifax Public Gardens]: http://www.halifaxpublicgardens.ca/ "The Halifax Public Gardens is a 16-acre oasis in the heart of downtown Halifax. Officially opened in 1867"
 [Halifax Central Library]: https://www.halifaxpubliclibraries.ca/locations/SGA/ "All branches are breastfeeding friendly and have self-service holds pick-ups, printing services, public computers, and free WiFi."
-
-
-
+[The BEST DAMN Nikkor you MUST BUY]: https://youtu.be/Fn4v4I40Fvo "The Angry Photographer: The BEST DAMN Nikkor you MUST BUY. Nikon Lens Secrets to save you $$$$$"
+[Trapan]: http://trapan.hr/ "Love, energy and courage are the main drivers of the winery Trapan."
+[Chiavalon]: https://www.chiavalon.hr/ "Chiavalon Organic Extra Virgin Olive Oil | Vodnjan | Istria"

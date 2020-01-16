@@ -1,0 +1,6 @@
+<figure class="eighth">
+{% for member in include.data %}
+<a href="{{ site.url_cdn }}/assets/images/responsive/popup/{{ member.image }}" class="{{ site.image_popup_class }}" title="{{ member.alt }}">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cdn }}/assets/images/responsive/square/{{ member.image }}" class="square lazyload" width="75" height="75" alt="{{ member.alt }}" /></a>
+{% endfor %}
+</figure>

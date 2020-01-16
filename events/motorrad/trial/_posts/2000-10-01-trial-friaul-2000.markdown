@@ -1,0 +1,7 @@
+---
+title: "Trial Friaul 2000"
+date: 2000-10-01 17:55
+tags: [galerie]
+---
+
+{% include wetty/gallery.html data=site.data.Trial-Friaul-2000 %}

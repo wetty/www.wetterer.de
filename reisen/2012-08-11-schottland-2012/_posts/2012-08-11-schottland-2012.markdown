@@ -1,0 +1,22 @@
+---
+title: "Schottland 2012"
+date: 2012-08-11 04:47
+tags: [ReiseStart]
+---
+Samstag früh, viertel nach vier, es geht wieder zum segeln. Für mich diesmal ganze 4 Wochen. Zwei Wochen davon das erste mal für mich als offizieller Skipper des "Jugentörns". Welches Lied aus dem iPad Radiowecker könnte da besser passen als "An Tagen wie diesen" von den Toten Hosen.
+
+Die Reiseroute geht zuerst per Flieger nach Aberdeen, dann per Zug nach Edinburg, wo wir das Wochenende verbringen. Am Montag gehts dann per Taxi nach Oban auf die [Moby Dick III]. Der Segeltörn geht dann auf die Insel Islay, von dort zurück nach Oban und dann durch den Kaledonien Kanal. Von dort starten wir dann mit einer neuen Crew zu den Orkney Inseln. Der Törn endet dann in Aberdeen, von wo ich am 08.09.2012 zurück fliege.
+
+<!--more-->
+
+Wie sollte es auch anders sein, gestern gabs noch den obligatorischen Anruf nach Ersatzteilen fürs Boot. Für mich zu knapp, muß dann die Folgecrew mitbringen. Die Mitschiffstoilette hat wohl ein Problem.
+
+Mit gut 30kg Gepäck hoffe ich alles dabei zu haben, was man so braucht. Zum Glück sind die Off Shore Regenklamotten und der Schlafsack inklusive Kissen und Spannbettbezug schon an Bord.
+
+Der Taxitransfer zum Flughafen klappt einwanndfrei. Die Zeit am Flughafen reicht genau um im Duty Free Shop noch eine Flasche Ardbeg 10 zu kaufen. Mein derzeitiger Lieblingswhisky. Whisky nach Schottland zu schleppen erscheint unnütz, allerdings sollen die Preise vor Ort um einiges höher sein.
+
+Die Uhr zeigt mittlerweile 08:00 Uhr und wir sind in der Luft. Es gibt ein kleines Frühstück. Werd mir gleich Musik auf die Ohren geben und nochmal die Augen zu machen.
+
+Der Törn hat begonnen...
+
+{% include _references.md %}
