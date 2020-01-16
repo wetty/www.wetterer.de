@@ -39,14 +39,14 @@ after_footer_scripts:
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Wetty-Web.de"
+title                    : "Wetty's Web World"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Thomas Wetterer"
-description              : &description "Internet Software-Entwicklung, IT-Dienstleistungen."
-url                      : https://www.wetty-web.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Alles was Thomas Wetterer, alias Wetty interessiert. Vom Reisen, Segeln, übers Motorrad fahren, bis zum fotografieren, sowie das Internet generell."
+url                      : https://test.wetterer.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : wetty/wetty-web # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : wetty/www.wetterer.de # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
