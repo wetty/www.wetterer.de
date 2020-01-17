@@ -1,3 +1,4 @@
+{% if false %}
 <figure class="photo-with-exif">
 <a href="{{ site.url_cloudinary_popup}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <picture>
@@ -11,3 +12,13 @@
   <figcaption>{{ include.caption }}</figcaption>
 {% endif %}
 </figure>
+{% endif %}
+
+<a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+    <img class="cld-responsive" 
+    data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}"
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+	sizes="100vw" 
+	alt="{{ include.alt }}" />
+</a>
+
