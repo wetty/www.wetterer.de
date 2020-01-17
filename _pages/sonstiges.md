@@ -1,5 +1,6 @@
 ---
 title: "Sonstiges"
+subtitle: "Oder alles was keinen Platz im Menu gefunden hat"
 permalink: /sonstiges/
 description: "Alles was kein Platz im Menu gefunden hat."
 --- 

@@ -18,3 +18,25 @@ main:
     url: /datenschutzerklaerung/
   - title: "Suchen"
     url: /search/
+
+garage:
+  - title: Aktuell
+    children:
+    - title: "Husaberg FE 570"
+      url: /garage/husaberg_fe_570_supermoto_bj_2009/
+    - title: "GasGas TXT 270"
+      url: /garage/gasgas_txt_270_bj_1999/
+    - title: "Installation"
+      url: /docs/installation/
+    - title: "Upgrading"
+      url: /docs/upgrading/
+  - title: Verkauft
+    children:
+    - title: "Quick-Start Guide"
+      url: /docs/quick-start-guide/
+    - title: "Structure"
+      url: /docs/structure/
+    - title: "Installation"
+      url: /docs/installation/
+    - title: "Upgrading"
+      url: /docs/upgrading/

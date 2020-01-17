@@ -277,6 +277,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -285,6 +286,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 
@@ -567,6 +569,8 @@ defaults:
       type: posts
     values:
       tags: [Istrien, Kroatien]
+      sidebar:
+        nav: "main"
       series:
         name: "2019-07-07-istrien-2019"
 
@@ -576,6 +580,8 @@ collections:
   garage:
     output: true
     permalink: /:collection/:path/
+    sidebar:
+      nav: "garage"
   mp3:
     output: true
     permalink: /:collection/:path/
