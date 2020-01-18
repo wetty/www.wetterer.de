@@ -16,6 +16,13 @@ Demnächst sollen noch zwei neue Grillroste folgen. Evtl. gibts irgendwann auch 
 
 Letzte Woche gabs zum Test schonmal eine Bacon Beef Bomb und gestern eine Lammkeule, die mega zart und saftig war. Gefeuert wurde nur mit Buchenholz. Temperatur zwischen 105 und 125 Grad. Garzeit der Lammkeule etwas über 3 Stunden, plus 30 Minuten Ruhezeit in Alufolie.
 
+<img
+	src="http://placehold.it/100"
+	data-src="http://placehold.it/{width}"
+	data-sizes="auto"
+	class="lazyload"
+	alt="" />
+
 {% include wetty/picture.html img="grillen/Texas-Ranger-Smoker-D71_0251.jpg" alt="Texas Ranger Smoker Restaurierung" %}
 
 {% include wetty/picture.html img="grillen/Texas-Ranger-Smoker-D71_0252.jpg" alt="Texas Ranger Smoker Restaurierung" %}
