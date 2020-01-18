@@ -231,6 +231,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - _backuped_files
 keep_files:
   - .git
   - .svn
