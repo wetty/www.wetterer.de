@@ -25,8 +25,13 @@
 {{ include.caption }}
 {% endif %}
 
-{% if true %}
+{% if false %}
 <a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
     <img data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}" sizes="100vw" alt="{{ include.alt }}" class="lazyload" />
 </a>
 {% endif %}
+
+<a href="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600,c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+    <img data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_{width},c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ include.img }}" alt="{{ include.alt }}" class="lazyload" data-sizes="auto"/>
+</a>
+
