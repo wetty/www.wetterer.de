@@ -40,6 +40,7 @@ head_scripts:
 after_footer_scripts:
   - /assets/js/lazysizes.min.js
 
+
 # Site Settings
 locale                   : "de-DE"
 title                    : "Wetty's Web World"
@@ -55,7 +56,6 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-excerpt_separator: <!--more-->
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -244,7 +244,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--more-->"
 incremental: false
 
 

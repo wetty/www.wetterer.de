@@ -3,5 +3,6 @@ title: "The King 2003"
 date: 2003-12-18 15:32
 tags: [ticket,The King]
 ---
-{% include wetty/picture_left.html img="Tickets/theking2003_front.jpg" alt="The King 2003" %}
 The King & Band am 18.12.2003 im Musiktheater Rex.
+
+{% include wetty/picture.html img="Tickets/theking2003_front.jpg" alt="The King 2003" %}

@@ -8,3 +8,15 @@
   <figcaption>{{ include.caption }}</figcaption>
 {% endif %}
 </figure>
+
+
+{% if false %}
+<a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="align-left {{ site.image_popup_class }}" title="{{ include.alt }}">
+    <img class="cld-responsive" 
+    data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}"
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+	sizes="100vw" 
+	alt="{{ include.alt }}" />
+</a>
+{{ include.caption }}
+{% endif %}

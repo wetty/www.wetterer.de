@@ -3,7 +3,7 @@ title: "AC/DC 1991"
 date: 1991-03-29 12:51
 tags: [ticket,AC/DC]
 ---
-
-{% include wetty/picture_left.html img="Tickets/acdc1991_front.jpg" alt="AC DC 1991" %}
-{% include wetty/picture_right.html img="Tickets/acdc1991_back.jpg" alt="AC DC 1991" %}
 AC/DC auf ihrer Razors Edge Tour 1991 in der Frankfurter Festhalle.
+
+{% include wetty/picture.html img="Tickets/acdc1991_front.jpg" alt="AC DC 1991" %}
+{% include wetty/picture.html img="Tickets/acdc1991_back.jpg" alt="AC DC 1991" %}

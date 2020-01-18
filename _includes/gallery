@@ -1,0 +1,51 @@
+{% if include.id %}
+  {% assign gallery = page[include.id] %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+{% if include.layout %}
+  {% assign gallery_layout = include.layout %}
+{% else %}
+  {% if gallery.size == 2 %}
+    {% assign gallery_layout = 'half' %}
+  {% elsif gallery.size >= 3 %}
+    {% assign gallery_layout = 'third' %}
+  {% else %}
+    {% assign gallery_layout = '' %}
+  {% endif %}
+{% endif %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+  {% for img in gallery %}
+    {% if img.url %}
+      <a href=
+        {% if img.url contains "://" %}
+          "{{ site.url_cloudinary_responsive}}{{ img.url }}"
+        {% else %}
+          "{{ site.url_cloudinary_responsive}}{{ img.url }}"
+        {% endif %}
+        {% if img.title %}title="{{ img.title }}"{% endif %}
+		class="{{ site.image_popup_class }}">
+        <img data-src=
+          {% if img.image_path contains "://" %}
+            "{{ site.url_cloudinary_responsive}}{{ img.image_path }}"
+          {% else %}
+            "{{ site.url_cloudinary_responsive}}{{ img.image_path }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}" sizes="100vw" class="cld-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+      </a>
+    {% else %}
+      <img data-src=
+        {% if img.image_path contains "://" %}
+          "{{ site.url_cloudinary_responsive}}{{ img.image_path }}"
+        {% else %}
+          "{{ site.url_cloudinary_responsive}}{{ img.image_path }}"
+        {% endif %}
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}" sizes="100vw" class="cld-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

@@ -5,6 +5,8 @@ tags: [ticket,Weitsicht-Darmstadt]
 ---
 **07.11.2016 Alle Karten sind mittlerweile verkauft! Hätte nicht gedacht, das so viele auf meine Seite finden. Ab Weitsicht Freitag bestreite ich eines der letzten großen Abenteuer unserer Zeit: „Die Überquerung des Atlantiks mit einer Segelyacht." Mehr dazu in den nächsten Tagen auf dieser Website.**
 
+<!--more-->
+
 Leider kann ich dieses Jahr nicht zum Weitsicht Festival 2016 in Darmstadt. Aus diesem Grund hab ich folgende Karten abzugeben:
 
 * 11.11.2016 19:30 Uhr - **Jäger des Lichts** (bereits ausverkauft!!!)    
