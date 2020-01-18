@@ -1,6 +1,5 @@
 ---
 title: "Miniatur Wunderland Hamburg 2004"
-excerpt_separator: "<!--more-->"
 date: 2004-04-10 15:13
 tags: [ticket,galerie, Miniatur Wunderland]
 gallery:
