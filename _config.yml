@@ -353,13 +353,6 @@ defaults:
   -
     scope:
       path: ""
-      type: my_tags
-    values:
-      layout: articles_by_tag
-      body_id: page
-  -
-    scope:
-      path: ""
       type: "garage"
     values:
       layout: single
@@ -570,10 +563,16 @@ defaults:
       type: posts
     values:
       tags: [Istrien, Kroatien]
-      sidebar:
-        nav: "main"
       series:
         name: "2019-07-07-istrien-2019"
+  -
+    scope:
+      path: "events/konzert"
+      type: posts
+    values:
+      tags: [ticket]
+      read_time: true
+      no_excerpt: true
 
 # Collections
 # body_id funktioniert hier nicht bei github
