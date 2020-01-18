@@ -14,6 +14,7 @@
 </figure>
 {% endif %}
 
+{% if false %}
 <a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
     <img class="cld-responsive" 
     data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}"
@@ -22,9 +23,10 @@
 	alt="{{ include.alt }}" />
 </a>
 {{ include.caption }}
+{% endif %}
 
-{% if false %}
+{% if true %}
 <a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-    <img src="{{ site.url_cloudinary_responsive}}{{ include.img }}" sizes="100vw" alt="{{ include.alt }}" />
+    <img data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}" sizes="100vw" alt="{{ include.alt }}" class="lazyload" />
 </a>
 {% endif %}
