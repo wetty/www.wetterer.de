@@ -4,6 +4,7 @@ _plugins_disabled
 .DS_Store
 *.sublime-project
 *.sublime-workspace
+*.icloud
 codekit-config.json
 node_modules
 .sass-cache
