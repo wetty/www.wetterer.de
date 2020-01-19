@@ -25,13 +25,9 @@
 {{ include.caption }}
 {% endif %}
 
-{% if false %}
-<a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-    <img data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}" sizes="100vw" alt="{{ include.alt }}" class="lazyload" />
+<figure class="">
+<a href="{{ site.url_cloudinary_popup}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<picture>
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_{width},c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ include.img }}" class="lazyload" itemprop="image" alt="{{ include.alt }}" data-sizes="auto" data-widths="[636, 754, 770, 824, 936, 972, 1022]" />
+</picture>
 </a>
-{% endif %}
-
-<a href="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600,c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-    <img data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_{width},c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ include.img }}" alt="{{ include.alt }}" class="lazyload" data-sizes="auto"/>
-</a>
-
