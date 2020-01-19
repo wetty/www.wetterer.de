@@ -2,6 +2,22 @@
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<style>
+	.blur-up {
+		-webkit-filter: blur(5px);
+		filter: blur(5px);
+		transition: filter 600ms, -webkit-filter 600ms;
+	}
+
+	.blur-up.lazyloaded {
+		-webkit-filter: blur(0);
+		filter: blur(0);
+	}
+
+img[data-sizes="auto"] { display: block; width: 100%; }
+
+</style>
+
 
 <!--
 <script src="/assets/js/cloudinary-core-shrinkwrap.min.js"></script>
