@@ -32,6 +32,7 @@ img[data-sizes="auto"] { display: block; width: 100%; }
 Hier eigentlich RIAS
 <img
 	src="//placehold.it/100"
+	data-widths="[636, 754, 770, 824, 936, 972, 1022]"
 	data-src="//placehold.it/{width}"
 	data-sizes="auto"
 	class="lazyload"
@@ -78,6 +79,7 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 
 <img 
     data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_auto,c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/grillen/Texas-Ranger-Smoker-D71_0251.jpg" 
+	data-widths="[636, 754, 770, 824, 936, 972, 1022]"
 	data-sizes="auto"
     class="lazyload blur-up cld-responsive">
 
