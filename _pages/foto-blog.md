@@ -8,6 +8,7 @@ classes: wide
 layout: category
 taxonomy: foto-blog
 permalink: /foto-blog/
+full_excerpt: true
 ---
 
 Versuch eines Foto-Blogs mit den besten Bildern.
