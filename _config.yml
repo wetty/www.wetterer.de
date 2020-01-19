@@ -37,9 +37,9 @@ url_cloudinary_responsive: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_a
 #  - /assets/js/your-custom-head-script.js
 #footer_scripts:
 #  - /assets/js/your-custom-footer-script.js
-#after_footer_scripts:
+# after_footer_scripts:
 #  - /assets/js/lazysizes.min.js
-
+#  - /assets/js/ls.rias.min.js
 
 # Site Settings
 locale                   : "de-DE"
@@ -244,7 +244,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n"
 incremental: false
 
 
