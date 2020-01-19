@@ -6,7 +6,7 @@ tags: [galerie]
 
 ## Qualifikation
 
-{% include wetty/picture_left.html img="Inoffizieller-iFAO-Outdoor-Kart-Cup-2002/qualygif_8364575207_o.gif" alt="i:FAO Kart" %}
+{% include wetty/picture.html img="Inoffizieller-iFAO-Outdoor-Kart-Cup-2002/qualygif_8364575207_o.gif" alt="i:FAO Kart" %}
 
 
 ### Recent comments
