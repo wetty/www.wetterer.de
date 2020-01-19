@@ -31,7 +31,7 @@ img[data-sizes="auto"] { display: block; width: 100%; }
 
 Hier eigentlich RIAS
 <img
-	src="//placehold.it/100"
+    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 	data-widths="[636, 754, 770, 824, 936, 972, 1022]"
 	data-src="//placehold.it/{width}"
 	data-sizes="auto"
@@ -60,6 +60,19 @@ Und noch eins
 	
 	
 hier ein figure Element:
+
+<figure class="photo-with-exif">
+	<picture>
+        <img
+    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+	data-widths="[636, 754, 770, 824, 936, 972, 1022]"
+	data-src="//placehold.it/{width}"
+	data-sizes="auto"
+	class="lazyload"
+	alt="" />	
+	  </picture>
+	  <figcaption>Das Bild sollte sich der Auflösung anpassen.</figcaption>
+</figure>
 
 <figure class="photo-with-exif">
 	<picture>
