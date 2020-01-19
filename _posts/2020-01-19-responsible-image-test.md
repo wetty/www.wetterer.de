@@ -4,23 +4,6 @@ date: 2020-01-19T10:38:25+01:00
 categories: [Responsive Design]
 ---
 
-Hier ist ein Bild:
-
-<style>
-	.blur-up {
-		-webkit-filter: blur(5px);
-		filter: blur(5px);
-		transition: filter 1400ms, -webkit-filter 1400ms;
-	}
-
-	.blur-up.lazyloaded {
-		-webkit-filter: blur(0);
-		filter: blur(0);
-	}
-
-img[data-sizes="auto"] { display: block; width: 100%; }
-
-</style>
 
 Test von responsible Images
 
