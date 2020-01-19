@@ -22,12 +22,9 @@ img[data-sizes="auto"] { display: block; width: 100%; }
 
 </style>
 
-<img 
-    data-src="https://res.cloudinary.com/demo/image/upload/w_auto,c_scale/smiling_man.jpg" 
-	data-sizes="auto"
-	width="100vw"
-    class="lazyload blur-up cld-responsive" />
+Test von responsible Images
 
+<!--more-->
 
 Hier eigentlich RIAS
 <img
