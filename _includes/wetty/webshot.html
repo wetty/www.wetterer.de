@@ -2,4 +2,13 @@
 {% else if include.param %}
 {% assign plink = include.param %}
 {% endif %}
+{% if false %}
 {% if plink %}<figure class="align-right webshot"><a href="{{ plink }}" title="Die externe Seite {{ plink }} im neuen Tab/Fenster öffnen." target="_blank" rel="noopener noreferrer"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//s.wordpress.com/mshots/v1/{{ plink | cgi_escape }}?w=218" class="lazyload" width="218" height="163" alt="{{ plink }}"></a></figure><noscript><a href="{{ plink }}" title="{{ plink }}"><img src="//s.wordpress.com/mshots/v1/{{ plink | cgi_escape }}?w=218" width="218" height="163" alt="{{ plink }}" ></a></noscript>{% endif %}
+{% endif %}
+
+<figure class="photo-with-exif">
+<a href="{{ plink }}" title="Die externe Seite {{ plink }} im neuen Tab/Fenster öffnen." target="_blank" rel="noopener noreferrer">
+<picture>
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//s.wordpress.com/mshots/v1/{{ plink | cgi_escape }}?w={width}" class="lazyload" itemprop="image" alt="{{ include.alt }}" data-sizes="auto" data-widths="[636, 754, 770, 824, 936, 972, 1022]" />
+</picture></a>
+</figure>
