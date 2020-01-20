@@ -1,3 +1,7 @@
+**<span style="color: red;">*</span> Hinweis externe Links**
+
+Dieser Artikel enthält Links zu bestimmten Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellungen bzw. des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Ich kennzeichne solche Affiliate Links mit einem Sternchen (<span style="color: red;">*</span>).
+
 
 [Moby Dick III]: http://www.moby-dick.de "Segelyacht Moby Dick III"
 [eat and STYLE Hamburg]: http://www.eat-and-style.de/hamburg/Home.html  "eat and STYLE, Hamburg"

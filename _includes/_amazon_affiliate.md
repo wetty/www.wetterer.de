@@ -1,8 +1,8 @@
-**<span style="color: red;">*</span> Hinweis Affiliate Links**
+**<span style="color: red;">**</span> Hinweis Affiliate Links**
 
 Dieser Artikel enthält Affiliate- und Werbelinks bzw. Banner zu bestimmten Drittanbietern. Mit diesen Links/Bannern generiere ich Einnahmen (Werbekostenerstattungen), wenn über diesen Link/Banner beim jeweiligen Drittanbieter eingekauft wird bzw. wenn dessen Seite aufgerufen wird.
 
-Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellungen bzw. des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website und begründet insbesondere keine Kaufverpflichtung. Ich kennzeichne solche Affiliate Links mit einem Sternchen (<span style="color: red;">*</span>).
+Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellungen bzw. des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website und begründet insbesondere keine Kaufverpflichtung. Ich kennzeichne solche Affiliate Links mit zwei Sternchen (<span style="color: red;">**</span>).
 
 [Nikon D750]: https://www.amazon.de/gp/product/B00NINZLKK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wetty-21&creative=6742&linkCode=as2&creativeASIN=B00NINZLKK&linkId=80eb8b3f46e2a11c8c2b0ac46328af01 "Nikon D750 SLR-Digitalkamera (24,3 Megapixel, 8,1 cm (3,2 Zoll) Display, HDMI, USB 2.0) nur Gehäuse schwarz"
 [Nikon Coolpix A]: https://www.amazon.de/gp/product/B00BPMIJOG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wetty-21&creative=6742&linkCode=as2&creativeASIN=B00BPMIJOG&linkId=22ca256d1b4e85cd1935e20d26cad095 "Nikon Coolpix A Digitalkamera (16 Megapixel, 7,6 cm (3 Zoll) LCD-Display, 28mm Weitwinkelobjektiv, Lichtstärke 1:2,8, Full HD Video) titan silber"
