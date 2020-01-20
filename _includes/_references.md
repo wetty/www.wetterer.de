@@ -1,5 +1,4 @@
 
-
 [Moby Dick III]: http://www.moby-dick.de "Segelyacht Moby Dick III"
 [eat and STYLE Hamburg]: http://www.eat-and-style.de/hamburg/Home.html  "eat and STYLE, Hamburg"
 [wiki]: http://wikipedia.org  "Online Encyclopedia"
