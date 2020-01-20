@@ -6,8 +6,8 @@ description: "Alles was man über mich wissen muss."
 {% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2537jpg_4804475182_o.jpg" alt="Thomas Wetterer - Wetty" %}
 
 Ich bin der Autor dieser Seiten.
-<a href="https://plus.google.com/+ThomasWetterer/posts" rel="me">Google+</a>
 
+<hr>
 
 ## Impressum ##
 
