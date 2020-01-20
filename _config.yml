@@ -350,9 +350,11 @@ defaults:
     values:
       layout: single
       read_time: true
-      comments: true
+      author_profile: true
+      read_time: true
+      comments: # true
       share: true
-      picture: "picture.html"
+      related: true
   -
     scope:
       path: ""
