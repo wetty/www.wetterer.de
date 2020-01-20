@@ -1,14 +1,8 @@
 ---
-
 title: "Star Wars Uncut"
 date: 2012-01-24 17:50
-comments: true
-share: true
 link: http://www.starwarsuncut.com/
-categories:
-- Links
-- Star Wars
-- Video
+tags: [Star Wars,Video]
 ---
 {% include wetty/webshot.html %} Star Wars in 15 Sekunden Schnipseln nachgespielt. 
 

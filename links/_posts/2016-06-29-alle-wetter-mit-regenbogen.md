@@ -2,7 +2,6 @@
 title: "Alle Wetter mit Regenbogen"
 date: 2016-06-29T07:33+01:00
 link: http://www.ardmediathek.de/tv/alle-wetter/alle-wetter-ganze-Sendung/hr-fernsehen/Video?bcastId=3350202&documentId=36252468
-tags: [Links]
 excerpt: Alle Wetter Sendung im Hessischen Rundfunk mit dem doppelten Regenbogen Bild von Thomas Wetterer.
 ---
 {% include wetty/webshot.html %} Zum ersten Mal ein Bild eingeschickt bei "Alle Wetter" und gleich dran gekommen :smiley: 

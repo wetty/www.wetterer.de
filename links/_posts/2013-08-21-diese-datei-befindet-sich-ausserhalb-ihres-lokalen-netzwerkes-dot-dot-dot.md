@@ -2,9 +2,7 @@
 title: "Diese Datei befindet sich außerhalb Ihres lokalen Netzwerkes..."
 date: 2013-08-21T10:13:33+02:00
 link: http://www.naggy.de/archives/97-Access-Fehler-Diese-Datei-befindet-sich-ausserhalb-Ihres-Intranets-oder-auf-einer-Webseite.html
-categories: 
-- Links
-- Windows
+tags: [Windows]
 ---
 {% include wetty/webshot.html %} Vor Jahren hatte ich schonmal versucht, die lästige Windows Meldung, die man beim starten von ausführbaren Dateien von einem Netzwerklaufwerk erhält, zu vermeiden.
 

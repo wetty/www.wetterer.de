@@ -1,13 +1,10 @@
 ---
-
 title: "Nomadness"
 date: 2011-05-20 14:38
 comments: true
 share: true
 link: http://www.nomadness.net/
-categories: 
-- Links
-- MP3
+tags: [MP3]
 ---
 {% include wetty/webshot.html %} The home for your Nomad. 
 

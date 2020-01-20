@@ -2,7 +2,6 @@
 title: "Biebesheim am Rheinkilometer 464"
 date: 2016-02-16 08:51
 link: http://www.biebesheim-am-rheinkilometer464.de/
-tags: [Links]
 excerpt: Der Weblog Biebesheim am Rheinkilometer 464 berichtet täglich über Biebesheim und Umgebung. Es gibt viele Bilder, sowie Tipps und Hinweise zu entdecken.
 ---
 {% include wetty/webshot.html %} Der Weblog [Biebesheim am Rheinkilometer 464]{: target="_blank" rel="noopener noreferrer"} berichtet täglich über Biebesheim und Umgebung. Es gibt viele Bilder, sowie Tipps und Hinweise zu entdecken. 

@@ -1,14 +1,8 @@
 ---
-
 title: "TLS bei Postfix"
 date: 2013-01-16 18:04
-comments: true
-share: true
 link: http://forum.parallels.com/showthread.php?t=106832
-categories: 
-- Links
-- Plesk
-- Postfix
+tags: [Plesk,Postfix]
 ---
 {% include wetty/webshot.html %} Postfix bei Plesk 11 erfordert eine TLS Verbindungsverschlüsselung. Einige einfache eMail Clients, wie sie in Geräten wie Druckern oder Datenloggern vorkommen, scheinen damit ein Problem zu haben. Im [Parallels Forum](http://forum.parallels.com/showthread.php?t=106832) fand sich die Lösung.
 
