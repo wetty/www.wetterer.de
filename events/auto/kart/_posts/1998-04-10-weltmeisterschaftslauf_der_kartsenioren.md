@@ -75,7 +75,7 @@ Sehr schnell auf 2 Rädern, mit Wettbewerbserfahrung im Gelände und auf der Str
 ---
 
 ### Oliver
-{% include wetty/image.html class="right plainimg" path=" /images/kart0498/oliver.gif" width=194 height=224 %}
+{% include wetty/image.html class="right plainimg" path="/assets/images/kart0498/oliver.gif" width=194 height=224 %}
 
 **Oliver Bischoff**
 
@@ -101,7 +101,7 @@ Opels schnellster Renninschenör, für den ist nichts zu schwör! Hat als einzig
 ---
 
 ### Herz T.
-{% include wetty/image.html class="right plainimg" path=" /images/kart0498/herzt.gif" width=188 height=276 %}
+{% include wetty/image.html class="right plainimg" path="/assets/images/kart0498/herzt.gif" width=188 height=276 %}
 
 **Thomas Herz**
 
@@ -128,7 +128,7 @@ Hängt immer neben seiner CBR 900, hoffentlich läßt er sich am Karfreitag nich
 ---
 
 ### Dirk
-{% include wetty/image.html class="right plainimg" path=" /images/kart0498/dirk.gif" width=191 height=234 %}
+{% include wetty/image.html class="right plainimg" path="/assets/images/kart0498/dirk.gif" width=191 height=234 %}
 
 **Dirk Sauerbier** 
 
@@ -154,7 +154,7 @@ No Comment
 ---
 
 ### Wetty
-{% include wetty/image.html class="right plainimg" path=" /images/kart0498/wetty.gif" width=215 height=285 %}
+{% include wetty/image.html class="right plainimg" path="/assets/images/kart0498/wetty.gif" width=215 height=285 %}
 
 **Thomas Wetterer** 
 
