@@ -1,0 +1,15 @@
+{% if page.series %}{% assign serie = page.series.name | downcase %}{% endif %}
+{% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
+{% if serie %}
+{% assign pre = false %}
+<div class="series">Dieser Artikel ist Teil der Serie: <a href="{{ site.url }}/categories/&#35;{{ serie | downcase | uri_escape }}" title="Serie: {{ serie }}">{{ serie }}</a><br />
+{% for post in site.categories.[serie] reversed %}{% if current == true %}
+		Lesen Sie weiter: <a class="" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+{% assign current = false %}{% endif %}
+{% if post.id == page.id %}{% assign current = true %}	{% if pre == true %}
+<!--			<a class="left" href="{{ preurl }}" title="{{ pretitle }}">Zurück zu {{ pretitle }}</a>-->
+{% endif %}{% endif %}{% assign pretitle = post.title %}{% assign preurl = post.url %}	{% assign pre = true %}{% endfor %}{% if current == true %}
+	Das war der letzte Artikel der Serie: <a href="{{ site.url }}/categories/&#35;{{ page.series.name | downcase | uri_escape }}" title="Serie: {{ serie }}">{{ serie }}</a>
+{% endif %}
+<!--<nav class="pagination" role="navigation"></nav>-->
+</div>{% endif %}
