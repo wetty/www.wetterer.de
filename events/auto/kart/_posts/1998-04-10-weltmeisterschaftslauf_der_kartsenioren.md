@@ -4,6 +4,26 @@ date: 1998-04-10 16:05
 tags: [galerie]
 ---
 
+<style>
+
+table {
+    display: table;
+}
+
+img.right {
+    float: right;
+    margin-bottom: 0.8em;
+    margin-left: 1.5em;
+}
+
+img.left {
+    float: left;
+    margin-bottom: 0.8em;
+    margin-right: 1.5em;
+}
+</style>
+	
+
 {% include wetty/picture_right.html img="Weltmeisterschaftslauf-der-Kartsenioren/i~000057_8130325817_o.jpg" alt="Kart" %}
 
 
