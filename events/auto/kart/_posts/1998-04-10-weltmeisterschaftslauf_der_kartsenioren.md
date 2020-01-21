@@ -21,6 +21,11 @@ img.left {
     margin-bottom: 0.8em;
     margin-right: 1.5em;
 }
+
+h2 {
+    clear: both;
+}
+
 </style>
 	
 
