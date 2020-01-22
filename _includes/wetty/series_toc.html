@@ -1,16 +1,15 @@
-{% if page.series %}
+{% if page.series and false %}
+<!-- wird nicht benötigt -->
   {% assign serie = page.series.name %}
-{% else %}
-<!-- Nimmt damit als Serientitel den Verzeichnisnamen -->
-{% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
 {% endif %}
+{% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
 {% if serie %}
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
 	  <li>
-	  <span class="nav__sub-title">{{ serie }}</span>
+	  <span class="nav__sub-title">{{ page.series.name }}</span>
       <ul>
 	    {% for post in site.categories.[serie] reversed %}
       <li>
