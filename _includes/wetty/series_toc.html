@@ -1,12 +1,23 @@
 {% if page.series %}{% assign serie = page.series.name | downcase %}{% endif %}
 {% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
 {% if serie %}
-<ul id="markdown-toc">
-<li class="series_lh"><h2>Artikel Serie: {{ serie }}</h2></li>
-{% for post in site.categories.[serie] reversed %}
-{% if post.id == page.id %}<li class="series_li"><a href="{{ site.url }}{{ post.url }}">&rarr;&nbsp;{{ post.title }}</a></li>
-{% else %}
-<li class="series_li"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+	  <li>
+	  <span class="nav__sub-title">{{ serie }}</span>
+      <ul>
+	    {% for post in site.categories.[serie] reversed %}
+      <li>
+		  {% if post.id == page.id %}
+            <a href="{{ site.url }}{{ post.url }}" class="active">&rarr;&nbsp;{{ post.title }}</a>
+          {% else %}
+            <a href="{{ site.url }}{{ post.url }}" class="">{{ post.title }}</a>
+          {% endif %}
+      </li>
+    {% endfor %}
+      </li>
+  </ul>
+</nav>
 {% endif %}
-{% endfor %}
-</ul>{% endif %}

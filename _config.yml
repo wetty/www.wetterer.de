@@ -569,7 +569,7 @@ defaults:
     values:
       tags: [Istrien, Kroatien]
       series:
-        name: "2019-07-07-istrien-2019"
+        name: "Istrien 2019"
   -
     scope:
       path: "events/konzert"
