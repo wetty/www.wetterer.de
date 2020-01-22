@@ -1,5 +1,9 @@
-{% if page.series %}{% assign serie = page.series.name | downcase %}{% endif %}
+{% if page.series %}
+  {% assign serie = page.series.name %}
+{% else %}
+<!-- Nimmt damit als Serientitel den Verzeichnisnamen -->
 {% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
+{% endif %}
 {% if serie %}
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
