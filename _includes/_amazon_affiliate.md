@@ -1,4 +1,4 @@
-**<span style="color: red;">**</span> Hinweis Affiliate Links**
+**<span style="color: red;">↗*</span> Hinweis Affiliate Links**
 
 Dieser Artikel enthält Affiliate- und Werbelinks bzw. Banner zu bestimmten Drittanbietern. Mit diesen Links/Bannern generiere ich Einnahmen (Werbekostenerstattungen), wenn über diesen Link/Banner beim jeweiligen Drittanbieter eingekauft wird bzw. wenn dessen Seite aufgerufen wird.
 
