@@ -1,8 +1,6 @@
-{% if !page.full_excerpt %}
 **<span style="color: red;">*</span> Hinweis externe Links**
 
-Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Externen Links sind mit einem Sternchen (<span style="color: red;">*</span>) gekennzeichnet.
-{% endif %}
+Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Externen Links sind mit einem (<span style="color: red;">↗</span>) gekennzeichnet.
 
 
 [Moby Dick III]: http://www.moby-dick.de "Segelyacht Moby Dick III"
