@@ -448,6 +448,8 @@ defaults:
       tags: [Segeln, Moby Dick III, Norwegen]
       series:
         name: "2010-06-20-longyearbyen-tromsoe-2010"
+      header:
+        image: headers/header_1070.jpg
       image:
         feature: headers/header_1070.jpg
   -
