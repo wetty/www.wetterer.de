@@ -450,7 +450,7 @@ defaults:
       series:
         name: "Longyearbyen-Tromsö 2010"
       header:
-        image: assets/images/headers/header_1070.jpg
+        image: headers/header_1070.jpg
       image:
         feature: headers/header_1070.jpg
   -
