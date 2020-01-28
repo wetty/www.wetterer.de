@@ -549,10 +549,12 @@ defaults:
     scope:
       path: "reisen/2016-11-11-atlantik-ueberquerung-2016"
       type: posts
+      header:
+        image: atlantik-2016/Atlantik_DSC_1049.jpg
     values:
       tags: [Segeln, Moby Dick III, Atlantik, Karibik]
       series:
-        name: "2016-11-11-atlantik-2016"
+        name: "Atlantik 2016"
   -
     scope:
       path: "reisen/2017-05-11-ostkueste-usa-2017"
