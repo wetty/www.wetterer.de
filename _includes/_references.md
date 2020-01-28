@@ -132,3 +132,5 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [The BEST DAMN Nikkor you MUST BUY]: https://youtu.be/Fn4v4I40Fvo "The Angry Photographer: The BEST DAMN Nikkor you MUST BUY. Nikon Lens Secrets to save you $$$$$"
 [Trapan]: http://trapan.hr/ "Love, energy and courage are the main drivers of the winery Trapan."
 [Chiavalon]: https://www.chiavalon.hr/ "Chiavalon Organic Extra Virgin Olive Oil | Vodnjan | Istria"
+[Octopress]: http://octopress.org/ "A blogging framework for hackers."
+[DokuWiki]: http://www.dokuwiki.org "simple to use and highly versatile Open Source wiki software"

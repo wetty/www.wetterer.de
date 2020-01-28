@@ -380,12 +380,13 @@ defaults:
     values:
       layout: single
       body_id: page
-  -
-    scope:
-      path: "_posts/sitenews"
-      type: "posts"
-    values:
-      categories: [Sitenews]
+#  -
+#    scope:
+#      path: "_posts/sitenews"
+#      type: "posts"
+#    values:
+#      categories: [Sitenews]
+
 #  -
 #    scope:
 #      path: "reisen"
