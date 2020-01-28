@@ -2,6 +2,7 @@
 title: "Garage"
 order: 1
 description: "Im Laufe der Jahre kamen einige Motorräder zusammen. Einige davon sind längst verkauft, andere davon sind immer noch vorhanden."
+permalink: /sonstiges/garage/
 --- 
 
 {% include wetty/image.html class="center" path="/assets/images/garage/garage.jpg" width=518 height=236 %}
