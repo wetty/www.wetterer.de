@@ -565,7 +565,7 @@ defaults:
         name: "2017-05-11-ostkueste-usa-2017"
   -
     scope:
-      path: "reisen/2018-06-25-neufundland-2018"
+      path: "reisen/neufundland-2018"
       type: posts
     values:
       tags: [Neufundland, Kanada]
