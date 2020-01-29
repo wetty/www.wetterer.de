@@ -1,9 +1,7 @@
 ---
-layout: archive
+title: "Events"
+layout: category
+taxonomy: events
+permalink: /events/
+full_excerpt: true
 ---
-
-{{ content }}
-
-<div class="entries-{{ page.entries_layout }}">
-  {% include posts-category.html taxonomy=page.categories[1] type=page.entries_layout %}
-</div>
