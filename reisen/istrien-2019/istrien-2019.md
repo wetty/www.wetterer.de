@@ -4,4 +4,6 @@ layout: category
 permalink: /reisen/istrien-2019/
 taxonomy: istrien-2019
 sort_order: reverse
+redirect_from:
+  - /istrien-2019/
 ---
