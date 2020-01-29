@@ -5,6 +5,7 @@
 {% if page.categories[0] == "reisen" %}{% assign serie = page.categories[1] | downcase %}{% endif %}
 {% assign categories_list = site.categories %}
 {% assign serie = page.category.last | downcase %}
+{% assign serie = page.categories | last %}
 {% if serie %}
 <nav class="nav__list">
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
