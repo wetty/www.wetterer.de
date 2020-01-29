@@ -406,14 +406,14 @@ defaults:
       type: posts
     values:
       series:
-        name: "2000-07-30-formel-1-2000-hockenheim"
+        name: "Formel 1 2000 Hockenheim"
   -
     scope:
       path: "events/motorrad/enduro/2014-03-18-klassik-gelaendefahrt-2014"
       type: posts
     values:
       series:
-        name: "2014-03-18-klassik-gelaendefahrt-2014"
+        name: "Klassik Geländefahrt 2014"
   -
     scope:
       path: "reisen/italien-2006"
