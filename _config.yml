@@ -409,43 +409,42 @@ defaults:
         name: "2014-03-18-klassik-gelaendefahrt-2014"
   -
     scope:
-      path: "reisen/2006-08-04-italien-2006"
+      path: "reisen/italien-2006"
       type: posts
     values:
       series:
-        name: "2006-08-04-italien-2006"
+        name: "Italien 2006"
   -
     scope:
-      path: "reisen/2008-04-23-talfahrt-2008"
-      type: posts
-    values:
-      tags: [Segeln]
-      series:
-        name: "2008-04-23-talfahrt-2008"
-  -
-    scope:
-      path: "reisen/2008-06-22-kanada-2008"
-      type: posts
-    values:
-      series:
-        name: "2008-06-22-kanada-2008"
-  -
-    scope:
-      path: "reisen/2009-05-21-jugendtoern-norwegen-2009"
+      path: "reisen/talfahrt-2008"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2009-05-21-jugendtoern-norwegen-2009"
+        name: "Talfahrt 2008"
   -
     scope:
-      path: "reisen/2009-08-09-kampanien-2009"
+      path: "reisen/kanada-2008"
+      type: posts
+    values:
+      series:
+        name: "Kanada 2008"
+  -
+    scope:
+      path: "reisen/jugendtoern-norwegen-2009"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Jugendtörn Norwegen 2009"
+  -
+    scope:
+      path: "reisen/kampanien-2009"
       type: posts
     values:
       tags: [Italien]
-      permalink: /reisen/kampanien-2009/
       series:
-        name: "2009-08-09-kampanien-2009"
+        name: "Kampanien 2009"
   -
     scope:
       path: "reisen/longyearbyen-tromsoe-2010"
