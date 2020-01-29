@@ -443,11 +443,12 @@ defaults:
       type: posts
     values:
       tags: [Italien]
+      permalink: /reisen/kampanien-2009/
       series:
         name: "2009-08-09-kampanien-2009"
   -
     scope:
-      path: "reisen/2010-06-20-longyearbyen-tromsoe-2010"
+      path: "reisen/longyearbyen-tromsoe-2010"
       type: posts
     values:
       tags: [Segeln, Moby Dick III, Norwegen]
@@ -459,36 +460,36 @@ defaults:
         feature: headers/header_1070.jpg
   -
     scope:
-      path: "reisen/2010-07-04-lofoten-tromsoe-bodoe-2010"
+      path: "reisen/lofoten-tromsoe-bodoe-2010"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2010-07-04-lofoten-tromsoe-bodoe-2010"
+        name: "Lofoten Tromsö Bodö 2010"
   -
     scope:
-      path: "reisen/2012-05-03-ueberfuehrungstoern-2012"
+      path: "reisen/ueberfuehrungstoern-2012"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2012-05-03-ueberfuehrungstoern-2012"
+        name: "Überführungstörn 2012"
   -
     scope:
-      path: "reisen/2012-08-11-schottland-2012"
+      path: "reisen/schottland-2012"
       type: posts
     values:
       tags: [Segeln, Moby Dick III, Schottland]
       series:
-        name: "2012-08-11-schottland-2012"
+        name: "Schottland 2012"
   -
     scope:
-      path: "reisen/2012-08-25-orkney_inseln_2012"
+      path: "reisen/orkney-inseln-2012"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2012-08-25-orkney_inseln_2012"
+        name: "Orkney Inseln 2012"
   -
     scope:
       path: "reisen/orkneys-2013"
