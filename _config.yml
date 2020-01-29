@@ -30,10 +30,11 @@ url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_th
 version: ".34"
 
 url_cloudinary_responsive: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_auto,c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/
+
  
-head_scripts:
-  - /assets/js/ls.rias.min.js
-  - /assets/js/lazysizes.min.js
+#head_scripts:
+#  - /assets/js/ls.rias.min.js
+#  - /assets/js/lazysizes.min.js
 #  - /assets/js/cloudinary-core-shrinkwrap.min.js
 #  - https://code.jquery.com/jquery-3.3.1.min.js
 #  - /assets/js/your-custom-head-script.js
