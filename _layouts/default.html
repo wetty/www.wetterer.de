@@ -22,6 +22,19 @@ layout: compress
 
     <div class="initial-content">
       {{ content }}
+      {% if site.owner.google.ad-client %}
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+             style="display:block; border-bottom: initial;"
+             data-ad-client="{{ site.owner.google.ad-client }}"
+             data-ad-slot="{{ site.owner.google.ad-slot }}"
+             data-ad-format="auto"></ins>
+        </div>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+      {% endif %}
     </div>
 
     {% if site.search == true %}

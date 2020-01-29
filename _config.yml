@@ -135,6 +135,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# Site owner
+owner:
+  google:
+    ad-client: ca-pub-7756413429414204
+    ad-slot: 7480419251
+
 
 # Site Author
 author:
