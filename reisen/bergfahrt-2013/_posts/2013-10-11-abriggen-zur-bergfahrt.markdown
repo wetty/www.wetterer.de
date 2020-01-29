@@ -1,7 +1,6 @@
 ---
 title: Abriggen zur Bergfahrt
 date: 2013-10-11 12:34
-tags: [ReiseStart]
 ---
 Gestern früh war die geplante Abfahrt in Gernsheim nach Kiel um 06:00 Uhr. Am Rasthof Pfefferhöhe gabs beim goldenen M erstmal eine Portion Eier mit Speck. Wie sich später rausstellte, sollte das die einzige Mahlzeit bis 21:30 Uhr gewesen sein.
 

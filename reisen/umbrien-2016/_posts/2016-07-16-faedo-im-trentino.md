@@ -1,7 +1,6 @@
 ---
 title: "Faedo im Trentino "
 date: 2016-07-16 21:23:44+0200
-tags: [ReiseStart]
 ---
 Bereits um 4:30 Uhr ging der Radio Wecker an. Die Nachrichten meldeten gleich den Militärputsch in der Türkei. Abschluß bildeten die Verkehrsmeldung, in denen zu der frühen Stunde bereits etliche Staus gemeldet wurden. Das kann ja was werden.
 

@@ -1,7 +1,6 @@
 ---
 title: "Anreise nach Ogliastro Marina"
 date: 2009-08-09 15:31
-tags: [ReiseStart]
 ---
 Wir hatten bereits den frühen Airliner Bus um 07:36 Uhr nach Frankfurt erwischt. Folglich waren wir bereits kurz nach acht am Flughafen. Der Check In Schalter hat dann kurz vor neun geöffnet. Damit blieben uns zwei Stunden Freizeit auf dem Frankfurter Flughafen.
 

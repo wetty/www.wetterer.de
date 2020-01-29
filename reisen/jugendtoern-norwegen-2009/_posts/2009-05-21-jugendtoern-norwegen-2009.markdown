@@ -1,7 +1,6 @@
 ---
 title: "Jugendtörn Norwegen 2009"
 date: 2009-05-21 02:03
-tags: [ReiseStart]
 ---
 Es geht wieder segeln. Der Jugendtörn startet in wenigen Stunden seinen Norwegentrip von Stavanger nach Bergen. Dieses mal in der kleinsten Besetzung seit Menschengedenken. Von 6 Crewmitgliedern hat kurz vor Abflug noch einer abgesagt. Somit sind wir insgesamt mit unserem Käpt'n zu sechst.
 

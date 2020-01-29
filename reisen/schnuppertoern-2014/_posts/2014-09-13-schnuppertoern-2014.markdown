@@ -1,7 +1,6 @@
 ---
 title: "Schnuppertörn 2014"
 date: 2014-09-13T21:50:26+02:00
-tags: [ReiseStart]
 ---
 Um viertel vor 10 Uhr Abends kam die gemischte Darmstädter/Pfälzer Crew bereits zum abholen vorbei. Geplant war viertel nach, gerechnet hatte ich mit 22:30 Uhr.
 

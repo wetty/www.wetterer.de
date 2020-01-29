@@ -1,7 +1,6 @@
 ---
 title: "Lofoten - Crewwechsel Tromsö"
 date: 2010-07-04 16:34
-tags: [ReiseStart]
 ---
 Am Freitag Abend gegen 18:10 Uhr landete der Flieger mit dem Jugendtörn. Wie fast zu erwarten war, waren die Jungs von der Kleidung her den über 30 Grad in Deutschland angepasst. Die 10 Grad in Tromsö waren da ein leichter Kälteschock.
 

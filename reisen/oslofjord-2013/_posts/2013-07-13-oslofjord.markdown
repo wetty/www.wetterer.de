@@ -1,7 +1,6 @@
 ---
 title: "Oslofjord"
 date: 2013-07-13 14:58
-tags: [ReiseStart]
 ---
 Morgen um diese Zeit werde ich bereits wieder auf der [Moby Dick III] sein. Diesmal geht es von Oslo aus durch den Oslofjord bis zu den Kosterinseln. Montag in 8 Tagen geht es dann schon wieder zurück. Irgendwo um die norwegisch-schwedische Grenze rum, werde ich von Bord gehen und per Bus bzw. Zug zurück nach Oslo zum Flughafen fahren. Ich weiss gar nicht mehr, wann ich das letzte mal einen so kurzen Törn gemacht habe.
 

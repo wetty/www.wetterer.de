@@ -1,7 +1,6 @@
 ---
 title: "Überführungstörn 2012"
 date: 2012-05-03 21:31
-tags: [ReiseStart]
 ---
 {% include wetty/picture_left.html img="Moby-Dick-III-Inbetriebnahme-2012/dsc_3012_7159671114_o.jpg" alt="Moby-Dick" %}
 

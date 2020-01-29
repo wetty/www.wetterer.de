@@ -1,7 +1,6 @@
 ---
 title: "Auf nach Spitzbergen"
 date: 2010-06-20 16:34
-tags: [ReiseStart]
 excerpt: "Mit Gipsarm und Steuerrad nach Spitzbergen."
 ---
 

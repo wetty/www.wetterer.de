@@ -1,7 +1,6 @@
 ---
 title: "Vancouver Calgary Vancouver Island 2015"
 date: 2015-08-04 18:04:39
-tags: [ReiseStart]
 ---
 Bei den gestrigen Reisevorbereitungen kam uns nochmals ein Spatz dazwischen, der nach einem lauten Geschrei wie ein Stein aus unserer Birke fiel und völlig benommen im Rasen sitzen blieb. Wir diagnostizierten Hitzschlag und verfrachteten ihn in einen Käfig und stellten ihn in den kühlen Keller. Nachdem er völlig apatisch auf dem Rücken liegen Flugübungen machte, dachten wir, das er es wohl nicht mehr schaffen würde.
 
