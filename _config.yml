@@ -491,60 +491,60 @@ defaults:
         name: "2012-08-25-orkney_inseln_2012"
   -
     scope:
-      path: "reisen/2013-05-19-orkneys-2013"
+      path: "reisen/orkneys-2013"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2013-05-19-orkneys-2013"
+        name: "Orkneys 2013"
   -
     scope:
-      path: "reisen/2013-07-13-oslofjord-2013"
+      path: "reisen/oslofjord-2013"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2013-07-13-oslofjord-2013"
+        name: "Oslofjord 2013"
   -
     scope:
-      path: "reisen/2013-10-11-bergfahrt-2013"
+      path: "reisen/bergfahrt-2013"
       type: posts
     values:
       tags: [Segeln]
       series:
-        name: "2013-10-11-bergfahrt-2013"
+        name: "Bergfahrt 2013"
   -
     scope:
-      path: "reisen/2014-06-07-englischer-kanal-2014"
+      path: "reisen/englischer-kanal-2014"
       type: posts
     values:
-      tags: [Segeln]
+      tags: [Segeln,Moby Dick III]
       series:
-        name: "2014-06-07-englischer-kanal-2014"
+        name: "Englischer Kanal 2014"
   -
     scope:
-      path: "reisen/2014-09-13-schnuppertoern-2014"
+      path: "reisen/schnuppertoern-2014"
       type: posts
     values:
-      tags: [Segeln]
+      tags: [Segeln,Moby Dick III]
       series:
-        name: "2014-09-13-schnuppertoern-2014"
+        name: "Schnuppertoern 2014"
   -
     scope:
-      path: "reisen/2015-08-04-kanada-2015"
+      path: "reisen/kanada-2015"
       type: "posts"
     values:
       tags: [Kanada]
       series:
-        name: "2015-08-04-kanada-2015"
+        name: "Kanada 2015"
   -
     scope:
-      path: "reisen/2016-07-16-umbrien-2016"
+      path: "reisen/umbrien-2016"
       type: posts
     values:
       tags: [Umbrien, Italien]
       series:
-        name: "2016-07-16-umbrien-2016"
+        name: "Umbrien 2016"
   -
     scope:
       path: "reisen/atlantik-ueberquerung-2016"

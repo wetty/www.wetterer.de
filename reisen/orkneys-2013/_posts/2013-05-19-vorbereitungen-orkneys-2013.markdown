@@ -1,7 +1,6 @@
 ---
 title: "Vorbereitungen Orkneys 2013"
 date: 2013-05-19 11:49
-tags: [ReiseStart]
 ---
 Die Winterarbeiten an der [Moby Dick III] konnten nicht komplett abgeschlossen werde. Nicht zuletzt durch das schlechte Wetter verzögerten sich z.B. der neue Anstrich des Deckshauses und des Cockpits.
 Um die letzten Arbeiten abzuschliessen und die [Moby Dick III] für die diesjährige Saison startklar zu bekommen, ging mein Törn bereits am Donnerstag, den 16. Mai 2013 los. Neben dem abpolstern der Salingnoks konnte noch der zweite Gaskocher und die neue Frischwassser Fußpumpe installiert werden.
