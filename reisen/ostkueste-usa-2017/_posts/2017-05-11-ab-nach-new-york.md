@@ -1,7 +1,6 @@
 ---
 title: "Ab nach New York"
 date: 2017-05-11 22:09:55+0100
-tags: [ReiseStart, Segeln, Moby Dick III, USA]
 ---
 04:15 - Der erste Wecker reist mich aus dem Schlaf. Einmal Schlummern drücken und nochmals umdrehen.    
 04:20 - Der nächste Wecker meldet sich. Auch er wird mit der schlummern Taste abgebrochen.    

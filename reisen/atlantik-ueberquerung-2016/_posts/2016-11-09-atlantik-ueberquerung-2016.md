@@ -1,7 +1,6 @@
 ---
 title: "Atlantik Überquerung 2016"
 date: 2016-11-09 13:21:17+0100
-tags: [ReiseStart, Segeln, Moby Dick III, Atlantik, Karibik]
 ---
 Vor 40 Jahren, als es auf die höhere Schule ging, gab es in unsere Clique einen, dessen Vater begonnen hatte eine Segelyacht in seinem Garten in Gernsheim zu bauen.
 

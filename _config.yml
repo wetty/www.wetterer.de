@@ -547,7 +547,7 @@ defaults:
         name: "2016-07-16-umbrien-2016"
   -
     scope:
-      path: "reisen/2016-11-11-atlantik-ueberquerung-2016"
+      path: "reisen/atlantik-ueberquerung-2016"
       type: posts
     values:
       tags: [Segeln, Moby Dick III, Atlantik, Karibik]
@@ -557,12 +557,12 @@ defaults:
         name: "Atlantik 2016"
   -
     scope:
-      path: "reisen/2017-05-11-ostkueste-usa-2017"
+      path: "reisen/ostkueste-usa-2017"
       type: posts
     values:
       tags: [Segeln, Moby Dick III, USA]
       series:
-        name: "2017-05-11-ostkueste-usa-2017"
+        name: "Ostküste USA 2017"
   -
     scope:
       path: "reisen/neufundland-2018"
@@ -598,6 +598,9 @@ collections:
     permalink: /sonstiges/:collection/:path/
     sidebar:
       nav: "garage"
+  reisen:
+    output: true
+    permalink: /:collection/:path/
   mp3:
     output: true
     permalink: /sonstiges/:collection/:path/
