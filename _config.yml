@@ -570,7 +570,7 @@ defaults:
     values:
       tags: [Neufundland, Kanada]
       series:
-        name: "2018-06-25-neufundland-2018"
+        name: "Neufundland 2018"
   -
     scope:
       path: "reisen/istrien-2019"
