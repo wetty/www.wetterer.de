@@ -22,7 +22,6 @@ layout: compress
 
     <div class="initial-content">
       {{ content }}
-      {% if site.owner.google.ad-client %}
       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <div align="center" style="margin: 1em 0;">
         <ins class="adsbygoogle"
@@ -34,6 +33,8 @@ layout: compress
         <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
+      {% if site.owner.google.ad-client %}
+	  <!-- Site Owner google ad-client-->
       {% endif %}
     </div>
 
