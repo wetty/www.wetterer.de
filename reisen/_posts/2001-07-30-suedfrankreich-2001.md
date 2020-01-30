@@ -1,7 +1,7 @@
 ---
 title: "Südfrankreich 2001"
 date: 2001-07-30 19:21
-tags: [ReiseStart,Galerie]
+tags: [Galerie]
 ---
 Grand Canyon Du Verdon 
 

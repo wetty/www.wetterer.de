@@ -1,7 +1,7 @@
 ---
 title: "START Ski Happening 1999"
 date: 1999-01-16 15:44
-tags: [ReiseStart,Galerie]
+tags: [Galerie]
 ---
 Vom 11.01.1999 bis zum 16.01.1999 war es wieder mal soweit, **START** Das Magazin lud zum **START** Ski Happening nach Hopfgarten in Österreich. Wie es war läßt sich in der Ausgabe 01/99 nachlesen. Eine kleines Photoalbum gibts natürlich auch.
 
