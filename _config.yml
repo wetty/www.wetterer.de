@@ -402,14 +402,14 @@ defaults:
 #      category_depth: 2
   -
     scope:
-      path: "events/auto/formel1/2000-07-30-formel-1-2000-hockenheim"
+      path: "events/auto/formel1/formel-1-2000-hockenheim"
       type: posts
     values:
       series:
         name: "Formel 1 2000 Hockenheim"
   -
     scope:
-      path: "events/motorrad/enduro/2014-03-18-klassik-gelaendefahrt-2014"
+      path: "events/motorrad/enduro/klassik-gelaendefahrt-2014"
       type: posts
     values:
       series:
