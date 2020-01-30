@@ -1,8 +1,6 @@
 ---
 title: "Super Moto Training Hockenheim 2008"
 date: 2008-06-03 12:03
-categories: 
-- Supermoto
 ---
 {% include wetty/picture_left.html img="Blog/img_4588jpg_3890297732_o.jpg" alt="Super Moto" %}
 Gestern war der erste Versuch mich durch trainieren auf die Super Moto Veranstaltung in Bensheim am kommenden Samstag vorzubereiten. [Achim Trinkner](http://www.trinkner.de) hatte  zu einem Training am Hockenheimring eingeladen. Im Gegensatz zu letztem Jahr, wurde die Strecke hinter der Mercedes Tribüne ausgesteckt. Die Strecke war wie immer recht flüssig, und bot den Racern auch die Möglichkeit für den ein oder anderen Bremsdrift.

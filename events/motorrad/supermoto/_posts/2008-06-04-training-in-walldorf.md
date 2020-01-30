@@ -1,8 +1,6 @@
 ---
 title: "Super Moto Training Walldorf 2008"
 date: 2008-06-04 22:36
-categories: 
-- Supermoto
 ---
 Nachdem ich gestern nochmal am Mopped geschraubt hab, und heut auch nochmal kurz, konnte ich erst gegen 16:30 Uhr nach Walldorf aufbrechen.  Zu dem Zeitpunkt regnete es in Gernsheim bereits was das Zeug hergab. Der Optimismus, dass es in Walldorf noch trocken ist, schwand auf der Autobahn des öfteren, da der Regen mittlerweile Wolkenbruchartig war.   Ab Höhe Dossenheim war die Regenfront erreicht, und das Wetter war gut.
 

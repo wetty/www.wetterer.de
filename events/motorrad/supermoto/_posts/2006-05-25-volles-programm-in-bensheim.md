@@ -1,8 +1,6 @@
 ---
 title: "Volles Programm in Bensheim"
 date: 2006-05-25 17:55
-categories: 
-- Supermoto
 ---
 Nun wieder mit der Startnummer 42 bei den Amateuren. Das Wetter war das schlechteste seit Jahren. 
 
