@@ -6,7 +6,6 @@ description: "Alles was kein Platz im Menu gefunden hat."
 --- 
 {% assign sonstiges = site.sonstiges | sort: "order" %}
 
-## Sonstiges 
 
 {% for son in sonstiges %}
   * [{{ son.title }}]({{ son.url }}): {{ son.description }}{% endfor %}
