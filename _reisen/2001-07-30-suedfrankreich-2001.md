@@ -1,11 +1,9 @@
 ---
 title: "Südfrankreich 2001"
 date: 2001-07-30 19:21
-tags: [Galerie]
+layout: category
+permalink: /reisen/suedfrankreich-2001/
+taxonomy: suedfrankreich-2001
+redirect_from:
+  - /suedfrankreich-2001/
 ---
-Grand Canyon Du Verdon 
-
-<!--more-->
-
-{% include wetty/gallery.html data=site.data.Suedfrankreich-2001 %}
-

@@ -1,0 +1,13 @@
+---
+title: "Ligurien 1998"
+date: 1998-10-28 16:59
+tags: [ReiseStart,Galerie]
+---
+Assietta und Ligurische.
+
+Kurzerhand die KTM vom Super Moto Trimm wieder auf Geländeräder gestellt, ging es per Autoreisezug der Assietta und der Ligurischen entgegen.
+
+<!--more-->
+
+{% include wetty/gallery.html data=site.data.Ligurien-1998 %}
+
