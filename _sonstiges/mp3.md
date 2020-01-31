@@ -3,6 +3,8 @@ title: "MP3 Player"
 order: 4
 description: "Sammlung meiner MP3 Player."
 permalink: /sonstiges/mp3/
+redirect_from:
+  - /mp3/
 --- 
 {% assign mp3 = site.mp3 | sort: "order" %}
 

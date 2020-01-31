@@ -3,6 +3,8 @@ title: "fli4l"
 order: 5
 description: "Wenn schon ein Router, dann was besonderes."
 permalink: /sonstiges/fli4l/
+redirect_from:
+  - /fli4l/
 --- 
 ### Was ist Fli4L?
 

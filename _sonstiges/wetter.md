@@ -3,6 +3,8 @@ title: "Wetter"
 order: 7
 description: "War mal das Wetter bei mir, bzw. die Temperaturen."
 permalink: /sonstiges/wetter/
+redirect_from:
+  - /wetter/
 ---
 Mein Server, der das Wetter immer gemacht hat, hat nach etlichen Jahren im November 2015 zum Teil seinen Geist aufgegeben. Daher gibt es hier leider bis auf weiteres kein Wetter bzw. keine Temperaturen mehr.
 
