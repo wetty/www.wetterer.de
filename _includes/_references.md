@@ -68,6 +68,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Kennedy Space Center]: https://www.kennedyspacecenter.com/ "Kennedy Space Center"
 [MSC Wartturm]: https://www.mscw.de/ "Motorsportclub Wartturm e.V. im ADAC"
 [Intermoto 2002]: https://saarmesse.de/ "messe saar - sehen, fühlen, erleben"
+[Intermoto 2003]: https://saarmesse.de/ "messe saar - sehen, fühlen, erleben"
 [Space X]: http://www.spacex.com/ "SpaceX designs, manufactures and launches advanced rockets and spacecraft"
 [Bubba Gump]: http://www.bubbagump.com/ "Great Food, Great Fun, Great Party."
 [Quidi Vidi Brewery]: https://quidividibrewery.ca/ "Quidi Vidi Brewery Iceberg Beer"
