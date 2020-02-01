@@ -20,6 +20,6 @@ Jetzt gönn ich mir ein Paulaner und schmier mir mein Abendbrot und warte bis di
 
 Aus der Bordanlage kommen zufällige Titel von meinem USB Stick.
 
-Weiter geht es mit dem Bericht [Orkney Inseln 2012](/2012/08/25/orkney_inseln_2012/) 
+Weiter geht es mit dem Bericht [Orkney Inseln 2012]({% post_url /reisen/orkney-inseln-2012/2012-08-25-orkney_inseln_2012 %}) 
 
 {% include _references.md %}
