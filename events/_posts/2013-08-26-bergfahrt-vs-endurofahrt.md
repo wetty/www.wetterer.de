@@ -1,7 +1,7 @@
 ---
 title: "Bergfahrt vs. Endurofahrt"
 date: 2013-08-26T09:54:11+02:00
-categories: 
+tags: 
 - Moby Dick III
 - Endurofahrt
 ---

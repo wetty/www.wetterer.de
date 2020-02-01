@@ -1,8 +1,6 @@
 ---
 title: "Eat'n'Style Wiesbaden"
 date: 2008-05-18 13:25
-categories: 
-- Events
 ---
 {% include wetty/picture_left.html img="Blog/dscf1214jpg_3890240416_o.jpg" alt="Eat n Style" %}
 
