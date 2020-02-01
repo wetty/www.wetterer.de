@@ -3,7 +3,7 @@ title: "SWR3 Grillparty 1. Mai 2014"
 date: 2014-05-02T13:14:52+02:00
 no_excerpt: true
 tags:
-- galerie
+- Galerie
 - Fotografie
 - grillen
 ---

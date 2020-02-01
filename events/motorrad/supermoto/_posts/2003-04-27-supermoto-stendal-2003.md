@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Stendal 2003"
 date: 2003-04-27 14:27
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 {% include wetty/image.html class="left" path="/assets/images/supermoto/2003/stendal/plakat.jpg" %}
 

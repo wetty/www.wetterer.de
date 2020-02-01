@@ -1,8 +1,8 @@
 ---
 title: "Hommage - Super Moto in Bensheim 2008"
 date: 2008-05-29 11:46
-categories: 
-- Supermoto
+tags: 
+
 ---
 Jahre sind ins Land gegangen, an denen ich an Christi Himmelfahrt nicht  ins Crumschter Wäldchen geradelt bin um mit den Jungs genüsslich einen  zu heben. Nicht weil dass keinen Spaß bringen würde, oder ich die daraus  entstehenden Nachwehen nicht ertragen wollte. Nein, natürlich nicht.
 

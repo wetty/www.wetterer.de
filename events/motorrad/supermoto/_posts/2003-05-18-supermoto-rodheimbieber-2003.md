@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Rodheim Bieber 2003"
 date: 2003-05-18 14:59
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Ich starte bei den Amateuren mit der Startnummer 42.
 

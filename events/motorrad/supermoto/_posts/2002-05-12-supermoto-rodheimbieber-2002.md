@@ -1,8 +1,8 @@
 ---
 title: "Super Moto Rodheim-Bieber 2002"
 date: 2002-05-12 17:27
-categories: 
-- Supermoto
+tags: 
+
 ---
 Super Moto am 12.05.2002 in Rodheim-Bieber.
 

@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Bensheim 2001"
 date: 2001-05-24 16:46
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Und wieder selbst am Start. 
 

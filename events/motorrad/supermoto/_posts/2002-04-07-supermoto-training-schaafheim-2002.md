@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Training Schaafheim 2002"
 date: 2002-04-07 17:17
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Zum trainieren in Schaafheim. 
 

@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Bensheim 2005"
 date: 2005-05-07 16:58
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Nach einer nicht allzu schwierigen Reparatur des Kupplungslagers und etlichen Ölwechseln, konnte ich in Bensheim an den Start gehen.
 

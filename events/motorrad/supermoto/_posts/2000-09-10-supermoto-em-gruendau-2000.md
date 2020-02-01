@@ -1,9 +1,9 @@
 ---
 title: "Super Moto EM Gründau 2000"
 date: 2000-09-10 21:03
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Als Zuschauer bei der EM
 

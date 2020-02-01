@@ -2,7 +2,7 @@
 title: "Longyearbyen Tromsö 2010 Bilder"
 date: 2010-07-15 20:25
 tags:
-- galerie
+- Galerie
 ---
 Alle Bilder des Segeltörns Longyearbyen Tromsö.
 

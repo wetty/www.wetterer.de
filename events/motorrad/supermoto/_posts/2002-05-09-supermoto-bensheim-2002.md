@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Bensheim 2002"
 date: 2002-05-09 17:24
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Super Moto am 09.05.2002 in Bensheim.
 

@@ -1,8 +1,8 @@
 ---
 title: "Super Moto Aschersleben 2003"
 date: 2003-08-04 15:16
-categories: 
-- Supermoto
+tags: 
+
 ---
 Diesmal gehts mit Startnummer 43 ins Rennen.
 

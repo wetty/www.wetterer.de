@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Schaafheim 2006"
 date: 2006-05-01 17:54
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 
 ## Bilder

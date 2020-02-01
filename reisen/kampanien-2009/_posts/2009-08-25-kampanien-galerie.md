@@ -1,10 +1,8 @@
 ---
 title: "Kampanien 2009 Bilder"
 date: 2009-08-25 19:21
-categories: 
-- galerie
 tags:
-- galerie
+- Galerie
 ---
 Alle Bilder des Kampanien Urlaubs.
 

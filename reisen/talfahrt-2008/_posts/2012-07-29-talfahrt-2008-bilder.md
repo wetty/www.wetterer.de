@@ -1,10 +1,8 @@
 ---
 title: "Talfahrt 2008 Bilder"
 date: 2012-07-29 10:29
-categories: 
-- galerie
 tags:
-- galerie
+- Galerie
 ---
 
 Es hat etwas gedauert, aber nach gut 4 Jahren sind nun auch die Bilder der Talfahrt 2008 endlich online.

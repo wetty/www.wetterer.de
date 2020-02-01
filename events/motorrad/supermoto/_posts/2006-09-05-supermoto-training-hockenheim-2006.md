@@ -2,7 +2,7 @@
 title: "Super Moto Training Hockenheim 2006"
 date: 2006-09-05 16:28
 tags: 
-- galerie
+- Galerie
 ---
 Bei bestem Wetter fand gestern das von [Achim Trinkner]{: target="_blank" rel="noopener noreferrer nofollow"} ausgerichtete Training im Fahrerlager des Hockenheimringes statt. Die flüssig angelegte Strecke machte durchweg Laune und die driftende Zunft hatte einige Stellen an denen das möglich war.
 

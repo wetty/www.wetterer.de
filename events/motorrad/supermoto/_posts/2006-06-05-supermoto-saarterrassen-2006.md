@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Saarterrassen 2006"
 date: 2006-06-05 16:15
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 ## Bilder
 

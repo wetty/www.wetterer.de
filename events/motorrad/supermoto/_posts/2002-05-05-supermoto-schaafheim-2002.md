@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Schaafheim 2002"
 date: 2002-05-05 17:20
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Super Moto in Schaafheim am 04.-05.05.2002. 
 

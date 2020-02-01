@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Saarbrücken 2003"
 date: 2003-02-23 14:02
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Am Start mit der 21 bei den Amateuren.
 

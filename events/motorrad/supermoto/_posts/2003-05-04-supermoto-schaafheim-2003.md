@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Schaafheim 2003"
 date: 2003-05-04 14:38
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Am Start bei den Amateuren in Gruppe 2 mit der Startnummer 42.
 {% include wetty/image.html class="center" path="/assets/images/supermoto/2003/schaafheim/programmheft.jpg" %}

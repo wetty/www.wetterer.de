@@ -1,8 +1,8 @@
 ---
 title: "Super Moto Schaafheim Training 2003"
 date: 2003-04-06 14:19
-categories: 
-- Supermoto
+tags: 
+
 ---
 Diesmal gibt es insgesamt 4 Gruppen. 3 Super Moto und eine Quad Gruppe. Ich bin in Gruppe 1.
 
