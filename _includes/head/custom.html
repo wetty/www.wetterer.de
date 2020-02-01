@@ -16,7 +16,12 @@
 		filter: blur(5px);
 		transition: filter 600ms, -webkit-filter 600ms;
 	}
-
+	.lazyloading {
+		opacity: 1;
+		transition: opacity 900ms;
+		background: #f7f7f7;
+	}
+	
 	.blur-up.lazyloaded {
 		-webkit-filter: blur(0);
 		filter: blur(0);
@@ -69,6 +74,10 @@
 	}
 	
 	h1, h2, h3, h4, h5, h6 {
+	    clear: both;
+	}
+	
+	.responsive-video-container {
 	    clear: both;
 	}
 	
