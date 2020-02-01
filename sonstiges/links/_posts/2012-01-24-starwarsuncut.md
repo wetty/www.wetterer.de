@@ -10,6 +10,6 @@ Hier der Film: [http://vimeo.com/34948855](http://vimeo.com/34948855)
 
 [Star Wars Uncut](http://www.starwarsuncut.com/)
 
-{% include wetty/vimeo.html param=34948855 %}
-
 <a href="http://vimeo.com/34948855">Star Wars Uncut: Director's Cut</a> from <a href="http://vimeo.com/casey">Casey Pugh</a> on <a href="http://vimeo.com">Vimeo</a>.
+
+{% include video id="212731897" provider="vimeo" %}
