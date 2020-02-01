@@ -47,6 +47,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {% if page.link %}{% include webshot.html %}{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
