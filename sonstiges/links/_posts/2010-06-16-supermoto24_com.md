@@ -6,4 +6,4 @@ share: true
 link: http://www.supermoto24.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Supermoto Links von A-Z (Da bin/war ich auch irgendwo zu finden :smiley: )
+Supermoto Links von A-Z (Da bin/war ich auch irgendwo zu finden :smiley: )

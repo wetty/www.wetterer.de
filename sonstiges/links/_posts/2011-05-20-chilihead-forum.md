@@ -6,6 +6,6 @@ share: true
 link: http://capsaholics.de.tf/
 tags: [Chilis]
 ---
-{% include wetty/webshot.html %} Das Chilihead-Forum hat auch seine Tätigkeit eingestellt.
+Das Chilihead-Forum hat auch seine Tätigkeit eingestellt.
 
 

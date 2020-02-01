@@ -6,4 +6,4 @@ share: true
 link: http://www.dream-of-pirates.to/
 tags: [DBox]
 ---
-{% include wetty/webshot.html %} Klatsch & Tratsch über Sat, TV und News.
+Klatsch & Tratsch über Sat, TV und News.

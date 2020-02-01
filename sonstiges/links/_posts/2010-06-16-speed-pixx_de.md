@@ -6,4 +6,4 @@ share: true
 link: http://www.speed-pixx.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Bilder von Super Moto Veranstaltungen und von allem was schnell ist :smiley:
+Bilder von Super Moto Veranstaltungen und von allem was schnell ist :smiley:

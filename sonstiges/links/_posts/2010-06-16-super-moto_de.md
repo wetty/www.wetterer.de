@@ -6,4 +6,4 @@ share: true
 link: http://www.super-moto.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Live starts at 45° Das OnlineSzeneMagazin.
+Live starts at 45° Das OnlineSzeneMagazin.

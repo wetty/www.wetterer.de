@@ -5,4 +5,4 @@ comments: true
 share: true
 link: http://www.dofactory.com/Default.aspx
 ---
-{% include wetty/webshot.html %} Hier gibts kleine Beispiele zu den verschiedenen Object Oriented Design Patterns.
+Hier gibts kleine Beispiele zu den verschiedenen Object Oriented Design Patterns.

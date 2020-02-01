@@ -5,7 +5,7 @@ link: http://fplanque.com/dev/mac/mac-osx-terminal-page-up-down-home-end-of-line
 tags: [OSX]
 
 ---
-{% include wetty/webshot.html %} Der Umstieg von der PC Welt auf die Mac Welt brachte einige Herausforderungen mit sich. Das größte Thema ist dabei die etwas andere Belegung der Tastatur.
+Der Umstieg von der PC Welt auf die Mac Welt brachte einige Herausforderungen mit sich. Das größte Thema ist dabei die etwas andere Belegung der Tastatur.
 
 Hier schonmal die Lösung wie man die Page Up/Down Tasten für das Terminal richtig einstellen kann.
 

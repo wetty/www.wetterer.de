@@ -6,4 +6,4 @@ share: true
 link: http://forum.tuxbox.org/forum/
 tags: [DBox]
 ---
-{% include wetty/webshot.html %} Forum über linux auf der DBox2.
+Forum über linux auf der DBox2.

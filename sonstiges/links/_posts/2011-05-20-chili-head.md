@@ -6,7 +6,7 @@ share: true
 link: http://www.chili-head.com/
 tags: [Chilis]
 ---
-{% include wetty/webshot.html %} Diese Seite ist dem Chili, Chile, Chilli, Pepperoni, Peperoncino, Piementon, Biber, Paprika, oder wie dieses herrliche Gemüse sonstwo heißt gewidmed! 
+Diese Seite ist dem Chili, Chile, Chilli, Pepperoni, Peperoncino, Piementon, Biber, Paprika, oder wie dieses herrliche Gemüse sonstwo heißt gewidmed! 
 
 Sie soll hoffnungslosen Capsaholikern wie Neulingen genauso Freude machen, soll informieren und unterhalten.
 

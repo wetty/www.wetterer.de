@@ -5,6 +5,6 @@ comments: true
 share: true
 link: http://www.sierra-nevada-tours.de/
 ---
-{% include wetty/webshot.html %} Sierra-Nevada-Tours - Motorradurlaub in Andalusien: Endurotour, Motorradtour, Motorradreisen, Andalusien-Rundfahrt.
+Sierra-Nevada-Tours - Motorradurlaub in Andalusien: Endurotour, Motorradtour, Motorradreisen, Andalusien-Rundfahrt.
 
 Irgendwo war ich dort auch mal auf den Bildern zu entdecken.

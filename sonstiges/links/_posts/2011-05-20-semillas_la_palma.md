@@ -6,4 +6,4 @@ share: true
 link: http://www.semillas.de/
 tags: [Chilis]
 ---
-{% include wetty/webshot.html %} Exotische Sämereien und Pflanzen, darunter auch viele Chilis.
+Exotische Sämereien und Pflanzen, darunter auch viele Chilis.

@@ -6,6 +6,6 @@ share: true
 link: http://likelysoft.com/hacks/pictureframes.shtml
 tags: [Digitale Bilderrahmen]
 ---
-{% include wetty/webshot.html %} Make a fancy digital picture frame out of that old laptop.
+Make a fancy digital picture frame out of that old laptop.
 
 Sammlung von Links zum Thema Digital Picture Frame.

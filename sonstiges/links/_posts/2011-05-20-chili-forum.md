@@ -6,4 +6,4 @@ share: true
 link: http://www.chili-balkon.de/forum/
 tags: [Chilis]
 ---
-{% include wetty/webshot.html %} Das Chili Paprika Forum vom Chili Balkon.
+Das Chili Paprika Forum vom Chili Balkon.

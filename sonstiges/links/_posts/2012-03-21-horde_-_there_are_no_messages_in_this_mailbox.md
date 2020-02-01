@@ -4,7 +4,7 @@ date: 2012-03-21 09:44
 tags: [Plesk,Horde]
 link: http://www.xpcwebhosting.com/2012/horde-webmail-error-there-are-no-messages-in-this-mailbox/
 ---
-{% include wetty/webshot.html %} In Horde Webmail ist ab und an die Inbox leer, obwohl definitiv Mails da sind. Dann wird die Meldung "There are no messages in this mailbox." angezeigt.
+In Horde Webmail ist ab und an die Inbox leer, obwohl definitiv Mails da sind. Dann wird die Meldung "There are no messages in this mailbox." angezeigt.
 
 Nach etwas Recherche steht fest, dass sich Horde wohl beim speichern der Sortierungsreihenfolge in der Datenbank etwas vertut, und demnach nichts mehr angezeigt wird.
 

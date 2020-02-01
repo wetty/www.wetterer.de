@@ -6,4 +6,4 @@ share: true
 link: http://www.husaberg.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Husaberg Deutschland, da wo auch meine [Husaberg FE 570](/garage/husaberg_fe_570_supermoto_bj_2009/) her kommt.
+Husaberg Deutschland, da wo auch meine [Husaberg FE 570](/garage/husaberg_fe_570_supermoto_bj_2009/) her kommt.

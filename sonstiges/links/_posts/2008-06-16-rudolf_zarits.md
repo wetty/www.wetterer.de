@@ -5,4 +5,4 @@ comments: true
 share: true
 link: http://home.pages.at/ktmschrauber/
 ---
-{% include wetty/webshot.html %} Kleine Seite über eine KTM 625 Supercompetition Bj.2002. Hier sind auch Bilder zu meinem Eigenbau des Tripmasters zu finden.
+Kleine Seite über eine KTM 625 Supercompetition Bj.2002. Hier sind auch Bilder zu meinem Eigenbau des Tripmasters zu finden.

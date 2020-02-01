@@ -6,4 +6,4 @@ share: true
 link: http://www.supermoto-wm.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Die SuperMoto WM gastiert 2006 in St. Wendel.
+Die SuperMoto WM gastiert 2006 in St. Wendel.

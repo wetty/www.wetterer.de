@@ -6,4 +6,4 @@ share: true
 link: http://www.mscw.de
 tags: [Motorsport Vereine]
 ---
-{% include wetty/webshot.html %} Motorsportclub Wartturm e.V. im ADAC Schaafheim. Meist der Auftakt der Super Moto Saison.
+Motorsportclub Wartturm e.V. im ADAC Schaafheim. Meist der Auftakt der Super Moto Saison.
