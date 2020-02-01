@@ -8,4 +8,4 @@ Von 1A4 STUDIO kommt eine 60 Sekunden Version von "Star Wars - A new hope".
 
 Daneben wurden dort auch ein paar andere Klassiker wie "Matrix" oder "Zurück in die Zukunft" als Zeichentrickfilm in 60 Sekunden umgesetzt.
 
-{% include video provider="youtube" id= param="CUx2ypHQJO0" %}
+{% include video provider="youtube" id="CUx2ypHQJO0" %}
