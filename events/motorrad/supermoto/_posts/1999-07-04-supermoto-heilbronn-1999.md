@@ -1,9 +1,8 @@
 ---
 title: "Super Moto Heilbronn 1999"
 date: 1999-07-04 15:50
-categories: 
+tagss: 
 - galerie
-- Supermoto
 ---
 Lange genug Sprüche gemacht, dass ich mal ein Super Moto Rennen mitfahren würde. Nach zweimal Montagsnachmittagstrainings auf der Schaafheimer Kartbahn sollte es dann am 04.07.1999 in Heilbronn soweit sein. Ziel war es mindestens Vorletzter zu werden und nichts großartig zu zerstören. Weder am Material, noch an mir :smiley:
 

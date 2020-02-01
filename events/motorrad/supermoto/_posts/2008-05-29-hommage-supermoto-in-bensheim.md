@@ -20,7 +20,7 @@ Vormittags sind die Trainings und Mittags die Rennen.
 
 Wie immer werde ich versuchen nicht letzter zu werden. Aus dem Grund hab  ich mir schon folgenden Trainingsplan aufgestellt:
 
-**Montag:** 16-20 Uhr Super Moto Training mit [Achim Trinkner](http://http://www.trinkner.de) auf dem Hockenheim Ring
+**Montag:** 16-20 Uhr Super Moto Training mit [Achim Trinkner]{: target="_blank" rel="noopener noreferrer nofollow"} auf dem Hockenheim Ring
 
 **Dienstag Nachmittag:** Freies Training auf der Kart bahn in Schaafheim
 

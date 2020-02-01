@@ -134,3 +134,4 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Chiavalon]: https://www.chiavalon.hr/ "Chiavalon Organic Extra Virgin Olive Oil | Vodnjan | Istria"
 [Octopress]: http://octopress.org/ "A blogging framework for hackers."
 [DokuWiki]: http://www.dokuwiki.org "simple to use and highly versatile Open Source wiki software"
+[Achim Trinkner]: https://www.trinkner.de/ "Auto und Zweirad Trinkner"

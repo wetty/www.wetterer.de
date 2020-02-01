@@ -6,7 +6,8 @@ categories:
 - Supermoto
 ---
 {% include wetty/image.html class="left" path="/assets/images/supermoto/2003/stendal/plakat.jpg" %}
-Es hat funktioniert. Ich hab die Startnummer 42, wie bei meinem Erstlingsrennen in [Heilbronn 1999](/1999/07/04/supermoto-heilbronn-1999/index.html), bekommen.
+
+Es hat funktioniert. Ich hab die Startnummer 42, wie bei meinem Erstlingsrennen in [Heilbronn 1999]({% post_url /events/motorrad/supermoto/1999-07-04-supermoto-heilbronn-1999 %}), bekommen.
 Starte somit in Klasse 4 bei den Amateuren.
 
 <!--more-->
