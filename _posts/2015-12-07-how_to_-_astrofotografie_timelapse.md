@@ -6,5 +6,5 @@ categories:
 - Video
 ---
 
-{% include wetty/youtube.html param="BZD8KxkITw0" %}
+{% include video provider="youtube" id= param="BZD8KxkITw0" %}
 

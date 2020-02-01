@@ -4,4 +4,4 @@ date: 2013.05.08 19:40
 categories: 
 - Video
 ---
-{% include wetty/youtube.html param="WPkByAkAdZs" %}
+{% include video provider="youtube" id= param="WPkByAkAdZs" %}

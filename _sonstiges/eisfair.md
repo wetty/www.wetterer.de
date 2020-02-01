@@ -14,7 +14,7 @@ EisFair ist ein einfach zu installierender Internet-Server, der als zugrundelieg
 
 <!--
 ##System Info
-<iframe title="Eisfair Status" src="{{ site.url }}/loading.html" data-src="http://www.thomas-wetterer.de/SysInfo/index.php?template=aq" width="100%" height="864" class="lazyload"> </iframe>
+<iframe title="Eisfair Status" src="" data-src="http://www.thomas-wetterer.de/SysInfo/index.php?template=aq" width="100%" height="864" class="lazyload"> </iframe>
 
 ##Temperatur
 
