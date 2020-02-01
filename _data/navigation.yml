@@ -15,7 +15,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Kategorien"
-    url: /categories/
+    url: /kategorien/
   - title: "Impressum"
     url: /about/
   - title: "Datenschutz"
