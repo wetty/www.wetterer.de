@@ -317,7 +317,7 @@ category_archive:
 #  type: liquid
   type: jekyll-archives
 #  path: /categories/
-  path: /
+  path: /:categories/
 tag_archive:
   type: liquid
   path: /tags/
