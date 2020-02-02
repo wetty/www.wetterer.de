@@ -1,7 +1,7 @@
 ---
 title: "Das Flexrohr ist es"
 date: 2006-08-29 10:49
-categories: 
+tags: 
 - Gas Mobil
 - Werkstatt
 ---

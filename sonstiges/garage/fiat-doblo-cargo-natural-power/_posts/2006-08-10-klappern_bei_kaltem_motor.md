@@ -1,7 +1,7 @@
 ---
 title: "Klappern bei kaltem Motor"
 date: 2006-08-10 11:39
-categories: 
+tags: 
 - Gas Mobil
 - Werkstatt
 ---

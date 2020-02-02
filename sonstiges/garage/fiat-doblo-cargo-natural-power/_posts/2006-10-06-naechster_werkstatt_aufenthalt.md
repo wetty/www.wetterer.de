@@ -1,7 +1,7 @@
 ---
 title: "Nächster Werkstatt Aufenthalt"
 date: 2006-10-06 09:39
-categories: 
+tags: 
 - Gas Mobil
 - Werkstatt
 ---

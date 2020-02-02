@@ -1,6 +1,8 @@
 ---
 title: Erdgas Preis Wunder in Darmstadt
 date: 2015-12-03 19:23 CET
+tags:
+- Gas Mobil
 ---
 Ein fast unglaubliches Wunder gab es heute an der Tamoil Tankstelle in Pfungstadt beim Erdgas Preis. Statt der 1,209€ kostete das kg Erdgas fürs Auto nur noch 1,099€. Was ist geschehen?
 

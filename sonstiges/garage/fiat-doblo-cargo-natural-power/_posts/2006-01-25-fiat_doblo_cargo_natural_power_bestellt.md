@@ -1,7 +1,7 @@
 ---
 title: "Fiat Doblo Cargo 'Natural Power' bestellt"
 date: 2006-01-25 15:00
-categories: 
+tags: 
 - Gas Mobil
 ---
 {% include wetty/image.html class="left" path=" /images/gas-mobil/fiatdoblo/fiatdoblocargoelx.png" %}

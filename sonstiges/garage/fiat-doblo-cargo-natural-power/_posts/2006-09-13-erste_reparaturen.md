@@ -1,7 +1,7 @@
 ---
 title: "Erste Reparaturen"
 date: 2006-09-13 11:55
-categories: 
+tags: 
 - Gas Mobil
 - Werkstatt
 ---
