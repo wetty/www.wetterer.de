@@ -1,8 +1,6 @@
 ---
 title: "Offene Gartenpforte Hessen 2009"
 date: 2009-06-27 20:18
-categories: 
-- Garten
 ---
 Letztes Wochenende, am 20./21. Juni 2009 war es endlich soweit. Wir waren mit unserem Schrebergarten bei der Veranstaltung [Offene Gartenpforte Hessen](http://www.offene-gartenpforte-hessen.de/) dabei.
 

@@ -1,8 +1,6 @@
 ---
 title: "Erste eigene Spargel Ernte"
 date: 2008-04-23 09:03
-categories: 
-- Garten
 ---
 
 {% include wetty/picture_left.html img="Blog/dscf1109jpg_3889462653_o.jpg" alt="Spargel" %}

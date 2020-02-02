@@ -1,8 +1,6 @@
 ---
 title: "Schwarzfußhuhn geräuchert"
 date: 2008-05-24 20:44
-categories: 
-- Garten
 ---
 {% include wetty/picture_left.html img="Blog/dscf1225jpg_3890275236_o.jpg" alt="Schwarzfusshuhn" %}
 

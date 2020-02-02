@@ -1,8 +1,6 @@
 ---
 title: "Zweites Halb Hochbeet fertig"
 date: 2008-04-23 08:58
-categories: 
-- Garten
 ---
 
 {% include wetty/picture_left.html img="Blog/dscf1110jpg_3890257138_o.jpg" alt="Hochbeet" %}

@@ -1,8 +1,6 @@
 ---
 title: "Tomate im Wind"
 date: 2008-06-17 19:36
-categories: 
-- Garten
 ---
 
 {% include wetty/picture_left.html img="Blog/dscf1237jpg_3687581157_o.jpg" alt="Tomatenflagge" %}

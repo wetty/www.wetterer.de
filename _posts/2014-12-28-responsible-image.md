@@ -1,7 +1,7 @@
 ---
 title: "Responsible Image"
 date: 2014-12-28T17:47:25+01:00
-categories: [Responsive Design]
+tags: [Responsive Design]
 ---
 <figure class="photo-with-exif">
 	<picture>

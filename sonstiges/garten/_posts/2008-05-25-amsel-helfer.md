@@ -1,8 +1,6 @@
 ---
 title: "Amsel Helfer"
 date: 2008-05-25 12:56
-categories: 
-- Garten
 ---
 {% include wetty/picture_left.html img="Blog/img_4076jpg_3889484553_o.jpg" alt="Amsel" %}
 

@@ -1,8 +1,6 @@
 ---
 title: "Schlaraffenland ohne Zwerge"
 date: 2009-08-17 20:50
-categories: 
-- Garten
 ---
 
 {% include wetty/picture_left.html img="Blog/dscf2140jpg_3826529875_o.jpg" alt="Schlaraffenland ohne Zwerge" %}

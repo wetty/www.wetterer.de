@@ -1,11 +1,6 @@
 ---
-
 title: "Flagge zeigen"
 date: 2008-05-24 11:49
-comments: true
-share: true
-categories: 
-- Garten
 ---
 {% include wetty/picture_left.html img="Blog/dscf1217jpg_3688398790_o.jpg" alt="Flagge" %}
 

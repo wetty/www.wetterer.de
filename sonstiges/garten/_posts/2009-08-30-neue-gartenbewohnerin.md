@@ -1,8 +1,6 @@
 ---
 title: "Neue Gartenbewohnerin"
 date: 2009-08-30 18:09
-categories: 
-- Garten
 ---
 {% include wetty/picture_left.html img="Blog/img_5705jpg_3915662934_o.jpg" alt="Wespenspinne" %}
 

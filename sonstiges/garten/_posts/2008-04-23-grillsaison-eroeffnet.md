@@ -1,8 +1,6 @@
 ---
 title: "Grillsaison eröffnet"
 date: 2008-04-23 18:14
-categories: 
-- Garten
 ---
 
 {% include wetty/image.html class="center" path="/assets/images/garten/04-23-2008-063002.jpg" %}
