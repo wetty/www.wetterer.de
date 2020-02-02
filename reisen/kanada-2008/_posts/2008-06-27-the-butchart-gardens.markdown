@@ -4,7 +4,7 @@ date: 2008-06-27 09:38
 ---
 Der gestrige Tag fing mit dem Besuch eines Hardware Stores an. Ein Laden mit kompletter Haushaltswarenabteilung und Outdoor Equipment. D.h. alles was man zum Grillen, Fischen etc. braucht. Bisher sind aus dem Besuch zwei Holzbrettchen aus rotem Zedern Holz, sowie ein "Wiener Roller" hervor gegangen. Die Holzbrettchen legt man in Wasser ein, packt sie dann auf den Grill und darauf dann den Lachs den man Grillen will. Das andere Gerät ist zum Würstchen grillen. Die lassen sich dort per Rollen komfortabel  und gleichmäßig bräunen.
 
-Dann mußten wir feststellen, dass z.B Wanderschuhe erheblich billiger sind als bei uns. Auch das komplette Sortiment an Leatherman Tools kostet hier weniger als die Hälfte. Daher werden wir nachher wohl nochmal zum einkaufen fahren.
+Dann mußten wir feststellen, dass z.B. Wanderschuhe erheblich billiger sind als bei uns. Auch das komplette Sortiment an Leatherman Tools kostet hier weniger als die Hälfte. Daher werden wir nachher wohl nochmal zum einkaufen fahren.
 
 <!--more-->
 
