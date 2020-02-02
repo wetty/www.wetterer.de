@@ -1,30 +1,3 @@
-{% if false %}
-<figure class="photo-with-exif">
-<a href="{{ site.url_cloudinary_popup}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-<picture>
-<source data-srcset="{{ site.url_cloudinary_large }}{{ include.img }}, {{ site.url_cloudinary_large_2x }}{{ include.img }} 2x" media="(min-width: 35.563em)" type="image/jpeg" />
-<source data-srcset="{{ site.url_cloudinary_medium }}{{ include.img }}, {{ site.url_cloudinary_medium_2x }}{{ include.img }} 2x" media="(min-width: 20.063em)" type="image/jpeg" />
-<source data-srcset="{{ site.url_cloudinary_small }}{{ include.img }}, {{ site.url_cloudinary_small_2x }}{{ include.img }} 2x " media="(max-width: 20em)" type="image/jpeg" />
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_large }}{{ include.img }}" class="blog-full lazyload" itemprop="image" alt="{{ include.alt }}" data-sizes="auto"/>
-</picture>
-</a>
-{% if include.caption %}
-  <figcaption>{{ include.caption }}</figcaption>
-{% endif %}
-</figure>
-{% endif %}
-
-{% if false %}
-<a href="{{ site.url_cloudinary_responsive}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-    <img class="cld-responsive" 
-    data-src="{{ site.url_cloudinary_responsive}}{{ include.img }}"
-    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-	sizes="100vw" 
-	alt="{{ include.alt }}" />
-</a>
-{{ include.caption }}
-{% endif %}
-
 <figure class="photo-with-exif">
 <a href="{{ site.url_cloudinary_popup}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <picture>
