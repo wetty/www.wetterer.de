@@ -1,7 +1,7 @@
 ---
 title: "Upgrade auf Lexware Buchhalter 2014"
 date: 2013-11-20T13:49:46+02:00
-categories: 
+tags:
 - Windows
 ---
 Kaum 8 Wochen nach meinen Update Problem auf die Lexware Buchhalter Version 18.50, steh ich nun wieder vor dem gleichen Problem beim Update auf Lexware Buchhalter 2014.

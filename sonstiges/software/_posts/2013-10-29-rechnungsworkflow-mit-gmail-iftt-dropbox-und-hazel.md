@@ -1,7 +1,7 @@
 ---
 title: Rechnungsworkflow mit gmail, ifttt, Dropbox und Hazel
 date: 2013-10-29 10:58
-categories: 
+tags:
 - OSX
 - Workflow
 ---

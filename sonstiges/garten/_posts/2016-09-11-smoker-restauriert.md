@@ -2,7 +2,7 @@
 title: "Smoker restauriert"
 date: 2016-09-11 12:04:18+0200
 ---
-Gestern konnte ich die Restaurierung meines [Smokers]({% post_url 2016-08-19-gebraucht-smoker-gekauft %}) abschliessen. Die neuen handgedrechselten Griffe von unserem Nachbarn lagen vor der Tür. Sehr schön.
+Gestern konnte ich die Restaurierung meines [Smokers]({% post_url /sonstiges/garten/2016-08-19-gebraucht-smoker-gekauft %}) abschliessen. Die neuen handgedrechselten Griffe von unserem Nachbarn lagen vor der Tür. Sehr schön.
 
 Am 25.08.2016 kam der Smoker vom Sandstrahlen bei der [Schlosserei Tragesser]{: target="_blank" rel="noopener noreferrer"} zurück. Sah quasi aus wie neu. Material ist überall noch top in Ordnung, nirgends durchrostungen oder sonstige gröbere Schäden.
 

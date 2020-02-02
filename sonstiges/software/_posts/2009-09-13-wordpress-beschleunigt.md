@@ -1,6 +1,8 @@
 ---
 title: "Wordpress beschleunigt"
 date: 2009-09-13 20:46
+tags:
+- Wordpress
 ---
 Heute Abend war mal etwas Zeit sich um die Technik meines Wordpress Blogs zu kümmern. Der Aufbau der Seiten war nicht wirklich schnell.
 

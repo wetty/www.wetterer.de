@@ -1,7 +1,7 @@
 ---
 title: "Mailbox App"
 date: 2013-02-19 16:25
-categories: 
+tags:
 - iPhone
 ---
 

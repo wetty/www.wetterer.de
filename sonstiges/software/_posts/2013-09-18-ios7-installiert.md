@@ -1,7 +1,7 @@
 ---
 title: ios 7 installiert
 date: 2013-09-18 23:28
-categories: 
+tags:
 - iPhone
 - iPad
 ---

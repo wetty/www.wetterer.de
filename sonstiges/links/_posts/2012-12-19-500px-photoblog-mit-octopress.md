@@ -1,10 +1,8 @@
 ---
 title: "500px Photoblog mit Octopress"
 date: 2012-12-19 15:50
-link:
- http://frozen-temple-5905.herokuapp.com/
-categories: 
-- Links
+link: http://frozen-temple-5905.herokuapp.com/
+tags:
 - Fotografie
 - Octopress
 ---

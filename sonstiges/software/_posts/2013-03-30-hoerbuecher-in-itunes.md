@@ -1,7 +1,7 @@
 ---
 title: "Hörbücher in iTunes"
 date: 2013-03-30 14:14
-categories: 
+tags:
 - iTunes
 ---
 Hörbücher in iTunes zu importieren ist ja ein echter Krampf. Die einzelnen Tracks landen erstmal als Musik in iTunes. Dort sind sie auch nach CD Nummer und Titelnummer richtig geordnet. Wählt man dann für die Stücke als Medienart "Hörbuch", dann sind alle Tracks im Hörbuch in einer komplett anderen und falschen Reihenfolge.

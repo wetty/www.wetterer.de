@@ -1,7 +1,7 @@
 ---
 title: ios 7 Softwareaktualisierung nicht verfügbar
 date: 2013-09-18 22:14
-categories: 
+tags:
 - iPhone
 - iPad
 ---

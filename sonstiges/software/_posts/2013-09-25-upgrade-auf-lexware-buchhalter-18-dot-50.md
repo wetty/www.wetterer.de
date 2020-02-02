@@ -1,7 +1,7 @@
 ---
 title: "Upgrade auf Lexware Buchhalter 18.50"
 date: 2013-09-25T14:22:12+02:00
-categories: 
+tags:
 - Windows
 ---
 Nachdem ich nun seit Wochen die Update CD für den Lexware Buchhalter auf Version 18.50 mit SEPA Unterstützung hier liegen hab, ging es heute ans installieren.
