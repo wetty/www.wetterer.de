@@ -12,6 +12,10 @@ main:
     url: /archiv/
   - title: "Sonstiges"
     url: /sonstiges/
+  - title: "Tags"
+    url: /tags/
+  - title: "Kategorien"
+    url: /kategorien/
   - title: "Impressum"
     url: /about/
   - title: "Datenschutz"

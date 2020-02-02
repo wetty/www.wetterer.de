@@ -6,7 +6,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
@@ -16,7 +15,12 @@
 		filter: blur(5px);
 		transition: filter 600ms, -webkit-filter 600ms;
 	}
-
+	.lazyloading {
+		opacity: 1;
+		transition: opacity 2900ms;
+        background: #f7f7f7 url(/assets/images/loader.gif) no-repeat center;
+	}
+	
 	.blur-up.lazyloaded {
 		-webkit-filter: blur(0);
 		filter: blur(0);
@@ -72,9 +76,14 @@
 	    clear: both;
 	}
 	
+	.responsive-video-container {
+	    clear: both;
+	}
+	
 img[data-sizes="auto"] { display: block; width: 100%; }
-.page__content a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):after { content: "↗"; color: red; }
-.archive__item a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):after { content: "↗"; color: red; }
+.page__content a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):not(.webshot):after { content: "↗"; color: red; }
+.archive__item a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):not(.webshot):after { content: "↗"; color: red; }
+
 
 a[href*="amazon.de"]:after, a[href*="amazon.com"]:after, a[href*="amzn.to"]:after { content: "↗*" !important; color: red; }
 </style>
@@ -85,6 +94,6 @@ a[href*="amazon.de"]:after, a[href*="amazon.com"]:after, a[href*="amzn.to"]:afte
 <script src="/assets/js/lazysizes.min.js"></script>
 -->
 
-<script src="//cdn.jsdelivr.net/g/lazysizes(lazysizes.min.js+plugins/rias/ls.rias.min.js)" async=""></script>
+<script src="https://cdn.jsdelivr.net/g/lazysizes(lazysizes.min.js+plugins/rias/ls.rias.min.js)" async=""></script>
 
 <!-- end custom head snippets -->

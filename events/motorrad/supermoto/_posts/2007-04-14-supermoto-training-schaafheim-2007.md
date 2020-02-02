@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Training Schaafheim 2007"
 date: 2007-04-14 17:03
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Bilder vom Training in Schaafheim.
 

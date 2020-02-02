@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Saarbrücken 2005 - Hubert Mendel"
 date: 2005-03-14 16:38
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Bilder von Hubert Mendel.
 

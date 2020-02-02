@@ -5,4 +5,4 @@ comments: true
 share: true
 link: http://www.gymnasium-gernsheim.de/
 ---
-{% include wetty/webshot.html %} Homepage des Gymnasium Gernsheim. Da wo ich 1985 mein Abitur gemacht habe.
+Homepage des Gymnasium Gernsheim. Da wo ich 1985 mein Abitur gemacht habe.

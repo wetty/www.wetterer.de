@@ -6,4 +6,4 @@ share: true
 link: http://phpsysinfo.sourceforge.net/
 tags: [Software]
 ---
-{% include wetty/webshot.html %} phpSysInfo is a PHP script that displays information about the host being accessed. Siehe meine  [EisFair Informationen](/eisfair/index.html)
+phpSysInfo is a PHP script that displays information about the host being accessed. Siehe meine  [EisFair Informationen](/eisfair/index.html)

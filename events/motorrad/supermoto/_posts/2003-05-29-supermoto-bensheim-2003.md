@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Bensheim 2003"
 date: 2003-05-29 15:06
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Am 29.05.2003 am Start bei den Amateuren. Zur Abwechslung mit der Startnummer 45.
 

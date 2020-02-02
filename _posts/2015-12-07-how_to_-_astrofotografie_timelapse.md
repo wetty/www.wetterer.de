@@ -1,10 +1,10 @@
 ---
 title: How To - Astrofotografie Timelapse
 date: 2015-12-07 12:23 CET
-categories: 
+tags: 
 - Fotografie
 - Video
 ---
 
-{% include wetty/youtube.html param="BZD8KxkITw0" %}
+{% include video provider="youtube" id="BZD8KxkITw0" %}
 

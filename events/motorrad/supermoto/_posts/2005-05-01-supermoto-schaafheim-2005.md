@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Schaafheim 2005"
 date: 2005-05-01 16:55
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Im Zeittraining machte mein Motor mit üblen Geräuschen auf sich aufmerksam. Womit das Rennwochenden frühzeitig sein Ende fand.
 

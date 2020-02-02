@@ -1,4 +1,4 @@
-**<span style="color: red;">↗</span> Hinweis externe Links**
+#### <span style="color: red;">↗</span> Hinweis externe Links ####
 
 Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Externen Links sind mit einem (<span style="color: red;">↗</span>) gekennzeichnet.
 
@@ -7,7 +7,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [eat and STYLE Hamburg]: http://www.eat-and-style.de/hamburg/Home.html  "eat and STYLE, Hamburg"
 [wiki]: http://wikipedia.org  "Online Encyclopedia"
 [id]: url  "tooltip"
-[MC Pfungstadt e.V.]: http://www.mc-pfungstadt.de "Motorsportclub Pfungstadt 1952 e.V. im ADAC"
+[MC Pfungstadt e.V.]: https://www.mc-pfungstadt.de "Motorsportclub Pfungstadt 1952 e.V. im ADAC"
 [Adventure Tour]: http://www.ktm.com/ridektm/ktm-adventure-tours.html "Ride KTM - Feel KTM"
 [Alfie Cox]: http://www.alfiecox.co.za "Alfie Cox Racing"
 [Google Mail]: http://mail.google.com "Google Mail"
@@ -27,7 +27,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Octopress]: http://octopress.org/ "A blogging framework for hackers."
 [EisFair]: http://www.eisfair.org/ "the easy internet server"
 [Gjestehuset 102]: http://www.gjestehuset102.no/ "Guesthouse 102 is located in Nybyen, about 2 km from the center of Longyearcity." 
-[Spitzbergen.de]: http://www.spitzbergen.de "Informationen und Hinweise, Reiseführer und Literatur, Arktis-Erlebnisreisen, Bilder, Links und mehr rund um die arktische Inselgruppe"
+[Spitzbergen.de]: https://www.spitzbergen.de "Informationen und Hinweise, Reiseführer und Literatur, Arktis-Erlebnisreisen, Bilder, Links und mehr rund um die arktische Inselgruppe"
 [Noorderlicht]: http://www.noorderlicht.nu "Zweimastschoner Noorderlicht"
 [Lake Louise Gondel]: http://www.lakelouisegondola.com/ "The Lake Louise Gondola is one of the best places on earth to see wild grizzly bears in their natural environment."
 [Truffle Pigs]: http://www.trufflepigs.com/ "Real food for real people in real time in Field, British Columbia."
@@ -51,7 +51,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Butchards Gardens]: http://www.butchartgardens.com/de "Es erwartet Sie ein Paradies für Gartenliebhaber, Photographen und Romantiker."
 [Howe Sound Brauerei]: http://www.howesound.com/ "Since 1996, we’ve been brewing an award-winning selection of ales and lagers in beautiful Squamish, BC."
 [Britannia Mine Museum]: http://www.britanniaminemuseum.ca/ "Britannia Mine Museum"
-[Fotos aus der Box]: http://www.fotos-aus-der-box.de/ "Fotos aus der Box - FotoBox für Gernsheim und Umgebung"
+[Fotos aus der Box]: https://www.fotos-aus-der-box.de/ "Fotos aus der Box - FotoBox für Gernsheim und Umgebung"
 [Biebesheim am Rheinkilometer 464]: http://www.biebesheim-am-rheinkilometer464.de/ "Ein Weblog von Simone Frank" 
 [Werbetechnik Harth]: http://www.werbetechnik-harth.de/ "Werbetechnik Harth - Entwurf, Textilwerbung, Beschriftung, Digitaldruck"
 [DEKO Creativ]: http://www.deko-creativ-online.de/ "Dekorationen, aus und mit Leidenschaft"
@@ -66,6 +66,9 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Basil's Bar]: http://www.basilsbar.com "Basil's Bar auf Mustique"
 [Beachcomber]: http://www.beachcomberstaugustine.com/ "Where A Street meets the ocean"
 [Kennedy Space Center]: https://www.kennedyspacecenter.com/ "Kennedy Space Center"
+[MSC Wartturm]: https://www.mscw.de/ "Motorsportclub Wartturm e.V. im ADAC"
+[Intermoto 2002]: https://saarmesse.de/ "messe saar - sehen, fühlen, erleben"
+[Intermoto 2003]: https://saarmesse.de/ "messe saar - sehen, fühlen, erleben"
 [Space X]: http://www.spacex.com/ "SpaceX designs, manufactures and launches advanced rockets and spacecraft"
 [Bubba Gump]: http://www.bubbagump.com/ "Great Food, Great Fun, Great Party."
 [Quidi Vidi Brewery]: https://quidividibrewery.ca/ "Quidi Vidi Brewery Iceberg Beer"
@@ -134,3 +137,4 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Chiavalon]: https://www.chiavalon.hr/ "Chiavalon Organic Extra Virgin Olive Oil | Vodnjan | Istria"
 [Octopress]: http://octopress.org/ "A blogging framework for hackers."
 [DokuWiki]: http://www.dokuwiki.org "simple to use and highly versatile Open Source wiki software"
+[Achim Trinkner]: https://www.trinkner.de/ "Auto und Zweirad Trinkner"

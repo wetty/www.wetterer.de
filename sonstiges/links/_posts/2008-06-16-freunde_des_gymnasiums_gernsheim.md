@@ -5,4 +5,4 @@ comments: true
 share: true
 link: http://www.freundedesgymnasiumsgernsheim.de/
 ---
-{% include wetty/webshot.html %} Die Seiten der Freunde des Gernsheimer Gymnasiums.
+Die Seiten der Freunde des Gernsheimer Gymnasiums.

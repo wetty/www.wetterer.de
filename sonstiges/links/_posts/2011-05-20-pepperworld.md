@@ -6,4 +6,4 @@ share: true
 link: http://www.pepperworld.com
 tags: [Chilis]
 ---
-{% include wetty/webshot.html %} Das Schärfste aus der Welt der Chili Peppers für Chili-Fans, Chiliheads, Scharfschmecker und alle, die es werden wollen!
+Das Schärfste aus der Welt der Chili Peppers für Chili-Fans, Chiliheads, Scharfschmecker und alle, die es werden wollen!

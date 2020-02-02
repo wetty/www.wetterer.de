@@ -6,4 +6,4 @@ share: true
 link: http://www.trinkner.de/motorrad/achim.trinkner/index.html
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Die Seite des SuperMoto Prestige Fahrers Achim Trinkner. Bei ein paar seiner durchgeführten Supermoto Trainings am Hockenheimring war ich dabei.
+Die Seite des SuperMoto Prestige Fahrers Achim Trinkner. Bei ein paar seiner durchgeführten Supermoto Trainings am Hockenheimring war ich dabei.

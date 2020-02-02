@@ -1,9 +1,9 @@
 ---
 title: "Super Moto St. Wendel 2003"
 date: 2003-09-28 19:45
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Aufgrund einer Absage bei den Amateuren nur als Besucher und um ein paar Bilder zu machen.
 

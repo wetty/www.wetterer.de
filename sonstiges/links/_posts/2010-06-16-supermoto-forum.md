@@ -6,4 +6,4 @@ share: true
 link: http://www.supermoto-forum.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} Das Forum rund um Super Moto.
+Das Forum rund um Super Moto.

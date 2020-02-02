@@ -6,4 +6,4 @@ share: true
 link: http://www.msc-walldorf-astoria.de/
 tags: [Motorsport Vereine]
 ---
-{% include wetty/webshot.html %} Motor-Sport-Club Walldorf Astoria. Im Sommer Mittwochs und Donnerstags freies Supermoto Training auf der Kartbahn (Meine Hausstrecke sozusagen).
+Motor-Sport-Club Walldorf Astoria. Im Sommer Mittwochs und Donnerstags freies Supermoto Training auf der Kartbahn (Meine Hausstrecke sozusagen).

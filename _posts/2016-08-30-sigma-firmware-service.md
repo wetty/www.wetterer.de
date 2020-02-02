@@ -1,6 +1,8 @@
 ---
 title: "SIGMA Firmware Service"
 date: 2016-08-30 17:50:39+0200
+tags: 
+- Fotografie
 ---
 Heute Mittag war ich in der Deutschland Zentrale von [SIGMA]{: target="_blank" rel="noopener noreferrer"}, um bei meinen zwei SIGMA Objektiven ein Firmware Update machen zu lassen.
 

@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Saarbrücken 2004"
 date: 2004-03-14 13:30
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 **INTERMOTO 13.+14. März 2004**
 

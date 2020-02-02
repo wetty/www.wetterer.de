@@ -1,8 +1,8 @@
 ---
 title: "Hommage - Super Moto in Bensheim 2008"
 date: 2008-05-29 11:46
-categories: 
-- Supermoto
+tags: 
+
 ---
 Jahre sind ins Land gegangen, an denen ich an Christi Himmelfahrt nicht  ins Crumschter Wäldchen geradelt bin um mit den Jungs genüsslich einen  zu heben. Nicht weil dass keinen Spaß bringen würde, oder ich die daraus  entstehenden Nachwehen nicht ertragen wollte. Nein, natürlich nicht.
 
@@ -20,7 +20,7 @@ Vormittags sind die Trainings und Mittags die Rennen.
 
 Wie immer werde ich versuchen nicht letzter zu werden. Aus dem Grund hab  ich mir schon folgenden Trainingsplan aufgestellt:
 
-**Montag:** 16-20 Uhr Super Moto Training mit [Achim Trinkner](http://http://www.trinkner.de) auf dem Hockenheim Ring
+**Montag:** 16-20 Uhr Super Moto Training mit [Achim Trinkner]{: target="_blank" rel="noopener noreferrer nofollow"} auf dem Hockenheim Ring
 
 **Dienstag Nachmittag:** Freies Training auf der Kart bahn in Schaafheim
 

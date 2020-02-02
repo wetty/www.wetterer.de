@@ -1,9 +1,9 @@
 ---
 title: "Super Moto St. Wendel 2002"
 date: 2002-06-09 17:31
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 Am Start in der Amateure (Challenge) in St. Wendel vom 08.-09.06.2002.
 

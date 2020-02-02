@@ -6,4 +6,4 @@ share: true
 link: http://www.keywelt-board.com/
 tags: [DBox]
 ---
-{% include wetty/webshot.html %} Keywelt-Board zu den Themenbereichen MOSC / EMU's / Paytv
+Keywelt-Board zu den Themenbereichen MOSC / EMU's / Paytv

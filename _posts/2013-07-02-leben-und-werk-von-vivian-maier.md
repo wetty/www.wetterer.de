@@ -1,7 +1,7 @@
 ---
 title: "Leben und Werk von Vivian Maier"
 date: 2013-07-02T08:38:42+02:00
-categories: 
+tags: 
 - Fotografie
 - Video
 ---
@@ -9,7 +9,7 @@ Nur durch Zufall wurden über 150000 Fotografien von [Vivian Maier]{: target="_b
 
 Die BBC hat über das Leben und Werk von [Vivian Maier]{: target="_blank" rel="noopener noreferrer"} eine Dokumentation gedreht.
 
-{% include wetty/youtube.html param="8ZoYG1kgMNo" %}
+{% include video provider="youtube" id="8ZoYG1kgMNo" %}
 
 <!--Video war mal 0_ZKYhtSHmg-->
 

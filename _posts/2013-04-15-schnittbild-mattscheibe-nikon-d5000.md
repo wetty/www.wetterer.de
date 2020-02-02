@@ -1,7 +1,7 @@
 ---
 title: "Schnittbild Mattscheibe Nikon D5000"
 date: 2013-04-15T19:00:36+02:00
-categories: 
+tags: 
 - Fotografie
 - Review
 ---

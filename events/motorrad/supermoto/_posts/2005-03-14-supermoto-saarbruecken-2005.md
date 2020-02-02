@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Saarbrücken 2005"
 date: 2005-03-14 16:34
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 
 Auf dem Gelände der Saarmesse fand, wie schon in den letzen Jahren der Auftakt der Super Moto Saison 2005 statt.

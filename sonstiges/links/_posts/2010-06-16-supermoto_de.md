@@ -6,4 +6,4 @@ share: true
 link: http://www.supermoto.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} SUPER MOTO online - alles zum Thema! Berichte, News, Infos, Hintergründe!
+SUPER MOTO online - alles zum Thema! Berichte, News, Infos, Hintergründe!

@@ -25,3 +25,7 @@ Hier stehen alle Motorräder, mit denen ich mal unterwegs war, bzw. die ich mal 
   * [{{ moto.title }}]({{ moto.url }}){% endfor %}
 
 
+## Autos mit Geschichte
+Über ein Auto gab es auch des öfteren was zu berichten.
+
+  * [Fiat Doblo Cargo Natural Power](/sonstiges/garage/fiat-doblo-cargo-natural-power/)

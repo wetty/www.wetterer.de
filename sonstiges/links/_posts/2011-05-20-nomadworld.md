@@ -6,6 +6,6 @@ share: true
 link: http://www.nomadworld.com/
 tags: [MP3]
 ---
-{% include wetty/webshot.html %} Home of creatives Nomad MP3 Player. 
+Home of creatives Nomad MP3 Player. 
 
 Mittlerweile ist die Domain auf creative.com umgeleitet.

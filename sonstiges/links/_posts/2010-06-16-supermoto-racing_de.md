@@ -6,4 +6,4 @@ share: true
 link: http://www.supermoto-racing.de/
 tags: [Supermoto]
 ---
-{% include wetty/webshot.html %} The ultimate Drift-Zone!
+The ultimate Drift-Zone!

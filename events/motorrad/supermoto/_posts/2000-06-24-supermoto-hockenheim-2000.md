@@ -1,9 +1,9 @@
 ---
 title: "Super Moto Hockenheim 2000"
 date: 2000-06-24 16:23
-categories: 
-- galerie
-- Supermoto
+tags: 
+- Galerie
+
 ---
 {% include wetty/image.html class="left" path="/assets/images/supermoto/2000/hockenheim/programmheft.jpg" width=338 height=458 %}
 <br />

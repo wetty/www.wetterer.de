@@ -6,4 +6,4 @@ share: true
 link: http://www.thewares.net/item/33
 tags: [Digitale Bilderrahmen]
 ---
-{% include wetty/webshot.html %} Nach diesem Artikel soll auch mein Bilderrahmen entstehen.
+Nach diesem Artikel soll auch mein Bilderrahmen entstehen.

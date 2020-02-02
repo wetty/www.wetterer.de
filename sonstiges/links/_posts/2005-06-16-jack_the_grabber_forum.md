@@ -7,4 +7,4 @@ share: true
 link: http://www.jackthegrabber.de/
 tags: [DBox]
 ---
-{% include wetty/webshot.html %} The future of recording
+The future of recording
