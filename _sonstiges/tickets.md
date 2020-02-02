@@ -2,11 +2,11 @@
 title: "Tickets"
 layout: tag
 order: 2
-description: Nicht vollständige Sammlung der Tickets/Eintritskarten.
+description: Nicht ganz vollständige Sammlung der Tickets bzw. Eintrittskarten.
 taxonomy: ticket
 permalink: /sonstiges/tickets/
 redirect_from:
   - /tickets/
 ---
 
-Nicht vollständige Sammlung der Tickets/Eintritskarten.
+Nicht ganz vollständige Sammlung der Tickets bzw. Eintrittskarten.

@@ -1,7 +1,7 @@
 ---
 title: "Google Car in Darmstadt"
 date: 2009-07-29 22:00
-categories: 
+tags: 
 - Google
 ---
 {% include wetty/picture_left.html img="Blog/photo_072909_001jpg_3769288759_o.jpg" alt="Google Car" %}

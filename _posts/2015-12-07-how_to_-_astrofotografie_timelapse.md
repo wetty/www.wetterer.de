@@ -1,7 +1,7 @@
 ---
 title: How To - Astrofotografie Timelapse
 date: 2015-12-07 12:23 CET
-categories: 
+tags: 
 - Fotografie
 - Video
 ---

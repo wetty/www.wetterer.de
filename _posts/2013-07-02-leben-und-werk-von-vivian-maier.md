@@ -1,7 +1,7 @@
 ---
 title: "Leben und Werk von Vivian Maier"
 date: 2013-07-02T08:38:42+02:00
-categories: 
+tags: 
 - Fotografie
 - Video
 ---
