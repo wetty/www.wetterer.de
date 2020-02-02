@@ -1,0 +1,6 @@
+<figure class="half">
+{% for member in include.data %}
+<a href="{{ site.url_cloudinary_popup}}{{ member.image }}" class="{{ site.image_popup_class }}" title="{{ member.alt }}">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_{width},c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 200, 250]" /></a>
+{% endfor %}
+</figure>

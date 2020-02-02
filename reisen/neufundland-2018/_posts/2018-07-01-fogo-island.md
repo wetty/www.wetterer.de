@@ -49,7 +49,7 @@ Ich mach noch ein paar Bilder außerhalb des Hotels und dann laufen wir zurück 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_140046_D75_8174.jpg" alt="Fogo Island Inn" %}
 
 
-{% include wetty/gallery_4.html data=site.data.2018-07-01-fogo-island %}
+{% include wetty/gallery_2.html data=site.data.2018-07-01-fogo-island %}
 
 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_140928_D75_8188-Pano.jpg" alt="Fogo Island Inn" %}
