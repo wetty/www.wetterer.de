@@ -6,7 +6,7 @@ tags: [Endurofahrt]
 ---
 Die Bilder der Endurofahrt 2012 [MC Pfungstadt e.V.]{: target="_blank" rel="noopener noreferrer"} des MC Pfungstadt sind nun endlich online.
 
-Ich war dieses Jahr mit meiner [Husaberg FE 570](/garage/husaberg_fe_570_supermoto_bj_2009/) und der Startnummer 1 unterwegs.
+Ich war dieses Jahr mit meiner [Husaberg FE 570](/sonstiges/garage/husaberg_fe_570_supermoto_bj_2009/) und der Startnummer 1 unterwegs.
 
 Nachdem ich mich in der vorletzten Runde abgelegt hatte, hab ich vorzeitig die Fahrt beendet.
 
