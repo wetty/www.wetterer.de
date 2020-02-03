@@ -1,3 +1,8 @@
+| Wertungsbeispiel:                                | Punkte |
+|--------------------------------------------------|--------|
+| Keine Überschreitung der vorgegebenen Rundenzeit | 0 |
+
+
 <table class="table_results">
 	<tr class="row0">
 		<th class="col0" width="90%"> Wertungsbeispiel: </th><th class="col1"> Punkte </th>
