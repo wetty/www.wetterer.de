@@ -1,6 +1,15 @@
+{% if false %}
 <figure class="eighth">
 {% for member in include.data %}
 <a href="{{ site.url_cloudinary_popup}}{{ member.image }}" class="{{ site.image_popup_class }}" title="{{ member.alt }}">
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_square }}{{ member.image }}" class="square lazyload" width="75" height="75" alt="{{ member.alt }}" /></a>
+{% endfor %}
+</figure>
+{% endif %}
+
+<figure class="eighth">
+{% for member in include.data %}
+<a href="{{ site.url_cloudinary_popup}}{{ member.image }}" class="{{ site.image_popup_class }}" title="{{ member.alt }}">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_{width},c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 133, 150, 183, 200, 225, 250, 300, 350, 400, 450]" /></a>
 {% endfor %}
 </figure>
