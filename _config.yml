@@ -132,7 +132,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-2881242-4
+    tracking_id          : UA-2881242-5
     anonymize_ip         : true # true, false (default)
 
 # Site owner
