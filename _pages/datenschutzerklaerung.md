@@ -164,3 +164,7 @@ Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu 
 Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: <a href="https://www.google.de/intl/de/policies/privacy/" target="_blank">https://www.google.de/intl/de/policies/privacy/</a>.
+
+{% if site.analytics.provider %}
+{% include ga-datenschutzerklaerung.html %}
+{% endif %}
