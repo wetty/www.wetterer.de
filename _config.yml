@@ -16,21 +16,23 @@ minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark",
 
 url_cdn: //d2s7alet3cn0i1.cloudfront.net
 # url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,w_1600,c_scale,fl_progressive/popup/
-url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_large_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1432/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_large_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_medium: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_medium_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1032/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_medium_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_75,h_75,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
+
+url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/
+url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_268/popup/
+url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,c_thumb,w_75,h_75/popup/
+url_cloudinary_width: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_{width}/
+
+# url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_large_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1432/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_large_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1032/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
 version: ".34"
 
-url_cloudinary_responsive: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_auto,c_scale,fl_progressive/https://www.wetterer.de/assets/images/responsive/popup/
 
  
 #head_scripts:
