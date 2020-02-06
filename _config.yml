@@ -19,6 +19,7 @@ url_cdn: //d2s7alet3cn0i1.cloudfront.net
 
 url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/
 url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_268/popup/
+url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_268/popup/
 url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,c_thumb,w_75,h_75/popup/
 url_cloudinary_width: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_{width}/popup/
 url_cloudinary_width_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_{width}/popup/
