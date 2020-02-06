@@ -10,7 +10,7 @@
 <meta name="theme-color" content="#ffffff">
 
 <style>
-/*	.blur-up {
+	.blur-up {
 		-webkit-filter: blur(5px);
 		filter: blur(5px);
 		transition: filter 600ms, -webkit-filter 600ms;
@@ -26,42 +26,7 @@
 		-webkit-filter: blur(0);
 		filter: blur(0);
 	}
-*/	
-	.mediabox-img.ls-blur-up-is-loading,
-	.mediabox-img.lazyload:not([src]) {
-	  visibility: hidden;
-	}
-
-	.mediabox {
-	  position: relative;
-	  display: block;
-	  height: 0;
-	  width: 100%;
-	  padding-bottom: 66.6667%;
-	}
-
-	.ls-blur-up-img,
-	.mediabox-img {
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 100%;
-	  height: 100%;
-	  display: block;
-	  font-family: "blur-up: always", "object-fit: cover";
-	  object-fit: cover;
-	}
-
-	.ls-blur-up-img {
-	  filter: blur(10px);
-	  opacity: 1;
-	  transition: opacity 3000ms, filter 1500ms;
-	}
-
-	.ls-blur-up-img.ls-inview.ls-original-loaded {
-	  opacity: 0;
-	  filter: blur(5px);
-	}
+	
 	
 	.page__content {
 	    text-align: justify;
@@ -135,8 +100,9 @@ a[href*="amazon.de"]:after, a[href*="amazon.com"]:after, a[href*="amzn.to"]:afte
 <script src="/assets/js/ls.rias.min.js"></script>
 <script src="/assets/js/lazysizes.min.js"></script>
 <script src="https://cdn.jsdelivr.net/g/lazysizes(lazysizes.min.js+plugins/rias/ls.rias.min.js)" async=""></script>
+<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js,gh/aFarkas/lazysizes/plugins/blur-up/ls.blur-up.min.js" async=""></script>
 -->
 
-<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js,gh/aFarkas/lazysizes/plugins/blur-up/ls.blur-up.min.js" async=""></script>
+<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js" async=""></script>
 
 <!-- end custom head snippets -->
