@@ -53,7 +53,7 @@ version: ".35"
 locale                   : "de-DE"
 title                    : "Wetty's Web World"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Weil immer was geht. # site tagline that appears below site title in masthead
 name                     : &name "Thomas Wetterer"
 description              : &description "Alles was Thomas Wetterer, alias Wetty interessiert. Vom Reisen, Segeln, übers Motorrad fahren, bis zum fotografieren, sowie das Internet generell."
 url                      : https://www.wetterer.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -150,7 +150,7 @@ owner:
 # Site Author
 author:
   name             : "Thomas Wetterer"
-  avatar           : "/assets/images/thomas-wetterer.jpg"
+  avatar           : "//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_98/assets/images/thomas-wetterer.jpg"
   bio              : "Dipl.-Ing. Elektrotechnik"
   location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
