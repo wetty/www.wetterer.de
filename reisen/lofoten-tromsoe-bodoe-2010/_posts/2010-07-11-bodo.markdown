@@ -2,7 +2,7 @@
 title: "Bodö"
 date: 2010-07-11 19:53
 ---
-{% include wetty/picture_left.html img="2010-07-04-Lofoten-Tromsoe-Bodoe/dscf2812jpg_4812167015_o.jpg" alt="Bodö" %}
+{% include wetty/picture.html class="align-left" img="2010-07-04-Lofoten-Tromsoe-Bodoe/dscf2812jpg_4812167015_o.jpg" alt="Bodö" %}
 Nach einem Mittagessen halt in Kjerringöy gings bei schlechtem Wetter mit Motor weiter nach Bodö.
 
 Samstag Abend gings nach dem Essen in die Hotel Bar des Radisson, die oben im letzten Stockwerk ist. Bei schönem Wetter hätte man hier einen grandiosen Ausblick. Nach einem Cocktail stürzten wir uns ins Taghelle Nachtleben.

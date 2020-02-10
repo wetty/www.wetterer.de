@@ -1,7 +1,7 @@
 ---
 title: "Party Time Galerie"
 date: 2013-06-12T16:35:56+02:00
-tags: [galerie]
+tags: [Galerie]
 ---
 Eine Ära geht zu Ende.
 

@@ -2,7 +2,7 @@
 title: "Monte Gelbison"
 date: 2009-08-15 15:04
 ---
-{% include wetty/picture_left.html img="2009-08-08-Kampanien/DSCF2246.JPG" alt="Kampanien" class="left" %}
+{% include wetty/picture.html class="align-left" img="2009-08-08-Kampanien/DSCF2246.JPG" alt="Kampanien" %}
 
 Am gestrigen Freitag waren wir auf dem Monte Gelbison. Der auch als Monte Sacro bezeichnete Berg ist 1705 m hoch. Die Anfahrt für die rund 50 km dauerte gut eine Stunde. Zu dem auf dem Gipfel gelegene Kloster führt eine recht gute Straße. Wer will kann aber auch zu Fuß, über den Pilgerpfad, den Aufstieg in Angriff nehmen.
 

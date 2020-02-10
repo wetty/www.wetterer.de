@@ -1,7 +1,7 @@
 ---
 title: "Formel 1 Freitags - Training"
 date: 2000-07-28 19:56
-tags: [galerie]
+tags: [Galerie]
 ---
 Bilder des Freitags Trainings am 28.07.2000
 

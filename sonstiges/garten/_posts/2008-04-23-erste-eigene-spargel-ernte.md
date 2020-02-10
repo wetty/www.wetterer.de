@@ -3,7 +3,7 @@ title: "Erste eigene Spargel Ernte"
 date: 2008-04-23 09:03
 ---
 
-{% include wetty/picture_left.html img="Blog/dscf1109jpg_3889462653_o.jpg" alt="Spargel" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1109jpg_3889462653_o.jpg" alt="Spargel" %}
 
 Nach drei Jahren der Anzucht war es am letzten Sonntag endlich soweit. Mein erster Spargel hatte das Licht der Welt erblickt und konnte geerntet werden.
 

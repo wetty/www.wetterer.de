@@ -1,7 +1,7 @@
 ---
 title: "Moto GP am Sachensring 2003"
 date: 2003-07-27 18:23
-tags: [ticket,galerie,Moto GP]
+tags: [ticket,Galerie,Moto GP]
 ---
 Der Moto GP am 27.07.2003 zu Gast auf dem Sachsenring mit einigen Bildern.
 {% include wetty/picture.html img="Tickets/gp2003_front.jpg" alt="Moto GP 2003" %}

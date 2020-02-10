@@ -6,7 +6,7 @@ Kerstin hat uns Ihren Bus geliehen und so konnten wir zu einem Landausflug aufbr
 
 <!--more-->
 
-{% include wetty/picture_left.html img="Blog/dscf1931jpg_3632578005_o.jpg" alt="Landausflug" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1931jpg_3632578005_o.jpg" alt="Landausflug" %}
 
 Es ging nach Odda und kurz dahinter zu den Lätefossen. Das sind zwei recht imposante Wasserfälle, direkt an der Strasse.
 

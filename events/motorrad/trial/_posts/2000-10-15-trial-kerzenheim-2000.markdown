@@ -1,7 +1,7 @@
 ---
 title: "Trial Kerzenheim 2000"
 date: 2000-10-15 19:27
-tags: [galerie]
+tags: [Galerie]
 ---
 Trial in Kerzenheim am 15.10.2000 
 

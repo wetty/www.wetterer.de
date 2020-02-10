@@ -3,7 +3,7 @@ title: "Frühstück auf Vancouver Island"
 date: 2008-06-24 09:11
 ---
 
-{% include wetty/picture_left.html img="Blog/img_4115jpg_3889542869_o.jpg" alt="Frühstück" %}
+{% include wetty/picture.html class="align-left" img="Blog/img_4115jpg_3889542869_o.jpg" alt="Frühstück" %}
 
 Nach einer halben Ewigkeit, waren wir gestern gegen 16:30 Uhr Ortszeit endlich hier. Shirley hat uns abgeholt und direkt zu unserem Appartment gebracht. Scheint das wir einen Glücksgriff gelandet haben. Wir wohnen direkt am Wasser, mit direktem Ausblick auf die Inselwelt. WLAN Internetzugang gibts auch. Was will man mehr.
 

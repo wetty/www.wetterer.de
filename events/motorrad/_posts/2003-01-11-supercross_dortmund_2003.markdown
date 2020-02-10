@@ -1,7 +1,7 @@
 ---
 title: "Supercross Dortmund 2003"
 date: 2003-01-11 22:44
-tags: [ticket,galerie,supercross]
+tags: [ticket,Galerie,supercross]
 ---
 
 Supercross am 11.01.2003 in der Westfalenhalle Dortmund mit einigen Bildern.

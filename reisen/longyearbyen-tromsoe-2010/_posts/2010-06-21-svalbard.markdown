@@ -3,7 +3,7 @@ title: "Svalbard"
 date: 2010-06-20 16:34
 ---
 
-{% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2501jpg_4804449446_o.jpg" alt="Svalbard" %}
+{% include wetty/picture.html class="align-left" img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2501jpg_4804449446_o.jpg" alt="Svalbard" %}
 Der erste Flug nach Oslo (1 Stunde 40 Minuten) verlief ohne Zwischenfälle. Getr&auml;nke und Snacks gab es nur gegen Bezahlung. In Oslo holt man sein komplettes Gep&auml;ck normalerweise ab, und checkt es dann f&uuml;r den Weiterflug wieder ein. Tja, irgendwann standen nur noch 5 Leute vor dem leeren Gep&auml;ckband. Nach nachfragen kam dann raus, dass dieses mal das Gep&auml;ck durchgecheckt wurde, wir uns also um nix k&uuml;mmern m&uuml;&szlig;ten.
 
 <!--more-->

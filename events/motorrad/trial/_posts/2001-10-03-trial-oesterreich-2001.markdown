@@ -1,7 +1,7 @@
 ---
 title: "Trial Österreich 2001"
 date: 2001-10-03 21:44
-tags: [galerie]
+tags: [Galerie]
 ---
 Trial in Österreich im Oktober 2001
 

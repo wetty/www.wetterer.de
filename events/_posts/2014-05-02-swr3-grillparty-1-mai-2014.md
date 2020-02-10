@@ -8,7 +8,7 @@ tags:
 - grillen
 ---
 
-{% include wetty/picture_left.html img="2014-05-01-swr3-grillen/20140501-115229-D71_2696.jpg" alt="Zutaten" class="left" %}
+{% include wetty/picture.html class="align-left" img="2014-05-01-swr3-grillen/20140501-115229-D71_2696.jpg" alt="Zutaten" %}
 
 Gestern war es wieder mal soweit, die [SWR3]{: target="_blank" rel="noopener noreferrer"} Grillparty mit [Johann Lafer]{: target="_blank" rel="noopener noreferrer"} fand statt. Wir waren wieder mal mit dabei und grillten mit. Diesmal konnte man das ganze nicht nur im SWR3 Radio mitverfolgen, sondern auch in einer 6 stündigen Fernsehsendung.
 
@@ -25,28 +25,28 @@ Vor der Nachspeise, so gegen 18 Uhr, haben wir dann auch erstmal pausiert und si
 ## Vorspeise - Schollen-Rosen ##
 **Sanft gegrillte Schollen-Rosen mit Kräutermayonnaise und Rettich-Gurkensalat**
 
-{% include wetty/picture_left.html img="2014-05-01-swr3-grillen/20140501-142248-D71_2700.jpg" alt="Schollen-Rosen" class="left" %}
+{% include wetty/picture.html class="align-left" img="2014-05-01-swr3-grillen/20140501-142248-D71_2700.jpg" alt="Schollen-Rosen" %}
 
 Unsere Schollenrosen waren eher Rouladen. Wir hätten die Schollenfiletts wohl längs halbieren müssen. Johann Lafer hat hier von seinem Fischhändler Kritik bekommen, das es eigentlich noch zu früh ist für die Mai-Schollen. Das hatten wir uns im Vorfeld auch schon gedacht.
 
 ## Zwischengang - Spargelgulasch ##
 **Spargelgulasch mit Räucherschinken und Löffel-Chili Maisbrot**
 
-{% include wetty/picture_left.html img="2014-05-01-swr3-grillen/20140501-160140-D71_2705.jpg" alt="Spargelgulasch" class="left" %}
+{% include wetty/picture.html class="align-left" img="2014-05-01-swr3-grillen/20140501-160140-D71_2705.jpg" alt="Spargelgulasch" %}
 
 Das hat auch funktioniert. Dank indirektem grillen mit Wasserschale in der Mitte des Grills war unser Brot auch nicht verbrannt. Wir hätten allerdings den Teig etwas mehr salzen können, um etwas mehr Geschmack in das Brot zu bekommen. Die Chilis kamen jedenfalls gut durch.
 
 ## Hauptgang - Involtini ##
 **Involtini vom Thai-Chili Hühnchen mit Kokoswürfeln und feinem Fruchtreis**
 
-{% include wetty/picture_left.html img="2014-05-01-swr3-grillen/20140501-172153-D71_2709.jpg" alt="Involtini" class="left" %}
+{% include wetty/picture.html class="align-left" img="2014-05-01-swr3-grillen/20140501-172153-D71_2709.jpg" alt="Involtini" %}
 
 Der Reis wurde ja schon am Tag zuvor gekocht und mußte nur noch warm gemacht werden. Allerdings war unsere Grillkohle schon etwas nieder gebrannt und die Früchte wollten nur langsam warm werden. Hat aber doch noch geklappt. Bei den Kokoswürfeln hatten wir auf die fertigen Kokosraspeln verzichtet. Daher wurden unsere Kokoswürfel wohl nicht hart. Na ja, jedenfalls war uns die viel zu süß und wir hätten sie nicht gebraucht.
 
 ## Dessert - Cheese Cake ##
 **Cheese Cake vom Grill mit Honig-Basilikum Erdbeeren und Kardamomsabayon**
 
-{% include wetty/picture_left.html img="2014-05-01-swr3-grillen/20140501-185956-D71_2713.jpg" alt="Cheese Cake" class="left" %}
+{% include wetty/picture.html class="align-left" img="2014-05-01-swr3-grillen/20140501-185956-D71_2713.jpg" alt="Cheese Cake" %}
 
 Das Rezept haben wir etwas abgewandelt und einen Cheese Cake aus dem Ofen daraus gemacht. Unser Boden war vielleicht etwas dick, aber ansonsten ist er gut gelungen. Auch hier fragten wir uns warum zu einer so frühen Jahreszeit schon Erdbeeren sein mussten.
 
@@ -59,7 +59,7 @@ Passend zur Grillparty, hab ich mich mal zum Thema Foodfotografie schlau gemacht
 Hier die entstandenen Bilder: 
 
 
-{% include wetty/gallery.html data=site.data.swr3-grillen-2014 %}
+{% include wetty/gallery_4.html data=site.data.swr3-grillen-2014 %}
 
 
 {% include _references.md %}

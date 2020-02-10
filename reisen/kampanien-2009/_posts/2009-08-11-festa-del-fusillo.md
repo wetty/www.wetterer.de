@@ -6,7 +6,7 @@ Am Sonntag ging es hinauf zum Festa del Fusillo in Mercato Cilento. Quasi einem 
 
 <!--more-->
 
-{% include wetty/picture_left.html img="2009-08-08-Kampanien/DSCF2163.JPG" alt="Kampanien" class="left" %}
+{% include wetty/picture.html class="align-left" img="2009-08-08-Kampanien/DSCF2163.JPG" alt="Kampanien" %}
 
 Kurz vor acht erreichten wir das Ziel. Vor einem Hotel war für zahlreiche Gäste eingedeckt. Das Fest ging allerdings erst um 20:00 Uhr los, also vertraten wir uns noch etwas die Beine.
 

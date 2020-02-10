@@ -1,7 +1,7 @@
 ---
 title: "2. Biebesheimer Enduro"
 date: 2013-07-08T16:35:44+02:00
-tags: [galerie]
+tags: [Galerie]
 ---
 Jetzt ist es mir gelungen auch das 2. Biebesheimer Enduro des [RMSV-Biebesheim e.V.](http://www.rmsv-biebesheim.de/) am vergangenen Samstag, den 06.07.2013, zu verpassen. Beim ersten mal vor vier Jahren war ich schon nicht dabei und diesmal hab ich erst Donnerstags Abend vor dem Lauf davon erfahren. Zu spät für mich, um meine 570er Husaberg von Super Moto auf Enduro umzubauen.
 

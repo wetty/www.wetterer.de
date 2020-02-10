@@ -6,7 +6,7 @@ Wir sind in Telegraph Cove angekommen. Auf der Fahrt hierher waren wir noch kurz
 
 <!--more-->
 
-{% include wetty/picture_left.html img="Blog/dscf1333_7630530284_o.jpg" alt="Telegraph Cove" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1333_7630530284_o.jpg" alt="Telegraph Cove" %}
 
 Telegraph Cove ist ein kleiner Hafen für Sportboote. Hier meist Angler. Der Campground ist über eine Schotterstrasse zu erreichen und liegt mitten im Wald. An einem Rundweg durch den Wald liegen einzelne Parknischen. Dort gibt es Wasser und Stromanschluß, sowie eine Feuerstelle. Feuerholz gibt es für 5$. Wir sollen die blaue Plastikbox zum tragen, oder gleich den Schubkarren, der an den Waschgelegenheiten steht, nehmen. Wir nehmen natürlich den Schubkarren und laden den voll mit 40x40x15 cm großen Holzscheiten. Beim Weg zu unserem Camper lachen die Nachbarn schon.
 

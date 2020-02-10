@@ -1,7 +1,7 @@
 ---
 title: "Formel 1 Samstags - Training"
 date: 2000-07-29 18:12
-tags: [galerie]
+tags: [Galerie]
 ---
 Bilder des Samstags Trainings am 29.07.2000
 

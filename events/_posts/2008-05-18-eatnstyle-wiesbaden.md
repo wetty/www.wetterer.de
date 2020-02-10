@@ -2,7 +2,7 @@
 title: "Eat'n'Style Wiesbaden"
 date: 2008-05-18 13:25
 ---
-{% include wetty/picture_left.html img="Blog/dscf1214jpg_3890240416_o.jpg" alt="Eat n Style" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1214jpg_3890240416_o.jpg" alt="Eat n Style" %}
 
 Gestern waren wir auf der eat'n'style in Wiesbaden. Eine Messe rund ums Essen und allem was dazu gehört. Natürlich mit der Möglichkeit so gut wie alles probieren zu können.
 

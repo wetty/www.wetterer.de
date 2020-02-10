@@ -6,7 +6,7 @@ Die ersten waren gestern früh bereits gegen 05:00 Uhr mit dem Beiboot zum angel
 
 <!--more-->
 
-{% include wetty/picture_left.html img="Blog/dscf1910jpg_3633374408_o.jpg" alt="Preikestolen" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1910jpg_3633374408_o.jpg" alt="Preikestolen" %}
 
 Da das Wetter sich von seiner guten Seite zeigte, wurde die Besteigung des [Preikestolen](http://de.wikipedia.org/wiki/Preikestolen) angegangen. Der sogenannte "Predigerstuhl" ist eine 604m hohe senkrechte Felswand, mit einem kleinen Plateau. Per Taxi fuhren wir zum Anfang des Aufstiegs. Eigentlich sollte man für die Wanderung 2 Stunden für hoch sowie auch zwei Stunden für runter einplanen. Unser jugendliches Team brauchte nur eine Stunde und 5 Minuten zum Aufstieg. Ich bildete die Nachhut und brauchte 24 Minuten länger. Der Weg besteht zum größten Teil aus Steinen und kleineren Felsen, was das gehen nicht sehr unterstützt.
 

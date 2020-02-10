@@ -2,7 +2,7 @@
 title: "Nur Fliegen ist schöner"
 date: 2009-05-30 23:35
 ---
-{% include wetty/picture_left.html img="Blog/img_5399jpg_3636031561_o.jpg" alt="Rundflug" %}
+{% include wetty/picture.html class="align-left" img="Blog/img_5399jpg_3636031561_o.jpg" alt="Rundflug" %}
 
 Bevor wir Sonntag nach Hause fliegen, entschlossen wir uns noch zum einem Flug der besonderen Art. Was schöner besser sein als bei bestem Wetter einen Rundflug zu machen.
 

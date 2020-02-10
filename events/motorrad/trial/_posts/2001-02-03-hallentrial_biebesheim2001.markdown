@@ -1,7 +1,7 @@
 ---
 title: "Hallentrial Biebesheim 2001"
 date: 2001-02-03 13:19
-tags: [galerie]
+tags: [Galerie]
 ---
 
 | {% include wetty/image.html class="plainimg" path="/assets/images/htbiebesheim2001/eintrittskarte.gif" %} | Spektakel | {% include wetty/image.html class="plainimg" path="/assets/images/htbiebesheim2001/mystery.jpg" %} |

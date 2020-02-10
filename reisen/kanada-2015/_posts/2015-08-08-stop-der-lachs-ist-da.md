@@ -2,7 +2,7 @@
 title: "Stop - Der Lachs ist da"
 date: 2015-08-08 16:27:02
 ---
-{% include wetty/picture_left.html img="kanada-2015/D71_0953.JPG" alt="Stop - Der Lachs ist da" %} 
+{% include wetty/picture.html class="align-left" img="kanada-2015/D71_0953.JPG" alt="Stop - Der Lachs ist da" %} 
 
 Der Lachs ist da. Ein Schild weisst darauf hin, das die ersten Lachse zum laichen angekommen sind. Auf einer kleinen Aussichtsplattform am Fluss kann man tatsächlich ein paar der rötlichen Chinook Lachse sehen.
 

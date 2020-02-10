@@ -1,0 +1,34 @@
+figure {
+
+  &.fourth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(25% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+
+  &.eighth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(12.5% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+}
+
+figure.align-left, figure.align-right {
+	@include breakpoint($small) {
+	width: 33%;
+   }
+}

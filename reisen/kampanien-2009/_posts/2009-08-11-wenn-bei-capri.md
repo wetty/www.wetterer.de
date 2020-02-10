@@ -8,13 +8,13 @@ Früh morgens ging es zum Hafen in San Marco. Von dort geht die Schnellfähre di
 
 <!--more-->
 
-{% include wetty/picture_left.html img="2009-08-08-Kampanien/DSCF2174.JPG" alt="Kampanien" class="left" %}
+{% include wetty/picture.html class="align-left" img="2009-08-08-Kampanien/DSCF2174.JPG" alt="Kampanien" %}
 
 In Capri angekommen fuhren wir direkt mit der Funicolare (Einer Standseilbahn) nach Capri Stadt. Von dort ging es dann mit dem Bus weiter nach Anacapri. Die Strecke läßt sich auch mit einem der in Capri typischen Cabriolet Taxis bezwingen. Das sind verlängerte handelsübliche Autos, die als Cabrios unterwegs sind. Ein Fiat Oldtimer aus vergangenen Tagen tut hier ebenfalls noch seinen Dienst.
 
 In Anacapri gab es erst einmal was zu essen. Dann ging es weiter in die Villa Miquelle. Das Haus bewohnte der Schriftstellers Axel Munthe. Heute dient es, sowie der angrenzende Garten als Museum. Von hier hat man auch einen wunderbaren Blick auf Capri und seinen Hafen.
 
-{% include wetty/picture_left.html img="2009-08-08-Kampanien/IMG_5525.JPG" alt="Kampanien" class="left" %}
+{% include wetty/picture.html class="align-left" img="2009-08-08-Kampanien/IMG_5525.JPG" alt="Kampanien" %}
 
 Von dort ging es per Sessellift weiter auf den Monte Solaro. Etwas höher ist es hier auch gleich etwas angenehmer. Die drei Felsen (Faraglioni di Capri) lassen von hier oben sehr schön erkennen. Nach einer Getränkepause ging es wieder mit dem Lift zurück.
 

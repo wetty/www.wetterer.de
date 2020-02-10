@@ -4,7 +4,7 @@ date: 2010-06-20 16:34
 excerpt: "Mit Gipsarm und Steuerrad nach Spitzbergen."
 ---
 
-{% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/4717484482_610372720f_o.jpg" alt="Longyearbyen-Tromsoe-Bodo" %}
+{% include wetty/picture.html class="align-left" img="2010-06-20-Longyearbyen-Tromso-Bodo/4717484482_610372720f_o.jpg" alt="Longyearbyen-Tromsoe-Bodo" %}
 
 
 Die ersten Hürden sind genommen. Mein fettes Gepäck incl. Steuerrad sind für 20.-€ als Sportgepäck eingecheckt.
