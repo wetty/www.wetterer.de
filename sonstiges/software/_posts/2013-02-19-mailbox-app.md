@@ -5,7 +5,7 @@ tags:
 - iPhone
 ---
 
-{% include wetty/picture_left.html img="Blog/img_0058_8489762474_o.jpg" alt="Mailbox App" %}
+{% include wetty/picture.html class="align-left" img="Blog/img_0058_8489762474_o.jpg" alt="Mailbox App" %}
 Am 8. Februar 2013 hab ich mir die Mailbox App installiert und meine ID 217494 aus der Vorreservierung eingetragen. Sage und schreibe warteten also 217494 Leute vor mir in der Warteschlange um endlich die hoch gepriesene Mailbox App mit sensationell neuem Bedienkonzept frei geschaltet zu bekommen.
 
 <!--more-->

@@ -4,7 +4,7 @@ date: 2009-07-29 22:00
 tags: 
 - Google
 ---
-{% include wetty/picture_left.html img="Blog/photo_072909_001jpg_3769288759_o.jpg" alt="Google Car" %}
+{% include wetty/picture.html class="align-left" img="Blog/photo_072909_001jpg_3769288759_o.jpg" alt="Google Car" %}
 
 Heute ist mir gegen 10:40 Uhr eines der Google Autos begegnet, welches Aufnahmen für Google Streetview macht. Es fuhr die Landgraf-Georg-Straße in Darmstadt Richtung B26. Auf der B26 ging es bis zur zweiten Abfahrt in Roßdorf, um dort direkt wieder auf die B26 zurück  nach Darmstadt zu fahren. Dem Nummernschild nach, war es in Frankreich zugelassen.
 

@@ -10,7 +10,7 @@ Nach einem Frühstück und dem Bummeln durch die Shops war warten angesagt. Der 
 
 In Neapel angekommen holten wir unseren Mietwagen, einen Renault Clio ab, und machten uns auf den Weg. Autofahren ist hier irgendwie anders. Wenn man bei erlaubten 70, durchgezogener Linie und Überholverbot, bereits gut 70 auf einer zweispurigen Strasse fährt, dann wird gerne mal eine dritte Spur aufgemacht. Auch vom lokalen Milchlaster, der Samstag Nachmittag anscheinend schnell ins Wochenende will.
 
-{% include wetty/picture_left.html img="2009-08-08-Kampanien/DSCF2142.JPG" alt="Kampanien" class="left" %}
+{% include wetty/picture.html class="align-left" img="2009-08-08-Kampanien/DSCF2142.JPG" alt="Kampanien" %}
 
 
 An unserem Apartment waren wir dann gegen kurz vor 18:00 Uhr. Unsere Vermieter wohnen unter uns. Die Wohnung ist relativ groß und hat alles was man so braucht Satelliten TV, Internet, einen erstklassichen Blick aufs Meer und einen Steinbackofen. Da werden wir mal sehen ob wir Brot backen können, bzw. zumindest mal ein paar Pizzen.

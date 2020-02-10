@@ -1,7 +1,7 @@
 ---
 title: "DUCATI Werksbesichtigung 1999"
 date: 1999-12-02 21:45
-tags: [galerie]
+tags: [Galerie]
 ---
 DUCATI Werksbesichtigung in Bologna am 12.02.1999
 

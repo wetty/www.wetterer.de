@@ -1,7 +1,7 @@
 ---
 title: "Trial Nürburgring 2002"
 date: 2002-02-16 19:39
-tags: [galerie]
+tags: [Galerie]
 ---
 Trial am Nürburgring im Februar 2002. 
 

@@ -1,7 +1,7 @@
 ---
 title: "Blog Bilder Kanada 2015"
 date: 2015-09-13T12:49:20+02:00
-tags: [galerie]
+tags: [Galerie]
 ---
 Hier sind nochmals alle Bilder der Kanada 2015 Artikel in einer Galerie zusammengefasst.
 

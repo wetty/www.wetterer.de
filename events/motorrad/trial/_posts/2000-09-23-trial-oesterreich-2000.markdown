@@ -1,7 +1,7 @@
 ---
 title: "Trial Österreich 2000"
 date: 2000-09-23 17:54
-tags: [galerie]
+tags: [Galerie]
 ---
 Der Versuch in Saalbach-Hinterklemm beim Trial anzutreten. 
 

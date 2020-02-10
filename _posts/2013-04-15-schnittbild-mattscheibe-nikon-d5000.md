@@ -6,7 +6,7 @@ tags:
 - Review
 ---
 
-{% include wetty/picture_left.html img="Blog/dsc_5870_8652873306_o.jpg" alt="Schnittbild Mattscheibe" %}
+{% include wetty/picture.html class="align-left" img="Blog/dsc_5870_8652873306_o.jpg" alt="Schnittbild Mattscheibe" %}
 Per Zufall hatte ich entdeckt, dass es auch für digitale Spiegelreflexkameras Mattscheiben mit Schnittbildindikator und Mikroprisma gibt. Die einfachsten Ausführungen gibt es bereits für wenige Euro.
 
 In einen Internet Auktionsportal hab ich dann für meine Nikon D5000 eine solche Mattscheibe von Bresson von einem chinesischen Versender für knapp 16 € incl. Versand gefunden. Insgesamt hat die Lieferung dann 3 Wochen gedauert.

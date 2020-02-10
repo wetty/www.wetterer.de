@@ -1,7 +1,7 @@
 ---
 title: "Weltmeisterschaftslauf der Kartsenioren"
 date: 1998-04-10 16:05
-tags: [galerie]
+tags: [Galerie]
 ---
 
 <style>
@@ -29,7 +29,7 @@ h2 {
 </style>
 	
 
-{% include wetty/picture_right.html img="Weltmeisterschaftslauf-der-Kartsenioren/i~000057_8130325817_o.jpg" alt="Kart" %}
+{% include wetty/picture.html class="align-right" img="Weltmeisterschaftslauf-der-Kartsenioren/i~000057_8130325817_o.jpg" alt="Kart" %}
 
 
 am 10. April 1998
@@ -48,7 +48,7 @@ Zweiter Lauf um 16:20, ebenfalls 15 Minuten.
 Kosten: 30,00 DM pro Heat.
 
 ---
-{% include wetty/picture_left.html img="Weltmeisterschaftslauf-der-Kartsenioren/i~000058_8130325739_o.jpg" alt="Kart" %}
+{% include wetty/picture.html class="align-left" img="Weltmeisterschaftslauf-der-Kartsenioren/i~000058_8130325739_o.jpg" alt="Kart" %}
 
 
 Die An- und Abreise wird freundlicherweise von

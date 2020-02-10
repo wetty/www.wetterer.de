@@ -3,7 +3,7 @@ title: "Es gab Fisch"
 date: 2009-05-24 11:46
 ---
 
-{% include wetty/picture_left.html img="Blog/dscf1924jpg_3633379656_o.jpg" alt="Haugesund" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1924jpg_3633379656_o.jpg" alt="Haugesund" %}
 
 Heute ging es von Stavanger, über Skudenes nach Haugesund. Das Wetter war stark bewölkt. Dem Regen sind wir nur knapp entkommen.
 

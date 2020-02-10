@@ -2,7 +2,7 @@
 title: "Abschiedsmenu"
 date: 2009-05-27 22:18
 ---
-{% include wetty/picture_left.html img="Blog/p1000428jpg_3665038537_o.jpg" alt="Abschiedsmenu" %}
+{% include wetty/picture.html class="align-left" img="Blog/p1000428jpg_3665038537_o.jpg" alt="Abschiedsmenu" %}
 Gestern Abend gab es zum Abschluss in Jondal ein fürstliches Menu. Lachsforelle mit Kartoffelgratin und Softeis mit Linie Aquavit zum Dessert. Sensationell. Wir waren alle geplättet.
 
 <!--more-->

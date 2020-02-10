@@ -1,7 +1,7 @@
 ---
 title: "Formel 1 Sonntags - Rennen"
 date: 2000-07-30 17:55
-tags: [galerie]
+tags: [Galerie]
 ---
 Bilder des Sonntags Rennen am 30.07.2000
 

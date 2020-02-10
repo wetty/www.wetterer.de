@@ -1,7 +1,7 @@
 ---
 title: "1. Klassik Gelaendefahrt 2014 - Beschleunigung"
 date: 2014-03-19T08:43:44+01:00
-tags: [galerie]
+tags: [Galerie]
 ---
 Hier die Bilder der Beschleunigungsprüfung der ersten Klassik Geländefahrt des [MC Pfungstadt e.V.]{: target="_blank" rel="noopener noreferrer"}.
 

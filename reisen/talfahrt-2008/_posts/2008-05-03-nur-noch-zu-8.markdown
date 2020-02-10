@@ -2,6 +2,6 @@
 title: "Nur noch zu 8"
 date: 2008-05-03 17:16
 ---
-{% include wetty/picture_left.html img="2008-04-23-talfahrt-2008/photo_050308_005_7568355442_o.jpg" alt="Nur noch zu 8" %}
+{% include wetty/picture.html class="align-left" img="2008-04-23-talfahrt-2008/photo_050308_005_7568355442_o.jpg" alt="Nur noch zu 8" %}
 
 Das nächste Crewmitglied hat den Toern verlassen. Bei Rendsburg haben wir den Kameraden an Land gelassen. Wir wollen heute noch versuchen bis Holtenau zu kommen.

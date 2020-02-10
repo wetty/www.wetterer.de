@@ -8,15 +8,15 @@ Lange genug Sprüche gemacht, dass ich mal ein Super Moto Rennen mitfahren würd
 
 <!--more-->
 
-{% include wetty/picture_left.html img="Supermoto_Heilbronn_1999/ktmlijpg_8290050417_o.jpg" alt="Super Moto Heilbronn 1999" class="left" size="Original" %}
+{% include wetty/picture.html class="align-left" img="Supermoto_Heilbronn_1999/ktmlijpg_8290050417_o.jpg" alt="Super Moto Heilbronn 1999" %}
 Dann mal alles abgeschraubt, was man fürs Rennen nicht braucht. Alle Schrauben, die was mit Öl zu tun haben, gesichert. Und alle Entlüftungsschläuche in einen mindestens 250 ccm großen Behälter geleitet.
 
 ---
-{% include wetty/picture_right.html img="Supermoto_Heilbronn_1999/ktmrejpg_8290050261_o.jpg" alt="Super Moto Heilbronn 1999" class="right" size="Original" %}
+{% include wetty/picture.html class="align-right" img="Supermoto_Heilbronn_1999/ktmrejpg_8290050261_o.jpg" alt="Super Moto Heilbronn 1999" %}
 Der offene Luftfilterdeckel, sowie der umbedüste Originalvergaser sollen, in Verbindung mir einem DAM Endtopf, für die nötige Leistung sorgen. Und außerdem ist 42 ja die Antwort auf alle Fragen.
 
 ---
-{% include wetty/picture_left.html img="Supermoto_Heilbronn_1999/transportjpg_8291108934_o.jpg" alt="Super Moto Heilbronn 1999" class="left" size="Original" %}
+{% include wetty/picture.html class="align-left" img="Supermoto_Heilbronn_1999/transportjpg_8291108934_o.jpg" alt="Super Moto Heilbronn 1999" %}
 Alles dann in den FIAT Fiorino ohne Beifahrersitz verladen und Samstags zur technischen Abnahme nach Heilbronn gefahren. Danach wieder nach Hause gedüst. Sonntags dann früh morgens wieder zum Ort des Geschehens.
 
 ---

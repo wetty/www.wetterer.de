@@ -9,7 +9,7 @@ Gestern sind wir bereits um viertel vor neun zu unserem 60 Meilen entfernten Üb
 Kurz vor Einfahrt in den Hardanger Fjord mußte der Motor unterstützen, um rechtzeitig das kleine Städtchen Jondal zu erreichen. Dort betreiben seit zwei Monaten Kerstin Wagner und Günter Schmaus, dass [Jondal Hotel](http://www.jondal-hotel.no/). Diese beiden galt es zu überraschen, da sie bislang noch nichts von unserem Besuch wußten. Der Zufall wollte es auch, dass gerade gestern Günter Geburtstag hatte.
 
 
-{% include wetty/picture_left.html img="Blog/dscf1927jpg_3632572333_o.jpg" alt="Jondal Hotell" %}
+{% include wetty/picture.html class="align-left" img="Blog/dscf1927jpg_3632572333_o.jpg" alt="Jondal Hotell" %}
 
 Das Jondal Hotell befindet sich 30 m von unserer Anlegestelle entfernt. Kerstin war sichtlich überrascht als wir alle im Speiseraum standen. Günter war nicht im Haus. Er war zum Angeln unterwegs. Ein fingierter Anruf, dass er sofort kommen und helfen müße, holten ihn dann zurück. Sichtlich sprachlos stand er wenige Minuten später in seinem Angelzeug vor uns.
 

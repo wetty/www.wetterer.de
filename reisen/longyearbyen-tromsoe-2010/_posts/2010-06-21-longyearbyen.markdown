@@ -2,7 +2,7 @@
 title: "Longyearbyen"
 date: 2010-06-21 20:26
 ---
-{% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2530jpg_4721388945_o.jpg" alt="Longyearbyen" %}
+{% include wetty/picture.html class="align-left" img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2530jpg_4721388945_o.jpg" alt="Longyearbyen" %}
 Heute gings zu Fuß nach Longyearbyen. Vom [Gjestehuset 102] ca. 2-3 km leicht Bergab. Im Zentrum gibt es ein paar Geschäfte, einen Supermarkt, ein kleines Einkaufszentrum, wo sich im ersten Stock vor der Bibliothek ein dutzend Laptop User auf dem Boden tummeln. Anscheinend gibts da eine WLAN Station. Nicht zu vergessen eines der nördlichsten Postämter der Welt. Hier hab ich gleich mal einen ganzen Packen Postkarten eingeworfen.
 
 <!--more-->
@@ -11,7 +11,7 @@ Als Souvenir gabs ne neue Schildmütze. Danach gings ab ins Museum. Auch hier he
 
 Vom Museum gings nochmal ins Zentrum um einen happen zu Essen. Es gab eine Suppe. Sah aus wie Gulaschsuppe, war aber mit Huhn. Jedenfalls hats geschmeckt.
 
-{% include wetty/picture_left.html img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2524jpg_4802565264_o.jpg" alt="Noorderlicht" %}
+{% include wetty/picture.html class="align-left" img="2010-06-20-Longyearbyen-Tromso-Bodo/dscf2524jpg_4802565264_o.jpg" alt="Noorderlicht" %}
 Frisch gestärkt gings weiter zum Hafen. Dort hab ich Rolf Stange von [Spitzbergen.de] getroffen. Er war die letzten 10 Tage auf der [Noorderlicht] unterwegs. Die Chance war gut, und ich konnte mir die Noorderlicht mal ansehen.
 
 Von unserem Schiff gabs bis dato keine Spur. Laut Rolf hat man derzeit starken Wind auf die Nase, wenn man von Barentsburg hierher kommt. Mittlerweile ist es 17:30 Uhr und ich hab immer noch nix gehört.
