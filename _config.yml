@@ -581,6 +581,8 @@ defaults:
       type: posts
     values:
       tags: [Neufundland, Kanada]
+      header:
+        image: neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
       series:
         name: "Neufundland 2018"
   -
