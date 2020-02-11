@@ -1,25 +1,23 @@
-.page {
-  .page__inner-wrap {
-    .page__content {
-       text-align: justify;    
-   }
-  }
+article {
+    text-align: justify;
+    figure {
+      img {
+       margin-bottom: 0.4em;
+       box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+      }
+	  
+ figcaption {
+   padding: 8px;
+   background-color: #fff;
+   border-radius: 0.3em;
+   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+   text-align: center;
+   width: 100%;
+ }
+}
 }
 
 figure {
-   img {
-      margin-bottom: 0.4em;
-      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
-    }
-
-    figcaption {
-      padding: 8px;
-      background-color: #fff;
-      border-radius: 0.3em;
-      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
-      text-align: center;
-      width: 100%;
-    }
 
   &.fourth {
     > a,
@@ -30,6 +28,16 @@ figure {
     }
 
   }
+
+&.fifth {
+  > a,
+  > img {
+    @include breakpoint($small) {
+      width: calc(20% - 0.5em);
+    }
+  }
+
+}
 
   &.eighth {
     > a,
