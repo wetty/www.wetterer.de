@@ -12,13 +12,13 @@ tags:
 
 Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Hochseekameradschaft e.V. garantiert. Auf einer ca. 30 qm großen Leinwand werden zwei außergewöhnliche Beiträge präsentiert. Im Rahmenprogramm werden neben Speisen und Getränken umfangreiche Informationen zum Thema Offshore-Segeln angeboten.
 
-##Eine Gernsheimer Yacht##
+## Eine Gernsheimer Yacht ##
 
 Den Auftakt macht die Live-Multivisionsreportage "Eine Gernsheimer Yacht". Dies ist die Geschichte der Segelyacht Moby Dick III, einem 61“ Unikat aus Gernsheim. Gebaut in 7-jähriger Eigenleistung durch den Gernsheimer Zahnarzt Ernst Scholtz. Nach dem Stapellauf am 3.9.1983 weltweit auf außergewöhnlichen Routen unterwegs. Neben der einmaligen Geschichte zur Entstehung dieser Hochseeketsch werden auch Reise-Highlights aus den letzten 30 Jahren präsentiert.
 
 Dauer ca. 60 Minuten in deutscher Sprache
 
-##Weekend Sailor##
+## Weekend Sailor ##
 
 Der 2. Beitrag stellt sicher einen filmischen Leckerbissen für jeden Offshore begeisterten dar:
 
