@@ -1,4 +1,25 @@
+.page {
+  .page__inner-wrap {
+    .page__content {
+       text-align: justify;    
+   }
+  }
+}
+
 figure {
+   img {
+      margin-bottom: 0.4em;
+      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+    }
+
+    figcaption {
+      padding: 8px;
+      background-color: #fff;
+      border-radius: 0.3em;
+      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+      text-align: center;
+      width: 100%;
+    }
 
   &.fourth {
     > a,
@@ -8,9 +29,6 @@ figure {
       }
     }
 
-    figcaption {
-      width: 100%;
-    }
   }
 
   &.eighth {
@@ -20,10 +38,6 @@ figure {
         width: calc(12.5% - 0.5em);
       }
     }
-
-    figcaption {
-      width: 100%;
-    }
   }
 }
 
@@ -32,3 +46,4 @@ figure.align-left, figure.align-right {
 	width: 33%;
    }
 }
+
