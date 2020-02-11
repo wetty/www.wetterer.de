@@ -5,9 +5,13 @@
 <link rel="dns-prefetch" href="https://res.cloudinary.com/dsuwkv08y/">
 <link rel="preconnect" href="https://res.cloudinary.com/dsuwkv08y/" crossorigin>
 <link rel="dns-prefetch" href="{{ site.url_cdn }}">
+<link rel="preconnect" href="{{ site.url_cdn }}" crossorigin>
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
+<link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
 <link rel="dns-prefetch" href="https://ssl.google-analytics.com/">
+<link rel="preconnect" href="https://ssl.google-analytics.com/" crossorigin>
 <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net/">
+<link rel="preconnect" href="https://googleads.g.doubleclick.net/" crossorigin>
 
 <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url_cdn }}/apple-touch-icon{{ site.version }}.png">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url_cdn }}/favicon-32x32{{ site.version }}.png">
@@ -49,6 +53,7 @@
 	    clear: both;
 	}
 	
+{% comment %}
 	.photo-with-exif figcaption {
 	    background-color: #fff;
 	    border-radius: 0.3em;
@@ -80,6 +85,7 @@
 	    margin-bottom: 0.8em;
 	    margin-left: 1.5em;
 	}
+{% endcomment %}
 	
 	.entry-date {
 		float: right;
