@@ -4,6 +4,7 @@ date: 2020-02-11 08:36:33+0100
 tags:
 - Moby Dick III
 - Segeln
+- Video
 ---
 
 {% include wetty/picture.html img="2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" %}
