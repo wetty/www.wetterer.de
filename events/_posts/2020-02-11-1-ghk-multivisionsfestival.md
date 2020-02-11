@@ -15,15 +15,15 @@ Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Ho
 
 ## Eine Gernsheimer Yacht ##
 
-Den Auftakt macht die Live-Multivisionsreportage "Eine Gernsheimer Yacht". Dies ist die Geschichte der Segelyacht Moby Dick III, einem 61" Unikat aus Gernsheim. Gebaut in 7-jähriger Eigenleistung durch den Gernsheimer Zahnarzt Ernst Scholtz. Nach dem Stapellauf am 3.9.1983 weltweit auf außergewöhnlichen Routen unterwegs. Neben der einmaligen Geschichte zur Entstehung dieser Hochseeketsch werden auch Reise-Highlights aus den letzten 30 Jahren präsentiert.
+Den Auftakt macht die Live-Multivisionsreportage **Eine Gernsheimer Yacht**. Dies ist die Geschichte der Segelyacht Moby Dick III, einem 61 Fuß Unikat aus Gernsheim. Gebaut in 7-jähriger Eigenleistung durch den Gernsheimer Zahnarzt Ernst Scholtz. Nach dem Stapellauf am 3.9.1983 weltweit auf außergewöhnlichen Routen unterwegs. Neben der einmaligen Geschichte zur Entstehung dieser Hochseeketsch werden auch Reise-Highlights aus den letzten 30 Jahren präsentiert.
 
-Dauer ca. 60 Minuten in deutscher Sprache
+Dauer ca. 60 Minuten in deutscher Sprache.
 
 ## Weekend Sailor ##
 
 Der 2. Beitrag stellt sicher einen filmischen Leckerbissen für jeden Offshore begeisterten dar:
 
-Der "Weekend Sailor" ist eine vielfach preisgekrönte Dokumentation über den unerwarteten Sieg der mexikanischen Yacht Sayula II beim ersten Segelrennen mit Crew um die Welt im Jahr 1974.
+Der **Weekend Sailor** ist eine vielfach preisgekrönte Dokumentation über den unerwarteten Sieg der mexikanischen Yacht Sayula II beim ersten Segelrennen mit Crew um die Welt im Jahr 1974.
 
 1973 organisierte das Vereinigte Königreich das erste Rund-um-die-Welt-Segelrennen, bei dem erfahrene Crews aus Europa und anderen Ländern gegeneinander antraten. Das Whitbread Round the World Yacht Race, heute das prestigeträchtige Volvo Ocean Race, brachte den Sport an seine Grenzen. Die britische Royal Navy kaufte sechs Yachten, um 800 Mann auszubilden, und wählte die besten vier 10-Mann-Besatzungen für jede der vier Etappen des Rennens aus. 
 
