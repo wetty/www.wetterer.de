@@ -1,9 +1,34 @@
 {% capture figure_class %}{{ include.class }}{% endcapture %}
 <figure class="{{ figure_class }}">
 <a href="{{ site.url_cloudinary_popup}}{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-<picture>
-{% comment %}{% endcomment %}
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ include.img }}" class="lazyload blur-up" itemprop="image" alt="{{ include.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 182, 200, 250, 309, 350, 400, 450, 552, 636, 754, 770, 824, 936, 972, 1022]" />
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ include.img }}" class="lazyload blur-up" alt="{{ include.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 182, 200, 250, 309, 350, 400, 450, 552, 636, 754, 770, 824, 936, 972, 1022]" /></a>
+{% if include.caption %}
+<figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+</figure>
+
+{% comment %}
+<img data-sizes="auto" data-src="{{ site.url_cloudinary_w }}552/popup/{{ include.img }}" class="lazyload blur-up" alt="{{ include.alt }}" data-srcset="{{ site.url_cloudinary_w }}25/popup/{{ include.img }} 25w,
+{{ site.url_cloudinary_w }}50/popup/{{ include.img }} 50w,
+{{ site.url_cloudinary_w }}75/popup/{{ include.img }} 75w,
+{{ site.url_cloudinary_w }}100/popup/{{ include.img }} 100w,
+{{ site.url_cloudinary_w }}182/popup/{{ include.img }} 182w,
+{{ site.url_cloudinary_w }}200/popup/{{ include.img }} w200,
+{{ site.url_cloudinary_w }}250/popup/{{ include.img }} w250,
+{{ site.url_cloudinary_w }}309/popup/{{ include.img }} w309,
+{{ site.url_cloudinary_w }}350/popup/{{ include.img }} w350,
+{{ site.url_cloudinary_w }}400/popup/{{ include.img }} w400,
+{{ site.url_cloudinary_w }}450/popup/{{ include.img }} w450,
+{{ site.url_cloudinary_w }}552/popup/{{ include.img }} w552,
+{{ site.url_cloudinary_w }}636/popup/{{ include.img }} w636,
+{{ site.url_cloudinary_w }}754/popup/{{ include.img }} w754,
+{{ site.url_cloudinary_w }}770/popup/{{ include.img }} w770,
+{{ site.url_cloudinary_w }}824/popup/{{ include.img }} w824,
+{{ site.url_cloudinary_w }}936/popup/{{ include.img }} w936,
+{{ site.url_cloudinary_w }}972/popup/{{ include.img }} w972,
+{{ site.url_cloudinary_w }}1022/popup/{{ include.img }} w1022" />
+{% endcomment %}
+
 {% comment %}
 <source data-srcset="{{ site.url_cloudinary_w }}25/popup/{{ include.img }} 25w,
 {{ site.url_cloudinary_w }}50/popup/{{ include.img }} 50w,
@@ -26,11 +51,7 @@
 {{ site.url_cloudinary_w }}1022/popup/{{ include.img }} w1022" media="(min-width: 20.063em)" type="image/jpeg" />
 <img data-sizes="auto" data-src="{{ site.url_cloudinary_w }}552/popup/{{ include.img }}" class="lazyload blur-up" itemprop="image" alt="{{ include.alt }}" />
 {% endcomment %}
-</picture></a>
-{% if include.caption %}
-<figcaption>{{ include.caption }}</figcaption>
-{% endif %}
-</figure>
+
 
 {% comment %}
 <figure class="photo-with-exif">
