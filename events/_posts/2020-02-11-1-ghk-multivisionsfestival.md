@@ -29,7 +29,7 @@ Der "Weekend Sailor" ist eine vielfach preisgekrönte Dokumentation über den un
 
 Dauer 73 Minuten. Originalversion in englischer Sprache mit englischen Untertiteln.
 
-Aktuelle Updates zur Veranstaltung werden unter [Gernsheimer Hochseekameradschaft e.V.] publiziert.
+Aktuelle Updates zur Veranstaltung werden unter [Gernsheimer Hochseekameradschaft e.V.]{: target="_blank" rel="noopener noreferrer nofollow"} publiziert.
 
 {% include video provider="youtube" id="y8oB4w3oVqE" %}
 
