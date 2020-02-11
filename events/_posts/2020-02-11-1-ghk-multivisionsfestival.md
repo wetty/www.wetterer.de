@@ -7,7 +7,7 @@ tags:
 - Video
 ---
 
-**Am Samstag 4.4.2020. Einlass ab 17:00.**
+**Am Samstag 4.4.2020. Einlass ab 17:00 Uhr.**
 
 Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Hochseekameradschaft e.V. garantiert. Auf einer ca. 30 qm großen Leinwand werden zwei außergewöhnliche Beiträge präsentiert. Im Rahmenprogramm werden neben Speisen und Getränken umfangreiche Informationen zum Thema Offshore-Segeln angeboten.
 
