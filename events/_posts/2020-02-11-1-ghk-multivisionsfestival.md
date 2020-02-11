@@ -6,7 +6,7 @@ tags:
 - Segeln
 ---
 
-{% include wetty/picture.html img="GHK-Multivisionsfestival.jpg" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" %}
+{% include wetty/picture.html img="2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" %}
 
 **Am Samstag 4.4.2020. Einlass ab 17:00.**
 
