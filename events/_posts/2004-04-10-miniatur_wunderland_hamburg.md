@@ -1,7 +1,7 @@
 ---
 title: "Miniatur Wunderland Hamburg 2004"
 date: 2004-04-10 15:13
-tags: [ticket,Galeriee, Miniatur Wunderland]
+tags: [ticket,Galerie,Miniatur Wunderland]
 ---
 Das Miniatur Wunderland Hamburg mit einigen Bildern.
 
