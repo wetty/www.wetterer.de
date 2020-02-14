@@ -18,17 +18,27 @@ tags: [Responsive Design]
 		<source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/715x448" media="(min-width: 62.5em)" type="image/gif" />
 	    <source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/908x480" media="(min-width: 48.063em)" type="image/gif" />
 -->
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/716x476" media="(min-width: 35.563em)" type="image/gif" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/516x343" media="(min-width: 20.063em)" type="image/gif" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/716x476 1x, //placehold.it/1432x952 2x" media="(min-width: 35.563em)" type="image/gif" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/516x343 1x, //placehold.it/1032x686 2x" media="(min-width: 20.063em)" type="image/gif" />
 	    <img data-srcset="//placehold.it/268x178" class="lazyload" itemprop="image" data-sizes="auto" alt="Responsive Image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 	  </picture>
 	  <figcaption>Das Bild sollte sich der Auflösung anpassen.</figcaption>
 </figure>
-
 <noscript>
     <img src="//placehold.it/716x480" alt="Placehold.it Test" />
 </noscript>
 
+
+<img
+	data-sizes="auto"
+    data-src="//placehold.it/600x400 600w"
+	data-srcset="//placehold.it/600x400 600w,
+	    //placehold.it/220x110 220w,
+	    //placehold.it/300x150 300w,
+	    //placehold.it/600x400 600w,
+	    //placehold.it/900x450 900w"
+	class="lazyload" />
+	
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
 
 <!--
