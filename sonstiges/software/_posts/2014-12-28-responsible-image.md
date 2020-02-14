@@ -35,10 +35,11 @@ tags: [Responsive Design]
     <img src="//placehold.it/716x480" alt="Placehold.it Test" />
 </noscript>
 
-
+<figure class="">
+<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178"
+    data-src="//placehold.it/288x178 288w"
 	data-srcset="//placehold.it/936x468 936w,
 //placehold.it/1024x512 1024w,
 //placehold.it/972x486 972w,
@@ -49,8 +50,29 @@ tags: [Responsive Design]
 //placehold.it/343x172 343w,
 //placehold.it/328x164 328w"
 	class="lazyload" />
+</a>
+<figcaption>Responsive Test</figcaption>
+</figure>
 	
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
+
+<figure class="align-right">
+<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<img
+	data-sizes="auto"
+    data-src="//placehold.it/288x178 288w"
+	data-srcset="//placehold.it/936x468 936w,
+//placehold.it/1024x512 1024w,
+//placehold.it/972x486 972w,
+//placehold.it/848x424 848w,
+//placehold.it/732x366 732w,
+//placehold.it/553x275 553w,
+//placehold.it/379x175 379w,
+//placehold.it/343x172 343w,
+//placehold.it/328x164 328w"
+	class="lazyload" />
+</a>
+</figure>
 
 <!--
 Max width 360 Bild 328
