@@ -46,7 +46,8 @@ version: ".35"
 #  - /assets/js/your-custom-head-script.js
 #footer_scripts:
 #  - /assets/js/your-custom-footer-script.js
-# after_footer_scripts:
+after_footer_scripts:
+  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js
 #  - /assets/js/lazysizes.min.js
 #  - /assets/js/ls.rias.min.js
 
