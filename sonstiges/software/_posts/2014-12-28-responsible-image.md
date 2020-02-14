@@ -56,7 +56,7 @@ tags: [Responsive Design]
 	
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
 
-<figure class="align-right">
+<figure class="align-left">
 <a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
@@ -74,13 +74,21 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 </a>
 </figure>
 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+
+Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+
 <figure class="half">
 <a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450]" />
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/150x75 150w,
+	data-srcset="//placehold.it/288x178 288w
+//placehold.it/250x75 250w,
+//placehold.it/200x50 200w,
+//placehold.it/150x75 150w,
 //placehold.it/100x50 100w,
 //placehold.it/75x35 75w,
 //placehold.it/50x25 50w,
@@ -88,11 +96,13 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 	class="lazyload" />
 </a>
 <a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450]" />
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/150x75 150w,
+	data-srcset="//placehold.it/288x178 288w
+//placehold.it/250x75 250w,
+//placehold.it/200x50 200w,
+//placehold.it/150x75 150w,
 //placehold.it/100x50 100w,
 //placehold.it/75x35 75w,
 //placehold.it/50x25 50w,
