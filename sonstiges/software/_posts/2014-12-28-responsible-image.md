@@ -18,12 +18,16 @@ tags: [Responsive Design]
 		<source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/715x448" media="(min-width: 62.5em)" type="image/gif" />
 	    <source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/908x480" media="(min-width: 48.063em)" type="image/gif" />
 -->
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/936x468 1x, //placehold.it/1872x936 2x" media="(min-width: 1280px)" type="image/gif" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/1024x512 1x, //placehold.it/2048x1024 2x" media="(min-width: 1024px)" type="image/gif" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/972x486 1x, //placehold.it/1944x972 2x" media="(min-width: 900px)" type="image/gif" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/848x424 1x, //placehold.it/1696x848 2x" media="(min-width: 768px)" type="image/gif" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/720x360 1x, //placehold.it/1440x720 2x" media="(min-width: 600px)" type="image/gif" />
-	    <img data-srcset="//placehold.it/268x178" class="lazyload" itemprop="image" data-sizes="auto" alt="Responsive Image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/936x468 1x, //placehold.it/1872x936 2x" media="(min-width: 1281px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/1024x512 1x, //placehold.it/2048x1024 2x" media="(min-width: 1025px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/972x486 1x, //placehold.it/1944x972 2x" media="(min-width: 901px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/848x424 1x, //placehold.it/1696x848 2x" media="(min-width: 769px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/732x366 1x, //placehold.it/1464x732 2x" media="(min-width: 601px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/553x275 1x, //placehold.it/1106x550 2x" media="(min-width: 415px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/379x175 1x, //placehold.it/718x350 2x" media="(min-width: 376px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/343x172 1x, //placehold.it/686x344 2x" media="(min-width: 361px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/328x164 1x, //placehold.it/656x328 2x" media="(min-width: 321px)" />
+	    <img data-srcset="//placehold.it/288x178 1x, //placehold.it/576x356 2x " class="lazyload" itemprop="image" data-sizes="auto" alt="Responsive Image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 	  </picture>
 	  <figcaption>Das Bild sollte sich der Auflösung anpassen.</figcaption>
 </figure>
@@ -34,15 +38,31 @@ tags: [Responsive Design]
 
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/600x400 600w"
-	data-srcset="//placehold.it/936x468 1x, //placehold.it/1872x936 2x 1280w,
-//placehold.it/1024x512 1x, //placehold.it/2048x1024 2x 1024w,
-//placehold.it/972x486 1x, //placehold.it/1944x972 2x 900w,
-//placehold.it/848x424 1x, //placehold.it/1696x848 2x 768w,
-//placehold.it/720x360 1x, //placehold.it/1440x720 2x 600w"
+    data-src="//placehold.it/288x178"
+	data-srcset="//placehold.it/936x468 1281w,
+//placehold.it/1024x512 1025w,
+//placehold.it/972x486 901w,
+//placehold.it/848x424 769w,
+//placehold.it/732x366 601w,
+//placehold.it/553x275 415w,
+//placehold.it/379x175 376w,
+//placehold.it/343x172 361w,
+//placehold.it/328x164 321w"
 	class="lazyload" />
 	
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
+
+<!--
+Max width 360 Bild 328
+320 - 288
+360 - 328
+375 - 343
+411 - 379
+414 - 382
+600 - 553
+768 - 732
+1024 - 784
+-->
 
 <!--
 // MEDIA QUERIES ==============================================
