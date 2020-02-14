@@ -36,7 +36,7 @@ tags: [Responsive Design]
 </noscript>
 
 <figure class="">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -57,7 +57,7 @@ tags: [Responsive Design]
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
 
 <figure class="align-left">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -82,7 +82,7 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
 
 <figure class="half">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -98,7 +98,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -123,7 +123,7 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
 
 <figure class="fourth">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -139,7 +139,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -155,7 +155,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -171,7 +171,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -195,7 +195,7 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
 
 <figure class="eighth">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -211,7 +211,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -227,7 +227,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -243,7 +243,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -259,7 +259,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -275,7 +275,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -291,7 +291,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -307,7 +307,7 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 //placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<a href="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
