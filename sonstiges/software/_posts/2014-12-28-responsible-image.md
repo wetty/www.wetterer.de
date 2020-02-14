@@ -69,7 +69,8 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 //placehold.it/553x275 553w,
 //placehold.it/379x175 379w,
 //placehold.it/343x172 343w,
-//placehold.it/328x164 328w"
+//placehold.it/328x164 328w,
+//placehold.it/274x178 274w"
 	class="lazyload" />
 </a>
 </figure>
@@ -85,7 +86,9 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/288x178 288w
+	data-srcset="//placehold.it/458x225 458w,
+//placehold.it/350x175 350w,
+//placehold.it/288x178 288w,
 //placehold.it/250x75 250w,
 //placehold.it/200x50 200w,
 //placehold.it/150x75 150w,
@@ -99,7 +102,9 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/288x178 288w
+	data-srcset="//placehold.it/458x225 458w,
+//placehold.it/350x175 350w,
+//placehold.it/288x178 288w,
 //placehold.it/250x75 250w,
 //placehold.it/200x50 200w,
 //placehold.it/150x75 150w,
