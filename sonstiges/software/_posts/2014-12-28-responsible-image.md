@@ -39,15 +39,15 @@ tags: [Responsive Design]
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178"
-	data-srcset="//placehold.it/936x468 1281w,
-//placehold.it/1024x512 1025w,
-//placehold.it/972x486 901w,
-//placehold.it/848x424 769w,
-//placehold.it/732x366 601w,
-//placehold.it/553x275 415w,
-//placehold.it/379x175 376w,
-//placehold.it/343x172 361w,
-//placehold.it/328x164 321w"
+	data-srcset="//placehold.it/936x468 936w,
+//placehold.it/1024x512 1024w,
+//placehold.it/972x486 972w,
+//placehold.it/848x424 848w,
+//placehold.it/732x366 732w,
+//placehold.it/553x275 553w,
+//placehold.it/379x175 379w,
+//placehold.it/343x172 343w,
+//placehold.it/328x164 328w"
 	class="lazyload" />
 	
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
