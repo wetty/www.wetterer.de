@@ -57,7 +57,7 @@ tags: [Responsive Design]
 Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder sich auch der Größe des Displays anpassen.
 
 <figure class="align-right">
-<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
     data-src="//placehold.it/288x178 288w"
@@ -70,6 +70,33 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 //placehold.it/379x175 379w,
 //placehold.it/343x172 343w,
 //placehold.it/328x164 328w"
+	class="lazyload" />
+</a>
+</figure>
+
+<figure class="half">
+<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450]" />
+<img
+	data-sizes="auto"
+    data-src="//placehold.it/288x178 288w"
+	data-srcset="//placehold.it/150x75 150w,
+//placehold.it/100x50 100w,
+//placehold.it/75x35 75w,
+//placehold.it/50x25 50w,
+//placehold.it/25x12 25w"
+	class="lazyload" />
+</a>
+<a href="//placehold.it/1024x512" class="{{ site.image_popup_class }}" title="test">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ member.image }}" class="lazyload" alt="{{ member.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450]" />
+<img
+	data-sizes="auto"
+    data-src="//placehold.it/288x178 288w"
+	data-srcset="//placehold.it/150x75 150w,
+//placehold.it/100x50 100w,
+//placehold.it/75x35 75w,
+//placehold.it/50x25 50w,
+//placehold.it/25x12 25w"
 	class="lazyload" />
 </a>
 </figure>
