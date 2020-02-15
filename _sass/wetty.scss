@@ -77,3 +77,51 @@ iframe {
     padding-bottom: 75%;
   }
 }
+
+.entry-date {
+	float: right;
+	font-size: 0.8em;
+}
+	
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+}
+	
+.responsive-video-container {
+    clear: both;
+}
+
+.blur-up {
+	-webkit-filter: blur(5px);
+	filter: blur(5px);
+	transition: filter 1600ms, -webkit-filter 1600ms;
+}
+	
+.lazyloading {
+	opacity: 1;
+	transition: opacity 290ms;
+       background: #f7f7f7 url(/assets/images/loader.gif) no-repeat center;
+}
+	
+.lazyload {
+       background: #f7f7f7 url(/assets/images/loader.gif) no-repeat center;
+}
+	
+.blur-up.lazyloaded {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+hr {
+    clear: both;
+}
+	
+
+
+	
+.page__content a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):not(.webshot):after { content: "↗"; color: red; }
+.archive__item a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):not(.webshot):after { content: "↗"; color: red; }
+
+
+a[href*="amazon.de"]:after, a[href*="amazon.com"]:after, a[href*="amzn.to"]:after { content: "↗*" !important; color: red; }
+</style>

@@ -34,7 +34,7 @@ url_cloudinary_w: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_sc
 # url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-version: ".36"
+version: ".37"
 
  
 #head_scripts:
@@ -45,8 +45,8 @@ version: ".36"
 #  - /assets/js/your-custom-head-script.js
 #footer_scripts:
 #  - /assets/js/your-custom-footer-script.js
-after_footer_scripts:
-  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js
+#after_footer_scripts:
+#  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js
 #  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js
 #  - /assets/js/lazysizes.min.js
 #  - /assets/js/ls.rias.min.js
@@ -152,7 +152,7 @@ owner:
 # Site Author
 author:
   name             : "Thomas Wetterer"
-  avatar           : "//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_98/assets/images/thomas-wetterer.jpg"
+  avatar           : "/assets/images/thomas-wetterer.jpg"
   bio              : "Dipl.-Ing. Elektrotechnik"
   location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
@@ -468,9 +468,9 @@ defaults:
       series:
         name: "Longyearbyen-Tromsö 2010"
       header:
-        image: headers/header_1070.jpg
+        image: /assets/images/responsive/popup/headers/header_1070.jpg
       image:
-        feature: headers/header_1070.jpg
+        feature: /assets/images/responsive/popup/headers/header_1070.jpg
   -
     scope:
       path: "reisen/lofoten-tromsoe-bodoe-2010"
@@ -566,7 +566,7 @@ defaults:
     values:
       tags: [Segeln, Moby Dick III, Atlantik, Karibik]
       header:
-        image: atlantik-2016/Atlantik_DSC_1049.jpg
+        image: /assets/images/responsive/popup/atlantik-2016/Atlantik_DSC_1049.jpg
       series:
         name: "Atlantik 2016"
   -
@@ -584,7 +584,7 @@ defaults:
     values:
       tags: [Neufundland, Kanada]
       header:
-        image: neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
+        image: /assets/images/responsive/popup/neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
       series:
         name: "Neufundland 2018"
   -
@@ -594,7 +594,7 @@ defaults:
     values:
       tags: [Istrien, Kroatien]
       header:
-        image: 2019-07-07-istrien-2019/2019-07-12_120653_D75_3313-Pano_1920.jpg
+        image: /assets/images/responsive/popup/2019-07-07-istrien-2019/2019-07-12_120653_D75_3313-Pano_1920.jpg
       series:
         name: "Istrien 2019"
   -
