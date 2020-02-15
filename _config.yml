@@ -34,8 +34,7 @@ url_cloudinary_w: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_sc
 # url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-version: ".35"
-
+version: ".36"
 
  
 #head_scripts:
@@ -48,6 +47,7 @@ version: ".35"
 #  - /assets/js/your-custom-footer-script.js
 after_footer_scripts:
   - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js
+#  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js
 #  - /assets/js/lazysizes.min.js
 #  - /assets/js/ls.rias.min.js
 
