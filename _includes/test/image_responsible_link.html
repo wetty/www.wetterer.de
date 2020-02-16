@@ -1,0 +1,20 @@
+{% comment %}
+{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
+{% assign url_responsible = "//placehold.it/" %}
+<a href="/assets/images/responsive/popup/{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
+<img 
+data-sizes="auto" 
+src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+data-src="{{ url_responsible }}288/{{ include.img }} 288w"
+data-srcset="{{ url_responsible }}936/{{ include.img }} 936w,
+{{ url_responsible }}1024/{{ include.img }} 1024w,
+{{ url_responsible }}972/{{ include.img }} 972w,
+{{ url_responsible }}848/{{ include.img }} 848w,
+{{ url_responsible }}732/{{ include.img }} 732w,
+{{ url_responsible }}553/{{ include.img }} 553w,
+{{ url_responsible }}379/{{ include.img }} 379w,
+{{ url_responsible }}343/{{ include.img }} 343w,
+{{ url_responsible }}328/{{ include.img }} 328w"
+class="lazyload" alt="{{ include.alt }}" />
+</a>
+{% endcomment %}
