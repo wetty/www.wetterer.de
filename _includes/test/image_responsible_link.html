@@ -1,4 +1,3 @@
-{% comment %}
 {% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
 {% assign url_responsible = "//placehold.it/" %}
 <a href="/assets/images/responsive/popup/{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
@@ -17,4 +16,3 @@ data-srcset="{{ url_responsible }}936/{{ include.img }} 936w,
 {{ url_responsible }}328/{{ include.img }} 328w"
 class="lazyload" alt="{{ include.alt }}" />
 </a>
-{% endcomment %}
