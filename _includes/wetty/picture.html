@@ -1,99 +1,13 @@
 {% capture figure_class %}{{ include.class }}{% endcapture %}
+{% capture img_path %}{{ include.img | default: "empty" }}{% endcapture %}
+{% capture alt_txt %}{{ include.alt | default: "empty" }}{% endcapture %}
+<!--
+include.img = {{ include.img }}
+include.alt = {{ include.alt }}
+{{ img_path }}
+{{ alt_txt }}
+-->
 <figure class="{{ figure_class }}">
-<a href="/assets/images/responsive/popup/{{ include.img }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/responsive/popup/{{ include.img }}" class="lazyload blur-up" alt="{{ include.alt }}" />
-</a>
-{% if include.caption %}
-<figcaption>{{ include.caption }}</figcaption>
-{% endif %}
+{% include wetty/image.html path=img_path alt=alt_txt popup=true %}
+{% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
 </figure>
-
-{% comment %}
-<!-- original -->
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url_cloudinary_width }}{{ include.img }}" class="lazyload blur-up" alt="{{ include.alt }}" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 182, 200, 250, 309, 350, 400, 450, 552, 636, 754, 770, 824, 936, 972, 1022]" />
-{% endcomment %}
-{% comment %}
-<img sizes="(min-width: 1000px) 930px, 90vw" data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{ include.alt }}" data-srcset="{{ site.url_cloudinary_w }}25/popup/{{ include.img }} 25w,
-{{ site.url_cloudinary_w }}50/popup/{{ include.img }} 50w,
-{{ site.url_cloudinary_w }}75/popup/{{ include.img }} 75w,
-{{ site.url_cloudinary_w }}100/popup/{{ include.img }} 100w,
-{{ site.url_cloudinary_w }}182/popup/{{ include.img }} 182w,
-{{ site.url_cloudinary_w }}200/popup/{{ include.img }} w200,
-{{ site.url_cloudinary_w }}250/popup/{{ include.img }} w250,
-{{ site.url_cloudinary_w }}309/popup/{{ include.img }} w309,
-{{ site.url_cloudinary_w }}350/popup/{{ include.img }} w350,
-{{ site.url_cloudinary_w }}400/popup/{{ include.img }} w400,
-{{ site.url_cloudinary_w }}450/popup/{{ include.img }} w450,
-{{ site.url_cloudinary_w }}552/popup/{{ include.img }} w552,
-{{ site.url_cloudinary_w }}636/popup/{{ include.img }} w636,
-{{ site.url_cloudinary_w }}754/popup/{{ include.img }} w754,
-{{ site.url_cloudinary_w }}770/popup/{{ include.img }} w770,
-{{ site.url_cloudinary_w }}824/popup/{{ include.img }} w824,
-{{ site.url_cloudinary_w }}936/popup/{{ include.img }} w936,
-{{ site.url_cloudinary_w }}972/popup/{{ include.img }} w972,
-{{ site.url_cloudinary_w }}1022/popup/{{ include.img }} w1022" class="lazyload" />
-{% endcomment %}
-
-{% comment %}
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-sizes="auto" srcset="{{ site.url_cloudinary_w }}552/popup/{{ include.img }}" class="lazyload blur-up" alt="{{ include.alt }}" data-srcset="{{ site.url_cloudinary_w }}25/popup/{{ include.img }} 25w,
-{{ site.url_cloudinary_w }}50/popup/{{ include.img }} 50w,
-{{ site.url_cloudinary_w }}75/popup/{{ include.img }} 75w,
-{{ site.url_cloudinary_w }}100/popup/{{ include.img }} 100w,
-{{ site.url_cloudinary_w }}182/popup/{{ include.img }} 182w,
-{{ site.url_cloudinary_w }}200/popup/{{ include.img }} w200,
-{{ site.url_cloudinary_w }}250/popup/{{ include.img }} w250,
-{{ site.url_cloudinary_w }}309/popup/{{ include.img }} w309,
-{{ site.url_cloudinary_w }}350/popup/{{ include.img }} w350,
-{{ site.url_cloudinary_w }}400/popup/{{ include.img }} w400,
-{{ site.url_cloudinary_w }}450/popup/{{ include.img }} w450,
-{{ site.url_cloudinary_w }}552/popup/{{ include.img }} w552,
-{{ site.url_cloudinary_w }}636/popup/{{ include.img }} w636,
-{{ site.url_cloudinary_w }}754/popup/{{ include.img }} w754,
-{{ site.url_cloudinary_w }}770/popup/{{ include.img }} w770,
-{{ site.url_cloudinary_w }}824/popup/{{ include.img }} w824,
-{{ site.url_cloudinary_w }}936/popup/{{ include.img }} w936,
-{{ site.url_cloudinary_w }}972/popup/{{ include.img }} w972,
-{{ site.url_cloudinary_w }}1022/popup/{{ include.img }} w1022" />
-{% endcomment %}
-
-{% comment %}
-<source data-srcset="{{ site.url_cloudinary_w }}25/popup/{{ include.img }} 25w,
-{{ site.url_cloudinary_w }}50/popup/{{ include.img }} 50w,
-{{ site.url_cloudinary_w }}75/popup/{{ include.img }} 75w,
-{{ site.url_cloudinary_w }}100/popup/{{ include.img }} 100w,
-{{ site.url_cloudinary_w }}182/popup/{{ include.img }} 182w,
-{{ site.url_cloudinary_w }}200/popup/{{ include.img }} w200,
-{{ site.url_cloudinary_w }}250/popup/{{ include.img }} w250,
-{{ site.url_cloudinary_w }}309/popup/{{ include.img }} w309,
-{{ site.url_cloudinary_w }}350/popup/{{ include.img }} w350,
-{{ site.url_cloudinary_w }}400/popup/{{ include.img }} w400,
-{{ site.url_cloudinary_w }}450/popup/{{ include.img }} w450,
-{{ site.url_cloudinary_w }}552/popup/{{ include.img }} w552,
-{{ site.url_cloudinary_w }}636/popup/{{ include.img }} w636,
-{{ site.url_cloudinary_w }}754/popup/{{ include.img }} w754,
-{{ site.url_cloudinary_w }}770/popup/{{ include.img }} w770,
-{{ site.url_cloudinary_w }}824/popup/{{ include.img }} w824,
-{{ site.url_cloudinary_w }}936/popup/{{ include.img }} w936,
-{{ site.url_cloudinary_w }}972/popup/{{ include.img }} w972,
-{{ site.url_cloudinary_w }}1022/popup/{{ include.img }} w1022" media="(min-width: 20.063em)" type="image/jpeg" />
-<img data-sizes="auto" data-src="{{ site.url_cloudinary_w }}552/popup/{{ include.img }}" class="lazyload blur-up" itemprop="image" alt="{{ include.alt }}" />
-{% endcomment %}
-
-
-{% comment %}
-<figure class="photo-with-exif">
-<a href="{{ cdn_url }}/assets/images/responsive/popup/{{ img_ver }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
-<picture>
-<source data-srcset="{{ cdn_url }}/assets/images/responsive/large/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/large_2x/{{ img_ver }} 2x" media="(min-width: 35.563em)" type="image/jpeg" />
-<source data-srcset="{{ cdn_url }}/assets/images/responsive/medium/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/medium_2x/{{ img_ver }} 2x" media="(min-width: 20.063em)" type="image/jpeg" />
-<source data-srcset="{{ cdn_url }}/assets/images/responsive/small/{{ img_ver }}, {{ cdn_url }}/assets/images/responsive/small_2x/{{ img_ver }} 2x" media="(max-width: 20em)" type="image/jpeg" />
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ cdn_url }}/assets/images/responsive/large/{{ img_ver }}" class="blog-full lazyload" itemprop="image" alt="{{ include.alt }}" data-sizes="auto"/>
-</picture>
-</a>
-{% endcomment %}
-
-{% comment %}
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="blur-up lazyautosizes lazyloaded" itemprop="image" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" data-sizes="auto" data-widths="[25, 50, 75, 100, 150, 182, 200, 250, 309, 350, 400, 450, 552, 636, 754, 770, 824, 936, 972, 1022]" data-srcset="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_25/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 25w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_50/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 50w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_75/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 75w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_100/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 100w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_150/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 150w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_182/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 182w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_200/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 200w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_250/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 250w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_309/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 309w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_350/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 350w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_400/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 400w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_450/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 450w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_552/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 552w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_636/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 636w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_754/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 754w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_770/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 770w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_824/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 824w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_936/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 936w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_972/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 972w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1022/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 1022w"
- sizes="1584px" srcset="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_25/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 25w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_50/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 50w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_75/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 75w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_100/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 100w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_150/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 150w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_182/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 182w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_200/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 200w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_250/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 250w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_309/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 309w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_350/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 350w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_400/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 400w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_450/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 450w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_552/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 552w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_636/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 636w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_754/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 754w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_770/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 770w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_824/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 824w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_936/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 936w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_972/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 972w, //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1022/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg 1022w">
- {% endcomment %}
- 

@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark",
 url_cdn: //d2s7alet3cn0i1.cloudfront.net
 # url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
 
+responsible_images: false
 url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/
 url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_268/popup/
 url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_268/popup/
