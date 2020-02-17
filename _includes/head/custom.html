@@ -22,91 +22,6 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-{% comment %}
-<style>
-	.blur-up {
-		-webkit-filter: blur(5px);
-		filter: blur(5px);
-		transition: filter 1600ms, -webkit-filter 1600ms;
-	}
-	
-	.lazyloading {
-		opacity: 1;
-		transition: opacity 290ms;
-        background: #f7f7f7 url({{ site.url_cdn }}/assets/images/loader{{ site.version }}.gif) no-repeat center;
-	}
-	
-	.lazyload {
-        background: #f7f7f7 url({{ site.url_cdn }}/assets/images/loader{{ site.version }}.gif) no-repeat center;
-	}
-	
-	.blur-up.lazyloaded {
-		-webkit-filter: blur(0);
-		filter: blur(0);
-	}
-
-	hr {
-	    clear: both;
-	}
-	
-.page__content {
-    text-align: justify;
-}
-
-.archive__item {
-    text-align: justify;
-}
-
-	.photo-with-exif figcaption {
-	    background-color: #fff;
-	    border-radius: 0.3em;
-	    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
-	    box-sizing: border-box;
-	    color: #888;
-		margin-top: 10px;
-	    font-size: 14px;
-	    line-height: 1.4em;
-	    padding: 10px;
-	    position: relative;
-	    width: 100%;
-	}
-	
-	figure {
-	    margin: 0;
-	    padding-top: 10px;
-	    padding-bottom: 10px;
-	}
-	
-	figure.left {
-	    float: left;
-	    margin-bottom: 0.8em;
-	    margin-right: 1.5em;
-	}
-
-	figure.right {
-	    float: right;
-	    margin-bottom: 0.8em;
-	    margin-left: 1.5em;
-	}
-	img[data-sizes="auto"] { display: block; width: 100%; }
-	
-	.entry-date {
-		float: right;
-		font-size: 0.8em;
-	}
-	
-	h1, h2, h3, h4, h5, h6 {
-	    clear: both;
-	}
-	
-	.responsive-video-container {
-	    clear: both;
-	}
-
-</style>
-
-{% endcomment %}
-
 <style>
 	
 .page__content a[href*="//"]:not([href*="res.cloudinary.com"]):not([href*="wetterer.de"]):not([href*="localhost"]):not([href*="youtube.com"]):not(.webshot):after { content: "↗"; color: red; }
@@ -115,19 +30,5 @@
 a[href*="amazon.de"]:after, a[href*="amazon.com"]:after, a[href*="amzn.to"]:after { content: "↗*" !important; color: red; }
 
 </style>
-
-{% comment %}
-<!--
-<script src="/assets/js/cloudinary-core-shrinkwrap.min.js"></script>
-<script src="/assets/js/ls.rias.min.js"></script>
-<script src="/assets/js/lazysizes.min.js"></script>
-<script src="https://cdn.jsdelivr.net/g/lazysizes(lazysizes.min.js+plugins/rias/ls.rias.min.js)" async=""></script>
-<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js,gh/aFarkas/lazysizes/plugins/blur-up/ls.blur-up.min.js" async=""></script>
-<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js" async=""></script>
-<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js" async=""></script>
--->
-{% endcomment %}
-
-<script src="https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js" async=""></script>
 
 <!-- end custom head snippets -->
