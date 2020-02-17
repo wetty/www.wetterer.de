@@ -1,12 +1,7 @@
 {% capture figure_class %}{{ include.class }}{% endcapture %}
 {% capture img_path %}{{ include.img | default: "empty" }}{% endcapture %}
 {% capture alt_txt %}{{ include.alt | default: "empty" }}{% endcapture %}
-<!--
-include.img = {{ include.img }}
-include.alt = {{ include.alt }}
-{{ img_path }}
-{{ alt_txt }}
--->
+
 <figure class="{{ figure_class }}">
 {% include wetty/image.html path=img_path alt=alt_txt popup=true %}
 {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
