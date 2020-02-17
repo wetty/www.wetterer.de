@@ -1,1 +1,0 @@
-tree /a /f > inhalt.txt
