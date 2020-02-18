@@ -12,7 +12,10 @@
 {% if site.responsible_images %}
 <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="{{ include.class }} lazyload" alt="{{ include.alt }}"
  data-src="{{ url_responsible }}288{{ img_path }} 288w"
- data-srcset="{{ url_responsible }}936{{ img_path }} 936w,
+ data-srcset="
+{{ url_responsible }}1024{{ img_path }} 1920w,
+{{ url_responsible }}1024{{ img_path }} 1600w,
+{{ url_responsible }}1024{{ img_path }} 1280w,
 {{ url_responsible }}1024{{ img_path }} 1024w,
 {{ url_responsible }}972{{ img_path }} 972w,
 {{ url_responsible }}936{{ img_path }} 936w,
