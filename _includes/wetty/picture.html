@@ -3,9 +3,9 @@
 {% capture alt_txt %}{{ include.alt | default: "empty" }}{% endcapture %}
 {% capture padding-bottom %}{{ include.padding-bottom }}{% endcapture %}
 
-{% if include.padding-bottom %}<div class="ratio-box" style="padding-bottom: {{ include.padding-bottom }}">{% endif %}
+{% if figure_class == "" and include.padding-bottom %}<div class="ratio-box" style="padding-bottom: {{ include.padding-bottom }}">{% endif %}
 <figure class="{{ figure_class }}">
 {% include wetty/image.html path=img_path alt=alt_txt popup=true %}
 {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
 </figure>
-{% if include.padding-bottom %}</div>{% endif %}
+{% if figure_class == "" and include.padding-bottom %}</div>{% endif %}
