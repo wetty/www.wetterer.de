@@ -108,27 +108,37 @@ h1, h2, h3, h4, h5, h6 {
     clear: both;
 }
 
-.blur-up {
-	-webkit-filter: blur(5px);
-	filter: blur(5px);
-	transition: filter 1600ms, -webkit-filter 1600ms;
-}
-	
+.lazyload,
 .lazyloading {
+	opacity: 0;
+}
+
+.lazyloaded {
 	opacity: 1;
-	transition: opacity 290ms;
-       background: #f7f7f7 url(/assets/images/loader.gif) no-repeat center;
-}
-	
-.lazyload {
-       background: #f7f7f7 url(/assets/images/loader.gif) no-repeat center;
-}
-	
-.blur-up.lazyloaded {
-	-webkit-filter: blur(0);
-	filter: blur(0);
+	transition-delay: 800ms;
+	transition: opacity 800ms;
 }
 
 hr {
     clear: both;
+}
+
+.ratio-box {
+	position: relative;
+	height: 0;
+	display: block;
+	width: 100%;
+	/* padding-bottom is calculated and rendered in to HTML */
+}
+
+.ratio-box figure,
+.ratio-box img,
+.ratio-box iframe,
+.ratio-box video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
 }
