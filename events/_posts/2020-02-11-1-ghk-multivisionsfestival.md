@@ -11,7 +11,7 @@ tags:
 
 Maritime Kurzweil wird Ihnen in dieser Premierenveranstaltung der Gernsheimer Hochseekameradschaft e.V. garantiert. Auf einer ca. 30 qm großen Leinwand werden zwei außergewöhnliche Beiträge präsentiert. Im Rahmenprogramm werden neben Speisen und Getränken umfangreiche Informationen zum Thema Offshore-Segeln angeboten.
 
-{% include wetty/picture.html img="2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" %}
+{% include wetty/picture.html img="2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" alt="1. Gernsheimer Hochseekameradschaft e.V. Multivisionsfestival" padding-bottom="70.70%" %}
 
 ## Eine Gernsheimer Yacht ##
 
