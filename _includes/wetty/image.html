@@ -1,11 +1,21 @@
-{% capture popup %}{{ include.popup | default: false }}{% endcapture %}
+{% capture popup %}{{ include.popup | default: "false" }}{% endcapture %}
 {% if include.path contains "/assets/images/" %}
-{% capture img_path %}{{ include.path }}{% endcapture %}
+  {% capture img_path %}{{ include.path }}{% endcapture %}
 {% else %}
-{% capture img_path %}/assets/images/responsive/popup/{{ include.path }}{% endcapture %}
+  {% capture img_path %}/assets/images/responsive/popup/{{ include.path }}{% endcapture %}
 {% endif %}
 {% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
-{% if popup == "true" %}<a href="{{ img_path }}" class="{{ site.image_popup_class }}" title="{{ include.alt }}">{% endif %}
+{% capture popup_class %}{{ site.image_popup_class }}{% endcapture %}
+{% assign popup_href = img_path %}
+{% capture incl_href %}{{ include.href | default: "" }}{% endcapture %}
+
+{% if incl_href contains "//" %}
+  {% assign popup = "true" %}
+  {% assign popup_href = incl_href %}
+  {% assign popup_class = "" %}
+{% endif %}
+
+{% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
 {% else %}
@@ -24,8 +34,10 @@
 {{ url_responsible }}379{{ img_path }} 379w,
 {{ url_responsible }}343{{ img_path }} 343w,
 {{ url_responsible }}328{{ img_path }} 328w,
+{{ url_responsible }}274{{ img_path }} 278w,
 {{ url_responsible }}274{{ img_path }} 274w,
 {{ url_responsible }}274{{ img_path }} 200w,
+{{ url_responsible }}274{{ img_path }} 180w,
 {{ url_responsible }}274{{ img_path }} 150w" />
 {% else %}
 <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" alt="{{ include.alt }}" />
