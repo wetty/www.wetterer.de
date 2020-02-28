@@ -1,4 +1,4 @@
-{% if page.author_profile or layout.author_profile or page.sidebar or page.series %}
+{% if page.author_profile or layout.author_profile or page.sidebar or page.series or page.banner %}
   <div class="sidebar sticky">
   {% if page.series %}
     {% include wetty/series_toc.html %}
@@ -24,5 +24,6 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+  {% include wetty/sidebanner.html %}
   </div>
 {% endif %}

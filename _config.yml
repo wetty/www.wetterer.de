@@ -362,6 +362,7 @@ defaults:
       comments: true
       sharing: true
       footer: true
+      banner: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper.jpg
   -
     scope:
       path: ""
