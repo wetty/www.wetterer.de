@@ -7,6 +7,6 @@ Hier die Bilder vom Waldweg der ersten Klassik Geländefahrt des [MC Pfungstadt 
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-waldweg %}
+{% include wetty/gallery.html dir="1-klassikfahrt-2014-waldweg" %}
 
 {% include _references.md %}

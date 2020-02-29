@@ -7,7 +7,7 @@ Hier die Bilder vom Feldweg an der Strasse der ersten Klassik Geländefahrt des 
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-feldweg-strasse %}
+{% include wetty/gallery.html dir="1-klassikfahrt-2014-feldweg-strasse" %}
 
 
 {% include _references.md %}
