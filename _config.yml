@@ -377,7 +377,7 @@ defaults:
       classes: wide
       related: true
       banner: 
-        image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper.jpg
+        image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper.png
         alt: "FotoBox - Fotos aus der Box - Darmstadt, Mannheim, Frankfurt, Groß-Umstadt, Aschaffenburg"
         link: https://www.fotos-aus-der-box.de
   -
