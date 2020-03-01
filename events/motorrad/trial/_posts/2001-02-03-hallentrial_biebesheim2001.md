@@ -93,4 +93,4 @@ tags: [Galerie]
 
 ## Bilder ##
 
-{% include wetty/gallery.html data=site.data.2001-02-03-Hallentrial-Biebesheim %}
+{% include wetty/gallery.html dir="2001-02-03-Hallentrial-Biebesheim" %}
