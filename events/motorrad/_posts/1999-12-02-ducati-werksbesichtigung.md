@@ -7,4 +7,4 @@ DUCATI Werksbesichtigung in Bologna am 12.02.1999
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.DUCATI-Werksbesichtigung-1999 %}
+{% include wetty/gallery.html dir="DUCATI-Werksbesichtigung-1999" %}
