@@ -4,9 +4,13 @@ date: 2001-02-03 13:19
 tags: [Galerie]
 ---
 
-| {% include wetty/image.html path="/assets/images/htbiebesheim2001/eintrittskarte.gif" width=258 height=248 %} | Spektakel | {% include wetty/image.html path="/assets/images/htbiebesheim2001/mystery.jpg" width=143 height=173 %} |
-| Show | {% include wetty/image.html path="/assets/images/htbiebesheim2001/rogerfrank.jpg" width=241 height=292 %} | und | 
-| {% include wetty/image.html path="/assets/images/htbiebesheim2001/xxs.jpg" width=320 height=240 %} | Sport | {% include wetty/image.html path="/assets/images/htbiebesheim2001/trialist.jpg" width=166 height=292 %} | 
+<table>
+<tbody>
+<tr><td> {% include wetty/image.html path="/assets/images/htbiebesheim2001/eintrittskarte.gif" width=258 height=248 %} </td><td> Spektakel </td><td> {% include wetty/image.html path="/assets/images/htbiebesheim2001/mystery.jpg" width=143 height=173 %} </td></tr>
+<tr><td> Show </td><td> {% include wetty/image.html path="/assets/images/htbiebesheim2001/rogerfrank.jpg" width=241 height=292 %} </td><td> und </td></tr>
+<tr><td> {% include wetty/image.html path="/assets/images/htbiebesheim2001/xxs.jpg" width=320 height=240 %} </td><td> Sport </td><td> {% include wetty/image.html path="/assets/images/htbiebesheim2001/trialist.jpg" width=166 height=292 %} </td></tr>
+</tbody>
+</table>
 
 <!--more-->
 
