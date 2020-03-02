@@ -1,8 +1,7 @@
-<div class="footnotes">
 #### Hinweis externe Links <span style="color: red;">↗</span> ####
 
 Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft des Aufrufs ausfindig machen zu können. Dies hat jedoch keine Auswirkungen auf die Nutzung meiner Website. Externen Links sind mit einem (<span style="color: red;">↗</span>) gekennzeichnet.
-</div>
+
 
 [Moby Dick III]: http://www.moby-dick.de "Segelyacht Moby Dick III"
 [eat and STYLE Hamburg]: http://www.eat-and-style.de/hamburg/Home.html  "eat and STYLE, Hamburg"
