@@ -7,5 +7,5 @@ Na ja, mein Fall wars nicht unbedingt. Wär auf dem Freigelände keine Trial Vor
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Motorradtage-Frankfurt-1998 %}
+{% include wetty/gallery.html dir="Motorradtage-Frankfurt-1998" %}
 
