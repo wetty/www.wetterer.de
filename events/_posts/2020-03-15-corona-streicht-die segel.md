@@ -7,7 +7,7 @@ tags:
 - Video
 ---
 
-Aufgrund der aktuellen Coronapandemie findet das 1. GHK Multivisionsfestival erst am 13. März 2021 statt. Die Karten behalten ihre Gültigkeit.
+> Aufgrund der aktuellen Coronapandemie findet das 1. GHK Multivisionsfestival erst am 13. März 2021 statt. Die Karten behalten ihre Gültigkeit.
 
 **Am Samstag 13.3.2021. Einlass ab 17:00 Uhr.**
 
