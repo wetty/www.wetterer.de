@@ -11,6 +11,6 @@ Kamera war meine [Nikon D7200]{: target="_blank" rel="noopener noreferrer"} mit 
 
 Der Bildauschnitt ist original und das Bild wurde nur leicht in [Lightroom]{: target="_blank" rel="noopener noreferrer"} bearbeitet. Der schwarze Hintergund ergab sich durch den Holzsteg am Rande des Koi Teich, der über dem Bildausschnitt verlaufen würde.
 
-Über dem Stein ist leider eines der Kabel der Teich Beleuchtung zu sehen. Das ist mittlerweile schon unsichtbar verlegt, falls sich die Bild Situation nochmals ergibt. Wäre aber auch mal eine gute Gelegenheit das in Photoshop raus zu retouchieren :-)
+Über dem Stein ist leider eines der Kabel der Teich Beleuchtung zu sehen. Das ist mittlerweile schon unsichtbar verlegt, falls sich die Bild Situation nochmals ergibt. Wäre aber auch mal eine gute Gelegenheit das in Photoshop raus zu retouchieren. :smile:
 
 {% include _amazon_affiliate.md %}
