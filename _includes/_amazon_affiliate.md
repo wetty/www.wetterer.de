@@ -10,6 +10,7 @@ Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellung
 [Tamron 150-600mm F/5-6.3 Di VC USD]: https://amzn.to/2Vnl1qt "Tamron SP 150-600mm F/5-6.3 Di VC USD Teleobjektiv für Nikon"
 [Tamron SP 150-600mm F/5-6.3 Di VC USD G2]: https://amzn.to/3aq3aFo "Tamron SP 150-600mm F/5-6.3 Di VC USD G2"
 [Tamron Tele-Converter 1.4x]: https://amzn.to/3bs4WY0 "Tamron Tele-Converter 1.4x"
+[Tamron SP 15-30mm F/2.8 Di VC USD]: https://amzn.to/2StbrCg "Tamron SP 15-30mm Weitwinkel Objektiv F/2.8 Di VC USD für Nikon"
 [Samyang 14/2,8]: https://amzn.to/2GSIlsQ "Samyang 14/2,8 Objektiv DSLR Nikon F AE manueller Fokus automatischer Blendenring Fotoobjektiv, Weitwinkelobjektiv schwarz"
 [Nikon 50 mm/F 1.4 G]: https://amzn.to/2CO3S1J "Nikon 50 mm/F 1.4 G Objektiv"
 [Nikon AF-S Nikkor 18-35mm 1:3,5-4,5G ED]: https://amzn.to/2GUCoeQ "Nikon AF-S Nikkor 18-35mm 1:3,5-4,5G ED Objektiv"
