@@ -9,4 +9,4 @@ Gestern Abend kurz vor halb neun, nach dem ein kurzer Gewitterregen vorbei war, 
 
 Das Bild entstand noch während des Regen wodurch es einen leicht verrauschten Eindruck macht. Aufgenommen wurde es mit einer 1/400 Sekunde bei Blende 8 und ISO 1000 mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und dem [Tamron SP 15-30mm F/2.8 Di VC USD]{: target="_blank" rel="noopener noreferrer nofollow"} Weitwinkel Objektiv bei 15mm Brennweite.
 
-{% include _references.md %}
+{% include _amazon_affiliate.md %}
