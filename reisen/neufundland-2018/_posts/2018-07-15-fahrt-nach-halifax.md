@@ -13,7 +13,7 @@ Weiter die Küste entlang kommen wir dann zu der Gedenkstätte für die Absturzo
 
 In [Peggy's Cove]{: target="_blank" rel="noopener noreferrer"} finden wir direkt einen Parkplatz. Es ist wohl eines der berühmtesten Fischerdörfer und wohl auch das meist fotografierteste. Im Ort stehen gut 10-20 Maler mit Ihren Staffeleien und malen diverse Motive vom Hafen. Ein Food Truck bei dem man in 12 Minuten lernt wie man einen Lobster zubereitet bzw. halt auch selbst macht steht auch hier.
 
-Es ist nicht klar wie weit es noch zum Leuchtturm ist, also nehmen wir das Auto. Es ist nicht wirklich weit und der große Parkplatz ist komplett belegt. Es gäb vielleicht eine Stelle wo man sich reinquetschen könnte, aber ich fahr zurück ins Ort. Unser alter Parkplatz ist nun weg. Dann doch zum Parkplatz und in die spezial Lücke stellen.
+Es ist nicht klar wie weit es noch zum Leuchtturm ist, also nehmen wir das Auto. Es ist nicht wirklich weit und der große Parkplatz ist komplett belegt. Es gäb vielelicht eine Stelel wo man sich reinquetschen könnte, aber ich fahr zurück ins Ort. Unser alter Parkplatz ist nun weg. Dann doch zum Parkplatz und in die spezial Lücke stellen.
 
 Der Leuchtturm liegt im Nebel. Aber Bilder mit blauem Himmel gibt es von dem Leuchturm ja genug. Ein Stück entfernt fängt ein Mann in schottischem Outfit mit Schottenrock an etwas aufzubauen. Anja liegt richtig. Er packt seinen Dudelsack aus und fängt an zu spielen. Wußte gar nicht, das ein einzelner Dudelsack so kräftig sein kann, das man das hier überall richtig gut hört. Ich hol mein Kleingeld raus und werf es in seinen Kasten und mache ein paar Bilder.
 
