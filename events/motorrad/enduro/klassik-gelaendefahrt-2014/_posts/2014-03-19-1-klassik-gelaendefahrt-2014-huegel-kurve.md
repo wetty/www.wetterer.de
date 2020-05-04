@@ -7,6 +7,6 @@ Hier die Bilder der Kurve auf dem Hügel der ersten Klassik Geländefahrt des [M
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-huegel-kurve %}
+{% include wetty/gallery.html dir="1-klassikfahrt-2014-huegel-kurve" %}
 
 {% include _references.md %}

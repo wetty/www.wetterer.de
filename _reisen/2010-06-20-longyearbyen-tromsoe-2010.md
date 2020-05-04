@@ -6,4 +6,7 @@ permalink: /reisen/longyearbyen-tromsoe-2010/
 taxonomy: longyearbyen-tromsoe-2010
 redirect_from:
   - /longyearbyen-tromsoe-2010/
+header:
+  image: /assets/images/responsive/popup/headers/header_1070.jpg
+  padding-bottom: 16.44%
 ---

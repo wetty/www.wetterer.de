@@ -1,5 +1,4 @@
 _site
-_site_online
 _plugins_disabled
 .DS_Store
 *.sublime-project
@@ -14,6 +13,6 @@ Gemfile.lock
 Gemfile.lock
 theme-setup
 _fullsize
+_unused
 assets/images/_fullsize
 assets/_images/_responsive
-assets/images/responsive

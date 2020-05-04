@@ -312,7 +312,9 @@ Die halbe Stunde zwischen Training und Rennen wurde von allen Teilnehmern nochma
 {% include wetty/image.html path="/assets/images/kart0498/vorbereitung.gif" width=540 height=250 %} 
 
 ## Boxengasse
+
 {% include wetty/image.html class="left plainimg" path="/assets/images/kart0498/boxengasse.gif" %}
+
 Aufgereiht wie auf einer Perlenschnur.
 
 Die letzte Möglichkeit noch etwas am Setting zu ändern.
@@ -322,6 +324,7 @@ Die Spannung kaum noch zu ertragen.
 Gleich geht es raus auf die Startpositionen.
 
 ## Das Rennen
+
 {% include wetty/image.html class="left plainimg" path="/assets/images/kart0498/rennen01.gif" %} 
 
 Die 1 bereits hinter die 2 zurück gefallen. 

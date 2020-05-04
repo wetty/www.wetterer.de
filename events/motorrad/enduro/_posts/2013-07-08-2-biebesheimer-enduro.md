@@ -11,7 +11,7 @@ Zum zuschauen hab ich es jedenfalls geschafft und dabei hab ich auch einige Bild
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.2-Biebesheimer-Enduro-2013 %}
+{% include wetty/gallery.html dir="2-Biebesheimer-Enduro-2013" %}
 
 {% include _references.md %}
 

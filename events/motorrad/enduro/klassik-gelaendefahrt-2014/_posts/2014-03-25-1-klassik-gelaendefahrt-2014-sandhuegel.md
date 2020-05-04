@@ -7,6 +7,6 @@ Hier die Bilder vom Sandhügel der ersten Klassik Geländefahrt des [MC Pfungsta
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-sandhuegel %}
+{% include wetty/gallery.html dir="1-klassikfahrt-2014-sandhuegel" %}
 
 {% include _references.md %}

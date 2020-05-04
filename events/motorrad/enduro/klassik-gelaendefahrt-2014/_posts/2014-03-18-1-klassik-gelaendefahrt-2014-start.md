@@ -9,6 +9,6 @@ Insgesamt sind etwas mehr wie 1400 Fotos entstanden. In den nächsten Tagen werd
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-start %}
+{% include wetty/gallery.html dir="1-klassikfahrt-2014-start" %}
 
 {% include _references.md %}
