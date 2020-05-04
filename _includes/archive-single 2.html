@@ -1,0 +1,64 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+<!-- 2020-01-20 Markdownify macht ol li Elemente-->
+{% assign title = post.title %}
+
+{% if page.full_excerpt %}
+<style>
+.archive__item-title a[rel="permalink"]::before {
+    position: relative;}
+</style>
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if page.full_excerpt %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      {% else %}
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time></span></a>
+      {% endif %}
+      {% endif %}
+    </h2>
+    {% if page.read_time %}
+       <p class="page__meta">
+          <i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ post.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;
+          <i class="far fa-clock" aria-hidden="true"> </i> {{ post.date | date: "%R Uhr" }}&nbsp;<a href="{{ site.url }}/about/" rel="author" style="text-decoration: none;">&nbsp;
+          <i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a>&nbsp;
+          <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+       </p>
+    {% endif %}
+	{% if page.full_excerpt %}
+    {% if post.content contains '<!--more-->' %}
+       {{ post.content | split:'<!--more-->' | first }}<p><a href="{{ site.url }}{{ post.url }}" class="btn">Weiter lesen →</a></p>
+    {% else %}
+     {{ post.content }}
+    {% endif %}		
+    {% else %}
+       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }} <a href="{{ site.url }}{{ post.url }}" class="btn">Weiter lesen →</a></p>{% endif %}
+    {% endif %}
+  </article>
+</div>
