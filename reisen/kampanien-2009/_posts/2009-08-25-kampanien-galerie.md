@@ -8,5 +8,5 @@ Alle Bilder des Kampanien Urlaubs.
 
 <!--more-->
 
-{% include wetty/gallery.html dir="2009-08-08-Kampanien" %}
+{% include wetty/gallery.html data=site.data.2009-08-08-Kampanien %}
 

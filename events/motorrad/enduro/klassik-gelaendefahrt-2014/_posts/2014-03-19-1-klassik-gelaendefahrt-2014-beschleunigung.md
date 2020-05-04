@@ -7,6 +7,6 @@ Hier die Bilder der Beschleunigungsprüfung der ersten Klassik Geländefahrt des
 
 <!--more-->
 
-{% include wetty/gallery.html dir="1-klassikfahrt-2014-beschleunigung" %}
+{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-beschleunigung %}
 
 {% include _references.md %}

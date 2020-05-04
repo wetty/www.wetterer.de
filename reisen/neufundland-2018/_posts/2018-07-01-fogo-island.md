@@ -49,7 +49,7 @@ Ich mach noch ein paar Bilder außerhalb des Hotels und dann laufen wir zurück 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_140046_D75_8174.jpg" alt="Fogo Island Inn" %}
 
 
-{% include wetty/gallery.html data=site.data.2018-07-01-fogo-island class="fourth" %}
+{% include wetty/gallery_4.html data=site.data.2018-07-01-fogo-island %}
 
 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_140928_D75_8188-Pano.jpg" alt="Fogo Island Inn" %}
@@ -70,7 +70,7 @@ Direkt auf der Terasse des Restaurants ergibts sich mit aufziehenden Nebelschwad
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_195031_DCA_8224.jpg" alt="Ausblick von Sansome’s Seafood Restaurant" %}
 
 
-{% include wetty/gallery.html data=site.data.2018-07-01-sansomesseafoodrestaurant class="fourth" %}
+{% include wetty/gallery_4.html data=site.data.2018-07-01-sansomesseafoodrestaurant %}
 
 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_201740_D72_3805.jpg" alt="Ausblick von Sansome’s Seafood Restaurant" %}
@@ -81,7 +81,7 @@ Das Wetter hat sich den Tag über gebessert. Zum blauen Himmel ziehen nun langsa
 
 {% include wetty/picture.html img="neufundland-2018/2018-07-01_203935_D75_8198.jpg" alt="Szenerie rund um Twillingate" %}
 
-{% include wetty/gallery.html data=site.data.2018-07-01-twillingate class="fourth" %}
+{% include wetty/gallery_4.html data=site.data.2018-07-01-twillingate %}
 
 Bei sehr dichtem Nebel erreichen wir wieder unser B&B. Gerade als das Feuerwerk zum Canada Day beginnt. Was für ein Tag.    
 

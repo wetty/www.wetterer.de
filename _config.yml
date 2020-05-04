@@ -17,14 +17,11 @@ minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark",
 url_cdn: //d2s7alet3cn0i1.cloudfront.net
 # url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
 
-responsible_images: true
 url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/
 url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_268/popup/
 url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_268/popup/
 url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,c_thumb,w_75,h_75/popup/
 url_cloudinary_width: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_{width}/popup/
-url_cloudinary_w: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_
-url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive
 # url_cloudinary_width_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_936/popup/
 
 # url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
@@ -36,8 +33,8 @@ url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scal
 # url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-version: ".42"
-image_popup_class: image-popup
+version: ".35"
+
 
  
 #head_scripts:
@@ -48,9 +45,7 @@ image_popup_class: image-popup
 #  - /assets/js/your-custom-head-script.js
 #footer_scripts:
 #  - /assets/js/your-custom-footer-script.js
-#after_footer_scripts:
-#  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js,gh/aFarkas/lazysizes/plugins/rias/ls.rias.min.js
-#  - https://cdn.jsdelivr.net/combine/gh/aFarkas/lazysizes/lazysizes.min.js
+# after_footer_scripts:
 #  - /assets/js/lazysizes.min.js
 #  - /assets/js/ls.rias.min.js
 
@@ -155,7 +150,7 @@ owner:
 # Site Author
 author:
   name             : "Thomas Wetterer"
-  avatar           : "/assets/images/thomas-wetterer.jpg"
+  avatar           : "//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_98/assets/images/thomas-wetterer.jpg"
   bio              : "Dipl.-Ing. Elektrotechnik"
   location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
@@ -364,7 +359,6 @@ defaults:
       comments: true
       sharing: true
       footer: true
-      author_profile: true
   -
     scope:
       path: ""
@@ -377,10 +371,6 @@ defaults:
       share: true
       classes: wide
       related: true
-      banner: 
-        image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper_ad.png
-        alt: "FotoBox - Fotos aus der Box - Darmstadt, Mannheim, Frankfurt, Groß-Umstadt, Aschaffenburg"
-        link: https://www.fotos-aus-der-box.de
   -
     scope:
       path: ""
@@ -476,8 +466,9 @@ defaults:
       series:
         name: "Longyearbyen-Tromsö 2010"
       header:
-        image: /assets/images/responsive/popup/headers/header_1070.jpg
-        padding-bottom: 16.44%
+        image: headers/header_1070.jpg
+      image:
+        feature: headers/header_1070.jpg
   -
     scope:
       path: "reisen/lofoten-tromsoe-bodoe-2010"
@@ -486,9 +477,6 @@ defaults:
       tags: [Segeln]
       series:
         name: "Lofoten Tromsö Bodö 2010"
-      header:
-        image: /assets/images/responsive/popup/headers/header_1070.jpg
-        padding-bottom: 16.44%
   -
     scope:
       path: "reisen/ueberfuehrungstoern-2012"
@@ -576,8 +564,7 @@ defaults:
     values:
       tags: [Segeln, Moby Dick III, Atlantik, Karibik]
       header:
-        image: /assets/images/responsive/popup/atlantik-2016/Atlantik_DSC_1049.jpg
-        padding-bottom: 66.66%
+        image: atlantik-2016/Atlantik_DSC_1049.jpg
       series:
         name: "Atlantik 2016"
   -
@@ -595,8 +582,7 @@ defaults:
     values:
       tags: [Neufundland, Kanada]
       header:
-        image: /assets/images/responsive/popup/neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
-        padding-bottom: 35.37%
+        image: neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
       series:
         name: "Neufundland 2018"
   -
@@ -606,8 +592,7 @@ defaults:
     values:
       tags: [Istrien, Kroatien]
       header:
-        image: /assets/images/responsive/popup/2019-07-07-istrien-2019/2019-07-12_120653_D75_3313-Pano_1920.jpg
-        padding-bottom: 36.56%
+        image: 2019-07-07-istrien-2019/2019-07-12_120653_D75_3313-Pano_1920.jpg
       series:
         name: "Istrien 2019"
   -

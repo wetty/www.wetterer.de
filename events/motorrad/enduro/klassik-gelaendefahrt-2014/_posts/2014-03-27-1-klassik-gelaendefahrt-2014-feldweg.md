@@ -7,6 +7,6 @@ Hier die Bilder vom Feldweg der ersten Klassik Geländefahrt des [MC Pfungstadt 
 
 <!--more-->
 
-{% include wetty/gallery.html dir="1-klassikfahrt-2014-feldweg" %}
+{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-feldweg %}
 
 {% include _references.md %}

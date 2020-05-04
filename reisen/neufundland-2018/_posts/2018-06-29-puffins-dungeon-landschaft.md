@@ -9,7 +9,7 @@ Die beiden Betreiber der Unterkunft machten Obstsalat und anschliessend "French 
 
 Die anderen rücken nach dem Frühstück ab, haben aber die nächsten Tage in etwa die gleiche Route wie wir. Wir befolgen den Tipp, das morgens die Puffins am zahlreichsten sind und fahren erneut zum Puffin Viewing Point. Und tatsächlich sind um ein vielfaches mehr der Papageitaucher zu entdecken. Eine ganze Armada von Fotografen, ausgerüstet mit größten Objektiven, die die einzelnen Marken so hergeben, steht schon parat. Alle zielen auf einen Plüsch Puffins und erzählen, dass sich da hin und wieder einer der echten Vögel nieder läßt.
 
-{% include wetty/gallery.html data=site.data.2018-06-29-puffins class="fourth" %}
+{% include wetty/gallery_4.html data=site.data.2018-06-29-puffins %}
 
 Wir treffen noch eine gebürtige Kasselanerin, die schon seit 50 Jahren in der Nähe der Niagarafälle wohnt, und nun schon zum fünften Mal nach Neufundland gereist ist. Auch sie sitzt mit Foto und Stativ da und fotografiert.
 

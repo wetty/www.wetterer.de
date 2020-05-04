@@ -7,6 +7,6 @@ Hier die Bilder vom Sprung und der anschliessenden Kurve der ersten Klassik GelÃ
 
 <!--more-->
 
-{% include wetty/gallery.html dir="1-klassikfahrt-2014-sprung-und-kurve" %}
+{% include wetty/gallery.html data=site.data.1-klassikfahrt-2014-sprung-und-kurve %}
 
 {% include _references.md %}

@@ -23,7 +23,13 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
+          {% endif %}
+          alt="">
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
@@ -55,15 +61,4 @@
        {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }} <a href="{{ site.url }}{{ post.url }}" class="btn">Weiter lesen →</a></p>{% endif %}
     {% endif %}
   </article>
-{% if site.owner.google.ad-client %}
-<div class="archive-single__ads">
-<ins class="adsbygoogle"
-  style="display:block; border-bottom: initial;"
-  data-ad-client="{{ site.owner.google.ad-client }}"
-  data-ad-slot="{{ site.owner.google.ad-slot }}"
-  data-ad-format="auto"
-  data-full-width-responsive="false"></ins>
-</div>
-{% endif %}
-
 </div>
