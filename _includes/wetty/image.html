@@ -13,9 +13,11 @@
   {% assign popup = "true" %}
   {% assign popup_href = incl_href %}
   {% assign popup_class = "" %}
+{% else %}
+{% capture popup_href %}{{ site.url_cloudinary }}{{ img_path }}{% endcapture %}
 {% endif %}
 
-{% if popup == "true" %}<a href="{{ site.url_cloudinary }}{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
+{% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
 {% else %}
