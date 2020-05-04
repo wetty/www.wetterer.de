@@ -24,6 +24,7 @@ url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_aut
 url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,c_thumb,w_75,h_75/popup/
 url_cloudinary_width: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_{width}/popup/
 url_cloudinary_w: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_
+url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive
 # url_cloudinary_width_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_936/popup/
 
 # url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/

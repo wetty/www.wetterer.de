@@ -15,7 +15,7 @@
   {% assign popup_class = "" %}
 {% endif %}
 
-{% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
+{% if popup == "true" %}<a href="{{ site.url_cloudinary }}{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
 {% else %}
