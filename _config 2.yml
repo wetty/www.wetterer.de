@@ -1,0 +1,625 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+url_cdn: //d2s7alet3cn0i1.cloudfront.net
+# url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
+
+url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_1600/popup/
+url_cloudinary_small: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_268/popup/
+url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_268/popup/
+url_cloudinary_square: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,c_thumb,w_75,h_75/popup/
+url_cloudinary_width: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_{width}/popup/
+# url_cloudinary_width_low: //res.cloudinary.com/dsuwkv08y/image/upload/q_10,f_auto,c_scale,fl_progressive,w_936/popup/
+
+# url_cloudinary_large: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_large_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1432/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_large_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_716/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1032/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_medium_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_516/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
+# url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
+version: ".35"
+
+
+ 
+#head_scripts:
+#  - /assets/js/ls.rias.min.js
+#  - /assets/js/lazysizes.min.js
+#  - /assets/js/cloudinary-core-shrinkwrap.min.js
+#  - https://code.jquery.com/jquery-3.3.1.min.js
+#  - /assets/js/your-custom-head-script.js
+#footer_scripts:
+#  - /assets/js/your-custom-footer-script.js
+# after_footer_scripts:
+#  - /assets/js/lazysizes.min.js
+#  - /assets/js/ls.rias.min.js
+
+# Site Settings
+locale                   : "de-DE"
+title                    : "Wetty's Web World"
+title_separator          : "-"
+subtitle                 : Weil immer was geht. # site tagline that appears below site title in masthead
+name                     : &name "Thomas Wetterer"
+description              : &description "Alles was Thomas Wetterer, alias Wetty interessiert. Vom Reisen, Segeln, übers Motorrad fahren, bis zum fotografieren, sowie das Internet generell."
+url                      : https://www.wetterer.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : wetty/www.wetterer.de # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment by {fields.name}"
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path: "https://feeds.feedburner.com/wetty"
+search                   : true # true, false (default)
+search_full_content      : false # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+
+# SEO Related
+google_site_verification : google5804ac0d2ef5002f
+bing_site_verification   : EE0D978C30EE22199D09EFD26CB45F0B
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               : "twettyr"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-2881242-5
+    anonymize_ip         : true # true, false (default)
+
+# Site owner
+owner:
+  google:
+    ad-client: ca-pub-7756413429414204
+    ad-slot: 7480419251
+
+
+# Site Author
+author:
+  name             : "Thomas Wetterer"
+  avatar           : "//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive,w_98/assets/images/thomas-wetterer.jpg"
+  bio              : "Dipl.-Ing. Elektrotechnik"
+  location         : "Gernsheim, Deutschland"
+  email            : "thomas@wetterer.de"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:thomas@wetterer.de
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.wetterer.de"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/twettyr"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Thomas_Wetterer/cv"
+    - label: "500px"
+      icon: "fab fa-fw fa-500px"
+      url: "https://500px.com/wetty"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/c/ThomasWetterer"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wetty"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Thomas_Wetterer/cv"
+    - label: "500px"
+      icon: "fab fa-fw fa-500px"
+      url: "https://500px.com/wetty"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/c/ThomasWetterer"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/twettyr"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wetty"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+  - _backuped_files
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+# permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+  
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+#  type: liquid
+  type: jekyll-archives
+#  path: /categories/
+  path: /
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+#jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      body_id: page
+      comments: true
+      sharing: true
+      footer: true
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      comments: # true
+      share: true
+      classes: wide
+      related: true
+  -
+    scope:
+      path: ""
+      type: "garage"
+    values:
+      layout: single
+      body_id: page
+  -
+    scope:
+      path: ""
+      type: "mp3"
+    values:
+      layout: single
+      body_id: page
+  -
+    scope:
+      path: ""
+      type: "sonstiges"
+    values:
+      layout: single
+      body_id: page
+#  -
+#    scope:
+#      path: "_posts/sitenews"
+#      type: "posts"
+#    values:
+#      categories: [Sitenews]
+
+#  -
+#    scope:
+#      path: "reisen"
+#      type: posts
+#    values:
+#      category_depth: 2
+  -
+    scope:
+      path: "events/auto/formel1/formel-1-2000-hockenheim"
+      type: posts
+    values:
+      series:
+        name: "Formel 1 2000 Hockenheim"
+  -
+    scope:
+      path: "events/motorrad/enduro/klassik-gelaendefahrt-2014"
+      type: posts
+    values:
+      series:
+        name: "Klassik Geländefahrt 2014"
+  -
+    scope:
+      path: "reisen/italien-2006"
+      type: posts
+    values:
+      series:
+        name: "Italien 2006"
+  -
+    scope:
+      path: "reisen/talfahrt-2008"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Talfahrt 2008"
+  -
+    scope:
+      path: "reisen/kanada-2008"
+      type: posts
+    values:
+      series:
+        name: "Kanada 2008"
+  -
+    scope:
+      path: "reisen/jugendtoern-norwegen-2009"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Jugendtörn Norwegen 2009"
+  -
+    scope:
+      path: "reisen/kampanien-2009"
+      type: posts
+    values:
+      tags: [Italien]
+      series:
+        name: "Kampanien 2009"
+  -
+    scope:
+      path: "reisen/longyearbyen-tromsoe-2010"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, Norwegen]
+      series:
+        name: "Longyearbyen-Tromsö 2010"
+      header:
+        image: headers/header_1070.jpg
+      image:
+        feature: headers/header_1070.jpg
+  -
+    scope:
+      path: "reisen/lofoten-tromsoe-bodoe-2010"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Lofoten Tromsö Bodö 2010"
+  -
+    scope:
+      path: "reisen/ueberfuehrungstoern-2012"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Überführungstörn 2012"
+  -
+    scope:
+      path: "reisen/schottland-2012"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, Schottland]
+      series:
+        name: "Schottland 2012"
+  -
+    scope:
+      path: "reisen/orkney-inseln-2012"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Orkney Inseln 2012"
+  -
+    scope:
+      path: "reisen/orkneys-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Orkneys 2013"
+  -
+    scope:
+      path: "reisen/oslofjord-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Oslofjord 2013"
+  -
+    scope:
+      path: "reisen/bergfahrt-2013"
+      type: posts
+    values:
+      tags: [Segeln]
+      series:
+        name: "Bergfahrt 2013"
+  -
+    scope:
+      path: "reisen/englischer-kanal-2014"
+      type: posts
+    values:
+      tags: [Segeln,Moby Dick III]
+      series:
+        name: "Englischer Kanal 2014"
+  -
+    scope:
+      path: "reisen/schnuppertoern-2014"
+      type: posts
+    values:
+      tags: [Segeln,Moby Dick III]
+      series:
+        name: "Schnuppertoern 2014"
+  -
+    scope:
+      path: "reisen/kanada-2015"
+      type: "posts"
+    values:
+      tags: [Kanada]
+      series:
+        name: "Kanada 2015"
+  -
+    scope:
+      path: "reisen/umbrien-2016"
+      type: posts
+    values:
+      tags: [Umbrien, Italien]
+      series:
+        name: "Umbrien 2016"
+  -
+    scope:
+      path: "reisen/atlantik-ueberquerung-2016"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, Atlantik, Karibik]
+      header:
+        image: atlantik-2016/Atlantik_DSC_1049.jpg
+      series:
+        name: "Atlantik 2016"
+  -
+    scope:
+      path: "reisen/ostkueste-usa-2017"
+      type: posts
+    values:
+      tags: [Segeln, Moby Dick III, USA]
+      series:
+        name: "Ostküste USA 2017"
+  -
+    scope:
+      path: "reisen/neufundland-2018"
+      type: posts
+    values:
+      tags: [Neufundland, Kanada]
+      header:
+        image: neufundland-2018/2018-06-26_104029_DCA_8095-Pano.jpg
+      series:
+        name: "Neufundland 2018"
+  -
+    scope:
+      path: "reisen/istrien-2019"
+      type: posts
+    values:
+      tags: [Istrien, Kroatien]
+      header:
+        image: 2019-07-07-istrien-2019/2019-07-12_120653_D75_3313-Pano_1920.jpg
+      series:
+        name: "Istrien 2019"
+  -
+    scope:
+      path: "events/konzert"
+      type: posts
+    values:
+      tags: [ticket]
+      read_time: true
+      no_excerpt: true
+
+# Collections
+# body_id funktioniert hier nicht bei github
+collections:
+  garage:
+    output: true
+    permalink: /sonstiges/:collection/:path/
+    sidebar:
+      nav: "garage"
+  reisen:
+    output: true
+    permalink: /:collection/:path/
+  mp3:
+    output: true
+    permalink: /sonstiges/:collection/:path/
+  sonstiges:
+    output: true
+    permalink: /:path/
+
+github: [metadata]

@@ -1,0 +1,23 @@
+{% assign serie = page.categories | last %}
+{% if serie %}
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+	  <li>
+	  <span class="nav__sub-title">{{ page.series.name }}</span>
+      <ul>
+	    {% for post in site.categories.[serie] reversed %}
+      <li>
+		  {% if post.id == page.id %}
+            <a href="{{ site.url }}{{ post.url }}" class="active">&rarr;&nbsp;{{ post.title }}</a>
+          {% else %}
+            <a href="{{ site.url }}{{ post.url }}" class="">-&nbsp;{{ post.title }}</a>
+          {% endif %}
+      </li>
+    {% endfor %}
+      </ul>
+      </li>
+  </ul>
+</nav>
+{% endif %}
