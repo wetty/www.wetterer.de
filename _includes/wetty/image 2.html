@@ -1,4 +1,0 @@
-{% comment %}
-{% if include.width %}{% assign datsiz="" %}{% else %}{% assign datsiz="auto" %}{% endif %}<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ include.path }}" data-size="{{ datsiz }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
-{% endcomment %}
-<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_limit,fl_progressive,w_auto/{{ include.path }}" class="{{ include.class }} lazyload blur-up" itemprop="image" alt="{{ include.alt }}" width="{{ include.width }}" height="{{ include.height }}" data-sizes="{{ datsiz }}" data-widths="[25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450, 636, 754, 770, 824, 936, 972, 1022, 1100, 1200, 1400, 1600, 1920]" />
