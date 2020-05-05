@@ -1,9 +1,0 @@
----
-title: "Seelze"
-date: 2008-04-29 16:56
----
-
-{% include wetty/picture.html class="align-left" img="2008-04-23-talfahrt-2008/photo_042908_001_7568372192_o.jpg" alt="Seelze" %}
-Kurz vor 17:00 Uhr haben wir bei Seelze fest gemacht. Das Wetter hat sich gebessert.
-
-{% include wetty/google_map.html latitude=52.3907033 longitude=9.58625 %}
