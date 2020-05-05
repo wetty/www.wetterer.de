@@ -1,9 +1,0 @@
----
-title: "ZZ Top 1983"
-date: 1983-10-31 18:11
-tags: [ticket,ZZ Top]
----
-Die An- und Abreise war das beste. Das Konzert an sich etwas zu kurz.
-
-{% include wetty/picture.html img="Tickets/zztop1983_front.jpg" alt="ZZ Top 1983" %}
-{% include wetty/picture.html img="Tickets/zztop1983_back.jpg" alt="ZZ Top 1983" %}

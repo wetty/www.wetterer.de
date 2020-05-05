@@ -1,8 +1,0 @@
----
-title: "Blues Company 2002"
-date: 2002-08-31 17:53
-tags: [ticket,Blues Company]
----
-Die Blues Company am 31.08.2002 in der ehemaligen Nothnagel Werkstatt in Griesheim.
-
-{% include wetty/picture.html img="Tickets/bluescompany2002_front.jpg" alt="Blues Company 2002" %}

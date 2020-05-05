@@ -1,8 +1,0 @@
----
-title: "AC/DC 2001"
-date: 2001-06-10 14:19
-tags: [ticket,AC/DC]
----
-AC/DC am 10.06.2001 auf dem Hockenheimring.
-{% include wetty/picture.html img="Tickets/acdc2001_front.jpg" alt="AC DC 2001" %}
-{% include wetty/picture.html img="Tickets/acdc2001_back.jpg" alt="AC DC 2001" %}

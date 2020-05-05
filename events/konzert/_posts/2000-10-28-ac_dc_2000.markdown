@@ -1,8 +1,0 @@
----
-title: "AC/DC 2000"
-date: 2000-10-28 14:19
-tags: [ticket,AC/DC]
----
-AC/DC auf der Stiff Upper Lip Tour am 29.10.2000 in der Kölnarena.
-{% include wetty/picture.html img="Tickets/acdc2000_front.jpg" alt="AC DC 2000" %}
-{% include wetty/picture.html img="Tickets/acdc2000_back.jpg" alt="AC DC 2000" %}
