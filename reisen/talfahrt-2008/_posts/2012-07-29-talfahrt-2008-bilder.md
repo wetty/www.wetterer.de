@@ -9,7 +9,7 @@ Es hat etwas gedauert, aber nach gut 4 Jahren sind nun auch die Bilder der Talfa
 
 <!--more-->
 
-{% include wetty/gallery.html dir="2008-04-23-Talfahrt-2008" %}
+{% include wetty/gallery.html dir="2008-04-23-talfahrt-2008" %}
 
 {% include _references.md %}
 
