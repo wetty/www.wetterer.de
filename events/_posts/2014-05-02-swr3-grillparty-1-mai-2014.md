@@ -59,7 +59,7 @@ Passend zur Grillparty, hab ich mich mal zum Thema Foodfotografie schlau gemacht
 Hier die entstandenen Bilder: 
 
 
-{% include wetty/gallery.html dir="swr3-grillen-2014" class="fourth" %}
+{% include wetty/gallery.html dir="2014-05-01-swr3-grillen" class="fourth" %}
 
 
 {% include _references.md %}
