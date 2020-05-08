@@ -11,5 +11,5 @@ Das Miniatur Wunderland Hamburg mit einigen Bildern.
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Miniatur-Wunderland-2004 %}
+{% include wetty/gallery.html dir="Miniatur-Wunderland-2004" %}
 

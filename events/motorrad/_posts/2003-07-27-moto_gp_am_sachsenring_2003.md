@@ -9,5 +9,5 @@ Der Moto GP am 27.07.2003 zu Gast auf dem Sachsenring mit einigen Bildern.
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.GP-Sachsenring-2003 %}
+{% include wetty/gallery.html dir="GP-Sachsenring-2003" %}
 

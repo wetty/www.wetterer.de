@@ -6,7 +6,7 @@ Bilder des der [Moby Dick III] Inbetriebnahme 2012, mit neuem Überwasser Anstri
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Moby-Dick-III-Inbetriebnahme-2012 %}
+{% include wetty/gallery.html dir="Moby-Dick-III-Inbetriebnahme-2012" %}
 
 {% include _references.md %}
 

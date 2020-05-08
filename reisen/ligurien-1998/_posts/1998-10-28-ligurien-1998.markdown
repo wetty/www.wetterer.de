@@ -9,5 +9,5 @@ Kurzerhand die KTM vom Super Moto Trimm wieder auf Geländeräder gestellt, ging
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Ligurien-1998 %}
+{% include wetty/gallery.html die="Ligurien-1998" %}
 
