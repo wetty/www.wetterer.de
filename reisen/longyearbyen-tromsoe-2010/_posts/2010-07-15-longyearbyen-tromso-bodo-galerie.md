@@ -10,6 +10,6 @@ Der Spitzbergen Törn endet zwar hier, aber es ging gleich weiter mit den [Lofot
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.2010-06-20-Longyearbyen-Tromso-Bodo %}
+{% include wetty/gallery.html dir="2010-06-20-Longyearbyen-Tromso-Bodo" %}
 
 

@@ -11,4 +11,4 @@ Training muß sein. Hier mit Jürgen Künzel. Und mit einigen technischen defekt
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Training-in-Walldorf-2001-by-Team-GF %}
+{% include wetty/gallery.html dir="Supermoto-Training-in-Walldorf-2001-by-Team-GF" %}

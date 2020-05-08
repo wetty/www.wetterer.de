@@ -9,3 +9,10 @@ analytics:
 
 sass:
   style: expanded
+  
+# Site owner
+owner:
+  google:
+    ad-client: 
+    ad-slot: 
+  

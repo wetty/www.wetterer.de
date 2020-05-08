@@ -8,6 +8,6 @@ Alle Bilder des Lofoten Segeltörns von Tromsö nach Bodö.
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.2010-07-04-Lofoten-Tromsoe-Bodoe %}
+{% include wetty/gallery.html dir="2010-07-04-Lofoten-Tromsoe-Bodoe" %}
 
 
