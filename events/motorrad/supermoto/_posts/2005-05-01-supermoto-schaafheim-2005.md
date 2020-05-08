@@ -17,4 +17,4 @@ Die Hoffnung stirbt zuletzt. Schaun wir mal.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2005 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2005" %}

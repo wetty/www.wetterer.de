@@ -7,4 +7,4 @@ tags:
 ---
 Bilder vom Training in Schaafheim.
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2007-Training %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2007-Training" %}

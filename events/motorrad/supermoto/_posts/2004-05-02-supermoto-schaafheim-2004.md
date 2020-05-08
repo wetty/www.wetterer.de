@@ -6,4 +6,4 @@ tags:
 
 ---
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2004 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2004" %}

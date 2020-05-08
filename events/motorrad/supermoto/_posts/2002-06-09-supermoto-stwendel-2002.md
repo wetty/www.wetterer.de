@@ -15,4 +15,4 @@ Am Start in der Amateure (Challenge) in St. Wendel vom 08.-09.06.2002.
 
 Am Start in St. Wendel, daher nur ein paar Bilder vom Rundgang über die Strecke. 
 
-{% include wetty/gallery.html data=site.data.Supermoto-StWendel-2002 %}
+{% include wetty/gallery.html dir="Supermoto-StWendel-2002" %}

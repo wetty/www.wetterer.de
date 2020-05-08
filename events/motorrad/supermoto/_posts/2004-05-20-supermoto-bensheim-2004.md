@@ -11,4 +11,4 @@ Die erste Veranstaltung in der ich einen Sieg erringen konnte. Allerdings 'nur' 
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Bensheim-2004 %}
+{% include wetty/gallery.html dir="Supermoto-Bensheim-2004" %}

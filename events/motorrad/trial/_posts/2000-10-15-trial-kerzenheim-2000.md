@@ -7,4 +7,4 @@ Trial in Kerzenheim am 15.10.2000
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Trial-Oesterreich-2000 %}
+{% include wetty/gallery.html dir="TrialOesterreich-2000" %}

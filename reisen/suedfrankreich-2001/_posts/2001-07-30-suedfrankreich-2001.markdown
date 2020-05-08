@@ -7,5 +7,5 @@ Grand Canyon Du Verdon
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Suedfrankreich-2001 %}
+{% include wetty/gallery.html dir="Suedfrankreich-2001" %}
 

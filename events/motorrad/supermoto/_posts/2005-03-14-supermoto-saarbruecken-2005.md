@@ -83,4 +83,4 @@ Hier das offizielle Ergebnis des Finales der Amateure.
  
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarbruecken-2005 %}
+{% include wetty/gallery.html dir="Supermoto-Saarbruecken-2005" %}

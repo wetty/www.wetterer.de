@@ -10,4 +10,4 @@ Mit meiner analogen Spiegelreflex Minolta SRT 303b aufgenommen
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2000 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2000" %}

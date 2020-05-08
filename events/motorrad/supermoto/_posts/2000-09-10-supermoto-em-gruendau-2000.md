@@ -11,4 +11,4 @@ Als Zuschauer bei der EM
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-EM-Gruendau-2000 %}
+{% include wetty/gallery.html dir="Supermoto-EM-Gruendau-2000" %}

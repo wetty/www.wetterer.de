@@ -11,4 +11,4 @@ Zum trainieren in Schaafheim.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2002-Training %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2002-Training" %}

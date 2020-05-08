@@ -11,4 +11,4 @@ Leider kein Bericht
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-StWendel-2005 %}
+{% include wetty/gallery.html dir="Supermoto-StWendel-2005" %}

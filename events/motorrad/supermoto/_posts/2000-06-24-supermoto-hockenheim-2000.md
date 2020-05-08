@@ -24,4 +24,4 @@ auf dem Hockenheimring.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Hockenheim-2000 %}
+{% include wetty/gallery.html dir="Supermoto-Hockenheim-2000" %}

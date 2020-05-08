@@ -998,4 +998,4 @@ Pech! Oli mußte die 1 auch noch ziehen lassen.
 
 ## Album
 
-{% include wetty/gallery.html data=site.data.Weltmeisterschaftslauf-der-Kartsenioren %}
+{% include wetty/gallery.html dir="Weltmeisterschaftslauf-der-Kartsenioren" %}

@@ -28,7 +28,7 @@ Gleich solls losgehen. Daher an einem der heißesten Tage 1999 in die Lederkombi
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto_Heilbronn_1999 %}
+{% include wetty/gallery.html dir="Supermoto_Heilbronn_1999" %}
 
 {% include _references.md %}
 

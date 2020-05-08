@@ -11,4 +11,4 @@ Aufgrund einer Absage bei den Amateuren nur als Besucher und um ein paar Bilder 
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-StWendel-2003 %}
+{% include wetty/gallery.html dir="Supermoto-StWendel-2003" %}

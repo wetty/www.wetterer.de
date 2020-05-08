@@ -79,4 +79,4 @@ Beim ersten Super Moto Rennen auf Platz 8 gefahren. Herzlichen Glückwunsch.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarbruecken-2004 %}
+{% include wetty/gallery.html dir="Supermoto-Saarbruecken-2004" %}

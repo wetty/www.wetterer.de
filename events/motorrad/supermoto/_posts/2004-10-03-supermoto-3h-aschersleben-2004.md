@@ -6,4 +6,4 @@ tags:
 
 ---
 
-{% include wetty/gallery.html data=site.data.Supermoto-Aschersleben-3h-2004 %}
+{% include wetty/gallery.html dir="Supermoto-Aschersleben-3h-2004" %}

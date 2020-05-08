@@ -11,4 +11,4 @@ Bilder von Hubert Mendel.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarbruecken-2005-Hubert-Mendel %}
+{% include wetty/gallery.html dir="Supermoto-Saarbruecken-2005-Hubert-Mendel" %}

@@ -11,4 +11,4 @@ Irgendwie war meine Nennung verschollen. Daher gabs auch die hohe Startnummer 14
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Oschersleben-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Oschersleben-2003" %}

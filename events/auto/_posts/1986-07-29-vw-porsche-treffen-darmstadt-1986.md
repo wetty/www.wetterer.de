@@ -7,5 +7,5 @@ Leider ist nicht mehr bekannt wann genau dieses Treffen 1986 stattfand. Wer den 
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.VW-Porsche-Treffen-Darmstadt-1986 %}
+{% include wetty/gallery.html dir="VW-Porsche-Treffen-Darmstadt-1986" %}
 

@@ -7,4 +7,4 @@ Trial in Bauscheim am 20.08.2000
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Trial-Bauschheim-2000 %}
+{% include wetty/gallery.html dir="TrialBauschheim-2000" %}

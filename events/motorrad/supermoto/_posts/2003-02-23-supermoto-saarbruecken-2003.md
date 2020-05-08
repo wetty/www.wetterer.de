@@ -52,4 +52,4 @@ Cool, endlich mal in einem Finale. Zwar nur die B Variante, aber egal. Immerhin 
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarbruecken-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Saarbruecken-2003" %}

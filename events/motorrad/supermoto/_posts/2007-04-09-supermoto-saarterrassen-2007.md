@@ -6,7 +6,7 @@ tags:
 ---
 Bilder vom DM Auftakt in Saarbrücken.
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarterrassen-2007 %}
+{% include wetty/gallery.html dir="Supermoto-Saarterrassen-2007" %}
 
 {% include _references.md %}
 

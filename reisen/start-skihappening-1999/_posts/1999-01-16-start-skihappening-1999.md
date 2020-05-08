@@ -21,4 +21,4 @@ Vom 11.01.1999 bis zum 16.01.1999 war es wieder mal soweit, **START** Das Magazi
 <tr class="row0"><td class="col0">Und wie wars? Na ja, wieder mal nur Achter.</td><td class="col1">{% include wetty/picture.html img="START-Ski-Happening-1999/wt_portrait_8119494333_o.jpg" alt="" %}</td></tr></table>
 
 
-{% include wetty/gallery.html data=site.data.START-Ski-Happening-1999 %}
+{% include wetty/gallery.html dir="START-Ski-Happening-1999" %}

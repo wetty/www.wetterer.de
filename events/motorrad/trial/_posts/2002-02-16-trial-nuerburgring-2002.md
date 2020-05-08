@@ -7,4 +7,4 @@ Trial am Nürburgring im Februar 2002.
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Trial-Nuerburgring-2002 %}
+{% include wetty/gallery.html dir="TrialNuerburgring-2002" %}

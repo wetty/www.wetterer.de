@@ -21,4 +21,4 @@ Und wieder selbst am Start.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Bensheim-2001 %}
+{% include wetty/gallery.html dir="Supermoto-Bensheim-2001" %}

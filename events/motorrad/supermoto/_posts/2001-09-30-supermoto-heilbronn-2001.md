@@ -15,4 +15,4 @@ Nach einjähriger Abstinenz fand am letzten Septemberwochenende 2001 ein prädik
 
 Nach meiner Prämiere hier zum zweiten mal am Start.
 
-{% include wetty/gallery.html data=site.data.Supermoto-Heilbronn-2001 %}
+{% include wetty/gallery.html dir="Supermoto-Heilbronn-2001" %}

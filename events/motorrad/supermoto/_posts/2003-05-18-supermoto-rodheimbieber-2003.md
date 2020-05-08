@@ -16,4 +16,4 @@ Ich starte bei den Amateuren mit der Startnummer 42.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Rodheim-Bieber-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Rodheim-Bieber-2003" %}

@@ -57,4 +57,4 @@ Ziel wäre es beim Kleinen Finale der Amateure gegen 15:25 Uhr dabei zu sein.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2003" %}

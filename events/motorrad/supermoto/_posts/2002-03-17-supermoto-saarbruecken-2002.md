@@ -21,4 +21,4 @@ Super Moto Saisonauftakt 2002 in Saarbrücken
 ## Bilder
 Super Moto Saisonauftakt 2002 in Saarbrücken im Rahmen der InterMoto 2002. 
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarbruecken-2002 %}
+{% include wetty/gallery.html dir="Supermoto-Saarbruecken-2002" %}

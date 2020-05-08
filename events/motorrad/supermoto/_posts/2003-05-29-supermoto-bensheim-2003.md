@@ -50,4 +50,4 @@ Am 29.05.2003 am Start bei den Amateuren. Zur Abwechslung mit der Startnummer 45
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Bensheim-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Bensheim-2003" %}

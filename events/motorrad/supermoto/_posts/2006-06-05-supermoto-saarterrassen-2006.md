@@ -7,4 +7,4 @@ tags:
 ---
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Saarterrassen-2006 %}
+{% include wetty/gallery.html dir="Supermoto-Saarterrassen-2006" %}

@@ -11,4 +11,4 @@ Supercross am 11.01.2003 in der Westfalenhalle Dortmund mit einigen Bildern.
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Supercross-Dortmund-2003 %}
+{% include wetty/gallery.html dir="Supercross-Dortmund-2003" %}

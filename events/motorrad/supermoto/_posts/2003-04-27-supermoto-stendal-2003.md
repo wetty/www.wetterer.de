@@ -20,4 +20,4 @@ Starte somit in Klasse 4 bei den Amateuren.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Stendal-2003 %}
+{% include wetty/gallery.html dir="Supermoto-Stendal-2003" %}

@@ -7,4 +7,4 @@ Trial in Rittmannshausen am 16.-17. März 2002
 
 <!--more-->
 
-{% include wetty/gallery.html data=site.data.Trial-Rittmannshausen-2002 %}
+{% include wetty/gallery.html dir="TrialRittmannshausen-2002" %}

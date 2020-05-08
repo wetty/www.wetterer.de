@@ -8,4 +8,4 @@ Der Versuch in Saalbach-Hinterklemm beim Trial anzutreten.
 <!--more-->
 
 
-{% include wetty/gallery.html data=site.data.Trial-Oesterreich-2000 %}
+{% include wetty/gallery.html dir="TrialOesterreich-2000" %}

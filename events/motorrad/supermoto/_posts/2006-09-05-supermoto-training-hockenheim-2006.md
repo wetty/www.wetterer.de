@@ -15,4 +15,4 @@ Bilder zum Training gibts hier in meiner Galerie.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Hockenheim-2006 %}
+{% include wetty/gallery.html dir="Supermoto-Hockenheim-2006" %}

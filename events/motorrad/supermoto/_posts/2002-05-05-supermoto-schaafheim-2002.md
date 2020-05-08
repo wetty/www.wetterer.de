@@ -17,4 +17,4 @@ Veranstalter [MSC Wartturm](http://www.mscw.de/).
 
 Erster Lauf zur Internationalen Deutschen Super Moto Meisterschaft 2002.
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2002 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2002" %}

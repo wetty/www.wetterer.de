@@ -69,4 +69,4 @@ Das Ergebnis des A-Finales.
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Bensheim-2005 %}
+{% include wetty/gallery.html dir="Supermoto-Bensheim-2005" %}

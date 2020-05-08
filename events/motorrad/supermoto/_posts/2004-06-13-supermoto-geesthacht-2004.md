@@ -6,6 +6,6 @@ tags:
 
 ---
 
-{% include wetty/gallery.html data=site.data.Supermoto-Geesthacht-2004 %}
+{% include wetty/gallery.html dir="Supermoto-Geesthacht-2004" %}
 
 {% include _references.md %}

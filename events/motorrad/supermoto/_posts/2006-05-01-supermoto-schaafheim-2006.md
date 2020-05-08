@@ -8,4 +8,4 @@ tags:
 
 ## Bilder
 
-{% include wetty/gallery.html data=site.data.Supermoto-Schaafheim-2006 %}
+{% include wetty/gallery.html dir="Supermoto-Schaafheim-2006" %}

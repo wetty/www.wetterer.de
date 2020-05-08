@@ -15,4 +15,4 @@ Am Start mit Startnummer 21 bei den Amateuren (Challenge).
 
 Bensheim, die ganz besondere Strecke. 
 
-{% include wetty/gallery.html data=site.data.Supermoto-Bensheim-2002 %}
+{% include wetty/gallery.html dir="Supermoto-Bensheim-2002" %}
