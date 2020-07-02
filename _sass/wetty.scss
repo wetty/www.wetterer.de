@@ -147,6 +147,7 @@ hr {
   visibility: collapse;
   margin-top: 0em;
   margin-bottom: 0em;
+  text-align: center;
 
   @include breakpoint($large) {
 	  visibility: visible;
