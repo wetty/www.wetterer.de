@@ -6,7 +6,7 @@ tags:
 ---
 Das ganze ist nun schon weit über ein Jahr her. Da aber immer noch danach gefragt wird hier die kurze Story mit dem Link zum Beitrag.
 
-Alles fing Ende Mai 2019 an, als der Hessische Rundfunk nach den schönsten Gärten Hessens suchte. Nach einigem hin und her Überlegen wollten wir es zumindest mal probieren.
+Alles fing Ende Mai 2019 an, als der [Hessischer Rundfunk Fernsehen]{: target="_blank" rel="noopener noreferrer"} nach den schönsten Gärten Hessens suchte. Nach einigem hin und her Überlegen wollten wir es zumindest mal probieren.
 
 Laut Bewerbungsformular auf der Website des HR war nur ein Bewerbungsbild erlaubt. So machte ich Bilder und das folgende Bild wurde unser Gartenbild.
 
