@@ -4,7 +4,7 @@ date: 2020-08-28 14:44:17+0200
 tags:
 - Video
 ---
-Das ganze ist nun schon weit über ein Jahr her, aber trotzdem wird immer wieder danach gefragt.
+Das ganze ist nun schon weit über ein Jahr her. Da aber immer noch danach gefragt wird hier die kurze Story mit dem Link zum Beitrag.
 
 Alles fing Ende Mai 2019 an, als der Hessische Rundfunk nach den schönsten Gärten Hessens suchte. Nach einigem hin und her Überlegen wollten wir es zumindest mal probieren.
 
@@ -22,7 +22,7 @@ Der Beitrag war nach der Ausstrahlung auch in der Mediathek zu finden. Dort aber
 
 Und hier noch ein paar Bilder vom Dreh.
 
-{% include wetty/gallery.html dir="2020-08-28-hr-maintower-mein-garten-mein-leben" %}
+{% include wetty/gallery.html class="fifth" dir="2020-08-28-hr-maintower-mein-garten-mein-leben" %}
 
 
 
