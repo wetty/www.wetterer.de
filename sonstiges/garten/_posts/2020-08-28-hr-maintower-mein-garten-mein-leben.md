@@ -15,7 +15,7 @@ Laut Bewerbungsformular auf der Website des HR war nur ein Bewerbungsbild erlaub
 
 Nur wenige Tage später hatte sich bereits [Michael Gersch]{: target="_blank" rel="noopener noreferrer"} vom HR gemeldet und einen Vorbesichtigungstermin ausgemacht. Dann ging alles relativ schnell. In der entscheidenden Redaktionssitzung wurde unser Garten ausgewählt und bereits am 13. Juni 2019 kam ein Team von vier Leuten und hat insgesamt 5 Stunden bei uns im Garten gedreht. 
 
-Der Beitrag war nach der Ausstrahlung auch in der Mediathek zu finden. Dort aber nur knapp zwei Wochen. Mittlerweile ist er aber unter folgendem Link zu finden. 
+Der Beitrag war nach der Ausstrahlung auch in der Mediathek zu finden. Dort aber leider nur knapp zwei Wochen. Mittlerweile ist er aber unter folgendem Link zu finden. 
 
 [HR Maintower Mein Garten - Mein Leben]{: target="_blank" rel="noopener noreferrer"}
 
