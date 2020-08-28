@@ -138,3 +138,5 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Octopress]: http://octopress.org/ "A blogging framework for hackers."
 [DokuWiki]: http://www.dokuwiki.org "simple to use and highly versatile Open Source wiki software"
 [Achim Trinkner]: https://www.trinkner.de/ "Auto und Zweirad Trinkner"
+[Michael Gersch]: https://www.hr-fernsehen.de/sendungen-a-z/maintower/ueber-uns/michael-gersch,team174.html "Michael Gersch HR Fernsehen"
+[HR Maintower Mein Garten - Mein Leben]: https://www.facebook.com/watch/?v=547936852405374&extid=Hq3KzL1zVfTCRnpG "Unser Garten im HR Fernsehen"

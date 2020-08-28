@@ -31,8 +31,7 @@ layout: default
             <p class="page__meta">
               <i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ page.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;
 	          <i class="far fa-clock" aria-hidden="true"> </i> {{ page.date | date: "%R Uhr" }}&nbsp;<a href="{{ site.url }}/about/index.html" rel="author" style="text-decoration: none;">&nbsp;
-	          <i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a>&nbsp;
-              <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+	          <i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a>
           </p>
           {% endif %}
         </header>
