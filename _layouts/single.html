@@ -48,6 +48,16 @@ layout: default
         {% endif %}
         {% if page.link %}{% include wetty/webshot.html %}{% endif %}
         {{ content }}
+{% if site.owner.google.ad-client %}
+<div class="archive-single__ads">
+<ins class="adsbygoogle"
+  style="display:block; border-bottom: initial;"
+  data-ad-client="{{ site.owner.google.ad-client }}"
+  data-ad-slot="{{ site.owner.google.ad-slot }}"
+  data-ad-format="horizontal"
+  data-full-width-responsive="false"></ins>
+</div>
+{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
@@ -97,14 +107,4 @@ layout: default
       </div>
     </div>
   {% endif %}
-{% if site.owner.google.ad-client %}
-<div class="archive-single__ads">
-<ins class="adsbygoogle"
-  style="display:block; border-bottom: initial;"
-  data-ad-client="{{ site.owner.google.ad-client }}"
-  data-ad-slot="{{ site.owner.google.ad-slot }}"
-  data-ad-format="horizontal"
-  data-full-width-responsive="false"></ins>
-</div>
-{% endif %}
 </div>
