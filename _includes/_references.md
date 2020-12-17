@@ -141,3 +141,4 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Michael Gersch]: https://www.hr-fernsehen.de/sendungen-a-z/maintower/ueber-uns/michael-gersch,team174.html "Michael Gersch HR Fernsehen"
 [HR Maintower Mein Garten - Mein Leben]: https://www.facebook.com/watch/?v=547936852405374&extid=Hq3KzL1zVfTCRnpG "Unser Garten im HR Fernsehen"
 [Hessischer Rundfunk Fernsehen]: https://www.hr-fernsehen.de/ "Hessischer Rundfunk Fernsehen"
+[HR - Alle Wetter vom 16.12.2020]: https://www.ardmediathek.de/hr/video/alle-wetter/alle-wetter-vom-16-12-2020/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMjA5NzI/ "HR Mediathek"
