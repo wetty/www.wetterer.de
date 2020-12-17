@@ -639,4 +639,3 @@ collections:
     permalink: /:path/
 
 github: [metadata]
-theme: jekyll-theme-minimal
