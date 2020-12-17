@@ -22,9 +22,9 @@ Die Belichtung des Bildes wurde in [Lightroom] angepasst, danach in [DeNoise AI]
 
 Noch während der Ausstrahlung gab es direkt zahlreiche Rückmeldung von Bekannten, die direkt Ihre Fernseher schickten.
 
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_AlleWetter_WT.jpg" caption="HR-Fernsehen Alle Wetter - Zuschauerbild WT" alt="HR-Fernsehen Alle Wetter - Zuschauerbild WT" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_AlleWetter_WT.jpg" caption="HR-Fernsehen Alle Wetter - Zuschauerbild WT" alt="HR-Fernsehen Alle Wetter - Zuschauerbild Wetty" %}
 
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_AlleWetter_SR.jpg" caption="HR-Fernsehen Alle Wetter - Zuschauerbild SR" alt="HR-Fernsehen Alle Wetter - Zuschauerbild SR" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_AlleWetter_SR.jpg" caption="HR-Fernsehen Alle Wetter - Zuschauerbild SR" alt="HR-Fernsehen Alle Wetter - Zuschauerbild Sandra Russo" %}
 
 Die Sendung läßt sich für kurze Zeit auch in der ARD Mediathek unter [HR - Alle Wetter vom 16.12.2020] abrufen. Das Bild kommt dann ab der 5 Minuten nach dem Gärtner.
 
