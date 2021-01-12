@@ -7,5 +7,5 @@ Trial in Österreich im Oktober 2001
 
 <!--more-->
 
-{% include wetty/gallery.html dir="TrialOesterreich-2001" %}
+{% include wetty/gallery.html dir="Trial-Oesterreich-2001" %}
 
