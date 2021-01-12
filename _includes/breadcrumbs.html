@@ -32,8 +32,7 @@
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span></li>
 		{% assign dummy = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url %}
 		{% assign crumb_before = crumb_before | append: dummy %}
-
-<!-- {% assign crumb_before = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url %} -->
+<!-- WTBEFORE {% assign crumb_before = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url %} -->
       {% endif %}
     {% endfor %}
   </ol>
