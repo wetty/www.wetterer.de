@@ -30,11 +30,7 @@
         {% assign i = i | plus: 1 %}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="{{ crumb_before }}{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url }}/" itemprop="item"><span itemprop="name">{{ crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize }}</span></a><meta itemprop="position" content="{{ i }}" />
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span></li>
-		{% assign dummy = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url %}
-		{% capture crumb_before %}{{ crumb_before }} - {{ dummy }}{% endcapture %}
-<!-- WTBEFORE
-				{% assign crumb_before = crumb_before | append: dummy %}
- {% assign crumb_before = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url %} -->
+		{% assign crumb_before = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url | prepend: crumb_before %}
       {% endif %}
     {% endfor %}
   </ol>
