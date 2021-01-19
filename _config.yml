@@ -153,9 +153,10 @@ owner:
 
 
 # Site Author
+#  avatar           : "/assets/images/thomas-wetterer.jpg"
 author:
   name             : "Thomas Wetterer"
-  avatar           : "/assets/images/thomas-wetterer.jpg"
+  avatar           : "https://res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scale,fl_progressive/assets/images/responsive/popup/2010-06-23_093549_Thomas-Wetterer_DSCF2537.jpg"
   bio              : "Dipl.-Ing. Elektrotechnik"
   location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
