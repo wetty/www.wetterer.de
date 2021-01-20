@@ -36,7 +36,7 @@ url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scal
 # url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-version: ".44"
+version: ".45"
 image_popup_class: image-popup
 
  
