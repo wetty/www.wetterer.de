@@ -9,5 +9,7 @@ Aufgenommen wurde das Bild am Sonntag gegen 13:41 Uhr mit einer 1/2000 Sekunde b
 
 Bild wurde nur in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet.
 
+**Anmerkung:** Das Bild wurde Abends im Rahmen des Wetters im Hessischen Fernsehen nach der Hessenschau kurz vor 20 Uhr gezeigt.
+
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
