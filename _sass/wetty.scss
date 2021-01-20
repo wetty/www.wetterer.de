@@ -143,6 +143,10 @@ hr {
 	display: block;
 }
 
+.author__avatar img {
+    max-width: 180px;
+}
+
 .sidebar__ads {
   visibility: collapse;
   margin-top: 0em;

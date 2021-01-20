@@ -366,6 +366,10 @@ defaults:
       sharing: true
       footer: true
       author_profile: true
+      banner: 
+        image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper_ad.png
+        alt: "FotoBox - Fotos aus der Box - Darmstadt, Mannheim, Frankfurt, Groß-Umstadt, Aschaffenburg"
+        link: https://www.fotos-aus-der-box.de
   -
     scope:
       path: ""
