@@ -2,6 +2,9 @@
 title: "Alle Wetter - Bild des Tages"
 date: 2020-12-17 09:32:53+0100
 description: "HR-Fernsehen Alle Wetter - Bild des Tages"
+tags:
+- HR Fernsehen
+- Alle Wetter
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_AlleWetter_05072020.jpg" caption="HR-Fernsehen Alle Wetter - Bild des Tages" alt="HR-Fernsehen Alle Wetter - Bild des Tages" %}
 

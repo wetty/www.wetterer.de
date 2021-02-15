@@ -2,6 +2,9 @@
 title: "Wildgänse"
 date: 2021-01-19 11:28:53+0100
 description: "Rast der Wildgänse in Semd"
+tags:
+- HR Fernsehen
+- Alle Wetter
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer—Wildgaense-2021-01-17_134104.jpg" caption="Rast der Wildgänse in Semd" alt="Rast der Wildgänse in Semd" %}
 

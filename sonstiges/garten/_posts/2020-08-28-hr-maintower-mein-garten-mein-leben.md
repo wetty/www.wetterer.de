@@ -4,6 +4,7 @@ date: 2020-08-28 14:44:17+0200
 link: https://www.facebook.com/watch/?v=547936852405374&extid=Hq3KzL1zVfTCRnpG
 tags:
 - Video
+- HR Fernsehen
 ---
 Das ganze ist nun schon weit über ein Jahr her. Da aber immer noch danach gefragt wird hier die kurze Story mit dem Link zum Beitrag.
 
