@@ -145,5 +145,5 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Essential Film Holder]: https://clifforth.co.uk/ "Essential Film Holder for Camera Scanning"
 [Negativ Lab Pro]: https://www.negativelabpro.com/ "Recapture the Magic of your Color Negatives"
 [Reprostativ Bausatz]: https://www.dold-mechatronik.de/Reprostativ-V5-Bausatz "Reprostativ V5 Bausatz von DOLD Mechatronik"
-[Seagull4A]: https://lmgtfy.app/?q=Seagull+4A "Chinesische Seagull 4A 6x6 Kamera"
+[Seagull4A]: https://letmegooglethat.com/?q=Seagull+4A "Chinesische Seagull 4A 6x6 Kamera"
 
