@@ -23,4 +23,6 @@ Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellung
 [DeNoise AI]: https://topazlabs.com/denoise-ai-2/ "DeNoise AI von Topaz Labs"
 [Sharpen AI]: https://topazlabs.com/sharpen-ai/ "Sharpen AI von Topaz Labs"
 [Topaz Labs Affiliate Link]: http://topazlabs.refr.cc/thomaswetterer "Topaz Labs Affiliate Link von Thomas Wetterer"
-
+[KAISER slimlite plano]: https://amzn.to/3bmnSde "KAISER slimlite plano Leuchtplatte"
+[Fomapan 200]: https://amzn.to/30hdixw "Fomapan 200 ASA Black und White 35 mm Film 36 Aufnahmen"
+[Fomapan 200 Rollfilm 120]: https://amzn.to/3kSnHJS "Fomapan, Rollfilm 120, Schwarzweiß, 200 ASA"
