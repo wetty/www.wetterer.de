@@ -24,7 +24,7 @@ Hab dann auch gelernt das beim Rollfilm die beiden Pfeile auf der Filmrückseite
 
 {% include wetty/picture.html class="align-left" img="2021-03-06-winterlandschaft-mit-seagull-4a/10-Fomapan_200_6x6-D75_8970-Pano.jpg" alt="Selbstportrait Thomas Wetterer" %}
 
-Schlußendlich bin ich aber sehr zufrieden und das letzte Bild wurde dann für ein Selbstportrait genutzt.
+Schlußendlich bin ich aber sehr zufrieden und das letzte Bild wurde dann für ein Selbstportrait genutzt. Okay, das nächste mal versuch ich zu lächeln. :smiley:
 
 Die Negative wurden dann mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und einem manuellen Nikon Macro Objektiv 55m 2.8 digitalisiert (sprich abfotografiert). Als Beleuchtung diente ein [KAISER slimlite plano]{: target="_blank" rel="noopener noreferrer nofollow"} LED Leuchtplatte. Als Negativ Halter benutzte ich erstmalig den [Essential Film Holder]{: target="_blank" rel="noopener noreferrer nofollow"}. Von jedem Negativ hab ich vier Teilaufnahmen gemacht und diese Aufnahmen dann in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} als Panorama wieder zu einem Bild zusammensetzen lassen. Danach ausgerichtet und die Ränder weggeschnitten. Für die Umwandlung der Negative nutzte ich [Negativ Lab Pro]{: target="_blank" rel="noopener noreferrer nofollow"}.
 
