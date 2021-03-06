@@ -2,6 +2,7 @@
 title: "Winterlandschaft mit Seagull 4A"
 date: 2021-03-06 15:14:33+0100
 description: "Winterlandschaft mit einer chinesischen Seagull 4A fotografiert"
+tags: [Galerie]
 ---
 {% include wetty/picture.html img="2021-03-06-winterlandschaft-mit-seagull-4a/07-Fomapan_200_6x6-D75_8958-Pano.jpg" caption="Schnee im Wald auf Fomapan 200 und Seagull 4A" alt="Schnee im Wald auf Fomapan 200 und Seagull 4A" %}
 
