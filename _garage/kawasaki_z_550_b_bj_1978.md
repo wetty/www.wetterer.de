@@ -2,6 +2,8 @@
 title: "Kawasaki Z 550 B, Bj. 1978"
 type: aktuell
 order: 1
+redirect_from:
+  - /garage/kawasaki_z_550_b_bj_1978/
 --- 
 {% include wetty/image.html class="left" path="/assets/images/garage/z550b.gif" width=318 height=212 %}
 Nicht meine, aber so sieht sie aus.

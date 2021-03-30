@@ -2,6 +2,8 @@
 title: "Honda TLR 200 R, Bj. 1984"
 type: verkauft
 order: 7
+redirect_from:
+  - /garage/honda_tlr_200_r_bj_1984/
 --- 
 Meine zweite Trial. Wieder ein relativ schwerer Viertakter. Leider auch noch kein Bild.
 

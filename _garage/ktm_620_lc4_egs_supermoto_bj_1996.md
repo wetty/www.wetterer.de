@@ -2,6 +2,8 @@
 title: "KTM 620 LC4 EGS SuperMoto, Bj.1996"
 type: verkauft
 order: 8
+redirect_from:
+  - /garage/ktm_620_lc4_egs_supermoto_bj_1996/
 --- 
 ## Intro
 {% include wetty/image.html class="center" path="/assets/images/garage/620egs.gif" width=306 height=233 %}

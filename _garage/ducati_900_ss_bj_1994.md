@@ -2,6 +2,8 @@
 title: "Ducati 900 SS, Bj. 1994"
 type: verkauft
 order: 6
+redirect_from:
+  - /garage/ducati_900_ss_bj_1994/
 --- 
 ## Story
 Da gibt es keine großen Stories.

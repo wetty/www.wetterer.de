@@ -2,6 +2,8 @@
 title: "NSU Quickly S, Bj. 1963"
 type: aktuell
 order: 3
+redirect_from:
+  - /garage/nsu_quickly_s_bj_1963/
 --- 
 <table class="table_technik">
 	<tr class="row0">

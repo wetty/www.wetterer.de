@@ -2,6 +2,8 @@
 title: "KTM 625 LC4 SC SuperMoto, Bj. 2002"
 type: verkauft
 order: 10
+redirect_from:
+  - /garage/ktm_625_lc4_sc_supermoto_bj_2002/
 --- 
 ## Story
 Eigentlich war das Modell 2002 schon recht schnell ausverkauft. Zufällig fand sich aber dann doch noch eine in Bayern, die die meine wurde. 

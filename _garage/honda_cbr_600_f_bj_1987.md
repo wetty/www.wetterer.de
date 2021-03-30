@@ -2,6 +2,8 @@
 title: "Honda CBR 600 F, Bj. 1987"
 type: verkauft
 order: 4
+redirect_from:
+  - /garage/honda_cbr_600_f_bj_1987/
 --- 
 ## Story
 Mit 34000 Tacho Kilometern (laut Vorgänger können es auch 20000 km mehr gewesen sein) gekauft, am 28.02.1991 zugelassen und bis zur ersten August Woche 1995 lockere 66000 km flott durch den Odenwald gescheucht. Das Klackern der Steuerkette beim Anlassen wurde bis dahin immer stärker, legte sich allerdings nach 500 m Fahrt wieder komplett.

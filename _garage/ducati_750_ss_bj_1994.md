@@ -2,6 +2,8 @@
 title: "Ducati 750 SS, Bj. 1994"
 type: verkauft
 order: 5
+redirect_from:
+  - /garage/ducati_750_ss_bj_1994/
 --- 
 ## Storie
 Das erste italienische Motorrad in meiner Garage. Vor der ersten Ausfahrt und bevor es jemand 'offiziell' erfuhr, wurde das gute Stück mit Hilfe meines Nachbarn Hans Werner (siehe Bilder) in seiner Werkstatt erst einmal halb zerlegt und 'schwindlig' geputzt. 
