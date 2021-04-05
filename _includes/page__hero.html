@@ -1,5 +1,9 @@
 {% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %}
+{% comment %}
 {% capture img_path %}{{ page.header.image | relative_url }}{% endcapture %}
+{% endcomment %}
+<!-- Damit Header Images angezeigt werden -->
+{% capture img_path %}{{ page.header.image }}{% endcapture %}
 
 {% if page.header.overlay_filter contains "rgba" %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
