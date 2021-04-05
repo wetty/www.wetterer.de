@@ -3,8 +3,8 @@ title: "Regenbogen"
 date: 2021-03-30 13:08:33+0000
 description: "Ein nahezu perfekter Regenbogen"
 header:
-  image: /assets/images/responsive/popup/atlantik-2016/Atlantik_DSC_1049.jpg
-  padding-bottom: 66.66%
+  image: ",ar_5,c_crop/assets/images/responsive/popup/foto-blog/2021-03-27_161910_Regenbogen_D75_9021.jpg"
+  padding-bottom: 46.25%
 ---
 {% include wetty/picture.html img="foto-blog/2021-03-27_161910_Regenbogen_D75_9021.jpg" caption="Regenbogen über Groß-Umstadt" alt="Regenbogen Farben über Groß-Umstadt" %}
 
