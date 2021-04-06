@@ -10,7 +10,7 @@ header:
 
 Über die Osterfeiertage hat unsere Magnolie geblüht. Die letzten Jahre gab es zu diesem Ereignis dann immer auch Nachtfrost und die Blütenpracht war direkt dahin. Diesmal kommt der Nachtfrost erst ab heute.
 
-Aufgenommen wurde das Bild am Oster Sonntag gegen 12:04 Uhr mit einer 1/200 Sekunde bei Blende 11 und ISO 100 mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und dem [Tamron SP 15-30mm F/2.8 Di VC USD]{: target="_blank" rel="noopener noreferrer nofollow"} bei 15mm im RAW Format. Bearbeitung des Bildes nur in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet.
+Aufgenommen wurde das Bild am Oster Sonntag gegen 12:04 Uhr mit einer 1/200 Sekunde bei Blende 11 und ISO 100 mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und dem [Tamron SP 15-30mm F/2.8 Di VC USD]{: target="_blank" rel="noopener noreferrer nofollow"} bei 15mm im RAW Format. Bearbeitung des Bildes nur in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"}.
 
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
