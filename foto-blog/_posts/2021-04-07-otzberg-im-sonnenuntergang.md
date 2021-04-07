@@ -3,7 +3,7 @@ title: "Otzberg im Sonnenuntergang"
 date: 2021-04-07 14:39:23+0000
 description: "Otzberg im Sonnenuntergang"
 ---
-{% include wetty/picture.html img="foto-blog/TThomas_Wetterer_Otzberg_2021-04-05_192358_D75_9138.jpg" caption="Otzberg im Sonnenuntergang" alt="Otzberg im Sonnenuntergang" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Otzberg_2021-04-05_192358_D75_9138.jpg" caption="Otzberg im Sonnenuntergang" alt="Otzberg im Sonnenuntergang" %}
 
 Am Oster Montag kam nach Regen und Schnee doch noch Abends die Sonne durch. Genau so, das Otzberg in goldenes Sonnenlicht getaucht wurde.
 
