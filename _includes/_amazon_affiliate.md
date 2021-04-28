@@ -13,6 +13,7 @@ Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellung
 [Tamron Tele-Converter 1.4x]: https://amzn.to/3bs4WY0 "Tamron Tele-Converter 1.4x"
 [Tamron SP 15-30mm F/2.8 Di VC USD]: https://amzn.to/2StbrCg "Tamron SP 15-30mm Weitwinkel Objektiv F/2.8 Di VC USD für Nikon"
 [Tamron SP 70-200mm F/2.8 Di VC USD G2]: https://amzn.to/2WmakpR "Tamron SP 70-200mm F/2.8 Di VC USD G2"
+[Tamron SP 24-70mm F/2.8 Di VC USD G2]: https://amzn.to/3gIfGqI "Tamron SP 24-70mm F/2.8 Di VC USD G2"
 [Samyang 14/2,8]: https://amzn.to/2GSIlsQ "Samyang 14/2,8 Objektiv DSLR Nikon F AE manueller Fokus automatischer Blendenring Fotoobjektiv, Weitwinkelobjektiv schwarz"
 [Nikon 50 mm/F 1.4 G]: https://amzn.to/2CO3S1J "Nikon 50 mm/F 1.4 G Objektiv"
 [Nikon 35 mm/F 1.8 G]: https://amzn.to/3tX2hz3 "Nikon AF-S Nikkor 35mm 1:1.8G ED Objektiv"
