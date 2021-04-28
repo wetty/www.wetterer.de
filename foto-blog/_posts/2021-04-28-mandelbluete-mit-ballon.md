@@ -6,7 +6,7 @@ tags:
 - HR Fernsehen
 - Alle Wetter
 ---
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Otzberg_2021-04-05_192358_D75_9138.jpg" caption="Mandelblüte mit Ballon" alt="Mandelblüte mit Ballon" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Mandelbluete_2021-04-23_193824_D75_9377.jpg" caption="Mandelblüte mit Ballon" alt="Mandelblüte mit Ballon" %}
 
 Unser Mandelbäumchen blüht und wurde dieses Jahr mal vom Nachfrost verschont. Das schöne Wetter nutzten auch die Ballonfahrer aus und so ergab sich diese seltene Komposition.
 
