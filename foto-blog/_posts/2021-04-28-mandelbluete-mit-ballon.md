@@ -12,8 +12,7 @@ Unser Mandelbäumchen blüht und wurde dieses Jahr mal vom Nachfrost verschont. 
 
 Aufgenommen wurde das Bild bereits am vergangenen Freitag gegen 19:38 Uhr mit einer 1/80 Sekunde bei Blende 22 und ISO 640 mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und dem [Tamron SP 24-70mm F/2.8 Di VC USD G2]{: target="_blank" rel="noopener noreferrer nofollow"} bei 46mm im RAW Format. Bearbeitung des Bildes nur in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"}.
 
-**Anmerkung:** Das Bild wurde eben im Rahmen der Sendung "alle wetter!" im Hessischen Fernsehen gezeigt. 
-Sobald der Beitrag in der Mediathek zu finden ist, liefer ich ihn nach.
+**Anmerkung:** Das Bild wurde eben im Rahmen der Sendung "alle wetter!" im Hessischen Fernsehen gezeigt und gibt es hier in der Mediathek: [HR - Alle Wetter vom 28.04.2021]{: target="_blank" rel="noopener noreferrer nofollow"} (Bild kommt ab einer Minute 40 Sekunden).
 
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
