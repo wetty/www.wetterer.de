@@ -26,6 +26,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Jekyll]: http://jekyllrb.com/ "Transform your plain text into static websites and blogs."
 [Octopress]: http://octopress.org/ "A blogging framework for hackers."
 [EisFair]: http://www.eisfair.org/ "the easy internet server"
+[Jondal Hotel]: http://www.jondalhotel.no/ "Das Jondal Hotel liegt im Herzen des charmanten westnorwegischen Dorfes Jondal in Hordaland und ist seit Generationen in Betrieb."
 [Gjestehuset 102]: http://www.gjestehuset102.no/ "Guesthouse 102 is located in Nybyen, about 2 km from the center of Longyearcity." 
 [Spitzbergen.de]: https://www.spitzbergen.de "Informationen und Hinweise, Reiseführer und Literatur, Arktis-Erlebnisreisen, Bilder, Links und mehr rund um die arktische Inselgruppe"
 [Noorderlicht]: http://www.noorderlicht.nu "Zweimastschoner Noorderlicht"

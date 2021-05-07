@@ -6,7 +6,7 @@ Gestern sind wir bereits um viertel vor neun zu unserem 60 Meilen entfernten Üb
 
 <!--more-->
 
-Kurz vor Einfahrt in den Hardanger Fjord mußte der Motor unterstützen, um rechtzeitig das kleine Städtchen Jondal zu erreichen. Dort betreiben seit zwei Monaten Kerstin Wagner und Günter Schmaus, dass [Jondal Hotel](http://www.jondal-hotel.no/). Diese beiden galt es zu überraschen, da sie bislang noch nichts von unserem Besuch wußten. Der Zufall wollte es auch, dass gerade gestern Günter Geburtstag hatte.
+Kurz vor Einfahrt in den Hardanger Fjord mußte der Motor unterstützen, um rechtzeitig das kleine Städtchen Jondal zu erreichen. Dort betreiben seit zwei Monaten Kerstin Wagner und Günter Schmaus, dass [Jondal Hotel]{: target="_blank" rel="noopener noreferrer nofollow"}. Diese beiden galt es zu überraschen, da sie bislang noch nichts von unserem Besuch wußten. Der Zufall wollte es auch, dass gerade gestern Günter Geburtstag hatte.
 
 
 {% include wetty/picture.html class="align-left" img="Blog/dscf1927jpg_3632572333_o.jpg" alt="Jondal Hotell" %}
