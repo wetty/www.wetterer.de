@@ -3,7 +3,7 @@ title: "Gewitter über Groß-Umstadt"
 date: 2021-05-19 09:08:38+0000
 description: "Gewitter über Groß-Umstadt"
 header:
-  image: ",ar_5,c_crop/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Gewitter1_2021-05-18_212928_D75_9515.jpg"
+  image: ",ar_5,c_crop,y_480/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Gewitter1_2021-05-18_212928_D75_9515.jpg"
   padding-bottom: 24%
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Gewitter1_2021-05-18_212928_D75_9515.jpg" caption="Gewitter über Groß-Umstadt" alt="Gewitter über Groß-Umstadt" %}
