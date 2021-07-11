@@ -7,7 +7,7 @@ description: ""
 
 Nach einigen Gewitterschauern kam am Sonntag Abend nochmals kurz die Sonne raus. Ideal um das Ringelblumen Feld bei Spachbrücken mit einer interessanten Wolkenkonstellation zu fotografieren.
 
-Hier kam meine meine [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} mit dem [Tamron SP 24-70mm F/2.8 Di VC USD G2]{: target="_blank" rel="noopener noreferrer nofollow"} bei 24mm zum Einsatz. Aufnahme wurde mit einer 1/50 Sekunde bei Blende 18 und ISO 100 gemacht. Das Bild wurd in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet und auf 16:9 beschnitten.
+Hier kam meine [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} mit dem [Tamron SP 24-70mm F/2.8 Di VC USD G2]{: target="_blank" rel="noopener noreferrer nofollow"} bei 24mm zum Einsatz. Aufnahme wurde mit einer 1/50 Sekunde bei Blende 18 und ISO 100 gemacht. Das Bild wurd in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet und auf 16:9 beschnitten.
 
 
 {% include _amazon_affiliate.md %}
