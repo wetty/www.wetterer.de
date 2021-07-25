@@ -3,7 +3,7 @@ title: "Sonnenblumen"
 date: 2021-07-25 13:55:21+0200
 description: "Sonnenblumen"
 header:
-  image: ",ar_5,c_crop/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Sonnenblumen-2021-07-24_195406_D75_1981.jpg"
+  image: ",ar_5,c_crop,y_480/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Sonnenblumen-2021-07-24_195406_D75_1981.jpg"
   padding-bottom: 24%
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Sonnenblumen-2021-07-24_195406_D75_1981.jpg" caption="Sonnenblumen" alt="Sonnenblumen" %}
