@@ -11,6 +11,6 @@ description: "Alles was kein Platz im Menu gefunden hat."
   * [{{ son.title }}]({{ son.url }}): {{ son.description }}{% endfor %}
 	
 ## Blogroll
-  * [Geek & Poke](http://geek-and-poke.com/): Beste Comic Serie überhaupt. Nur für Entwickler zu verstehen.
-  * [Moby Dick III](https://www.moby-dick.de): Rund um die Segelyacht, mit der ich öfter unterwegs bin.
+  * [Geek & Poke](https://geek-and-poke.com/){: target="_blank" rel="noopener noreferrer nofollow"}: Beste Comic Serie überhaupt. Nur für Entwickler zu verstehen.
+  * [Moby Dick III](https://www.moby-dick.de){: target="_blank" rel="noopener noreferrer nofollow"}: Rund um die Segelyacht, mit der ich öfter unterwegs bin.
 
