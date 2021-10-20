@@ -3,7 +3,7 @@ title: "Morgenrot"
 date: 2021-10-20 09:32:21+0200
 description: "Morgenrot"
 header:
-  image: ",ar_5,c_crop,y_480/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Morgenrot_2021-10-20_074812_D75_3331.jpg"
+  image: ",ar_5,c_crop,y_660/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Morgenrot_2021-10-20_074812_D75_3331.jpg"
   padding-bottom: 24%
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Morgenrot_2021-10-20_074812_D75_3331.jpg" caption="Morgenrot" alt="Morgenrot" %}
