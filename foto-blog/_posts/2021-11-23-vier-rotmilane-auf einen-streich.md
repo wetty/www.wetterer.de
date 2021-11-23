@@ -3,7 +3,7 @@ title: "Vier Rotmilane auf einen Streich"
 date: 2021-11-23 14:03:21+0100
 description: "Vier Rotmilane auf einen Streich"
 header:
-  image: ",ar_5,c_crop,y_660/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Rotmilane_2021-11-23_140730_D72_8813.jpg"
+  image: ",ar_5,c_crop,y_280/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Rotmilane_2021-11-23_140730_D72_8813.jpg"
   padding-bottom: 24%
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Rotmilane_2021-11-23_140730_D72_8813.jpg" caption="Vier Rotmilane auf einen Streich" %}
