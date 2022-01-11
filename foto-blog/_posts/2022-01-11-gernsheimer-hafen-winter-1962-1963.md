@@ -5,7 +5,7 @@ description: "Gernsheimer Hafen im Winter 1962/63"
 ---
 {% include wetty/picture.html img="foto-blog/Otto_Wetterer-Gernsheimer_Hafen_im_Winter_1962-1963.jpg" caption="Gernsheimer Hafen im Winter 1962/63" %}
 
-Das Bild stammt von meinen Vater und zeigt den Gernsheimer Rheinhafen im Winter 1962/63. So jedenfalls nach der Beschriftung "Weihnachten 1962" des DIA Kasten zu urteilen.
+Das Bild stammt von meinen Vater und zeigt den Gernsheimer Rheinhafen im Winter 1962/63. So jedenfalls nach der Beschriftung "Weihnachten 1962" des DIA Kastens zu urteilen.
 
 Es dürfte sich um ein typisches "Ich muss den Film noch voll machen" Bild handeln, da es sich um eins der letzten zehn Bilder in dem DIA Kasten handelt. Die ersten 26 Bilder zeigen den Weihnachtsbesuch bei Verwandten.
 
