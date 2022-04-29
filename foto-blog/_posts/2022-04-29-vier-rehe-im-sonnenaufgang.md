@@ -1,6 +1,6 @@
 ---
 title: "Vier Rehe im Sonnenaufgang"
-date: 2022-04-29 08:38:21+0000
+date: 2022-04-29 07:38:21+0100
 description: "Vier Rehe im Sonnenaufgang"
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2022-04-29_061633_DZ6_7952.jpg" caption="Vier Rehe im Sonnenaufgang" %}
