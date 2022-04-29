@@ -14,6 +14,5 @@ Hier kam meine [Nikon Z6]{: target="_blank" rel="noopener noreferrer nofollow"} 
 Das Bild wurde in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet und abschliessend in [Sharpen AI]{: target="_blank" rel="noopener noreferrer nofollow"} etwas geschärft.
 
 
-
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
