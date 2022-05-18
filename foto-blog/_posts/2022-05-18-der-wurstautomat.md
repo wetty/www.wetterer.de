@@ -3,7 +3,7 @@ title: "Der Wurstautomat"
 date: 2022-05-18 09:53:21+0100
 description: "Der Wurstautomat - beliebt bei Mensch und Sperber"
 ---
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer-Wurstautomat_2022-05-01_134900_DZ6_7971.jpg" caption="Der Wurstautomat - beliebt bei Mensch und Sperber" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer-Wurstautomat_2022-05-01_134900_DZ6_7971.jpg" caption="Der Wurstautomat - beliebt bei Mensch und Sperber" alt="Der Wurstautomat - beliebt bei Mensch und Sperber" %}
 
 Das ist wohl das Bild, das mir am längsten im Kopf rum ging. Nachdem ich das zum ersten mal gesehen hatte, wanderten prompt die Werbeschilder etwas weiter in ein Feld mit höherem Bewuchs, was den Greifvogel dann nicht mehr so anzog. Kaum geht das eine oder andere Jahr ins Land, passte es dann am 1. Mai 2022. 
 

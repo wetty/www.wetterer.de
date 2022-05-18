@@ -3,7 +3,7 @@ title: "Vier Rehe im Sonnenaufgang"
 date: 2022-04-29 07:38:21+0100
 description: "Vier Rehe im Sonnenaufgang"
 ---
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2022-04-29_061633_DZ6_7952.jpg" caption="Vier Rehe im Sonnenaufgang" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2022-04-29_061633_DZ6_7952.jpg" caption="Vier Rehe im Sonnenaufgang" alt="Vier Rehe im Sonnenaufgang" %}
 
 Das Bild entstand heute früh um viertel nach sechs. Es sollte eigentlich "nur" ein Sonnenaufgangsbild werden. Der Zufall wollte es, dass sich zumindest 4 Rehe mit ins Bild mogelten. 
 

@@ -3,7 +3,7 @@ title: "Kurzes Morgenrot"
 date: 2022-01-07 09:34:21+0100
 description: "Kurzes Morgenrot"
 ---
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_kurzes-Morgenrot_2022-01-07_082340_D75_3503.jpg" caption="Kurzes Morgenrot" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_kurzes-Morgenrot_2022-01-07_082340_D75_3503.jpg" caption="Kurzes Morgenrot" alt="Kurzes Morgenrot" %}
 
 Heute früh gab es beim Sonnenaufgang ein ganz kurzes Morgenrot bzw. Morgenorange. Kaum das Bild gemacht, war es auch schon wieder verschwunden. Danach fing es dann auch gleich an zu schneien.
 
