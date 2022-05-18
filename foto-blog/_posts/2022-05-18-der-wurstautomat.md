@@ -1,6 +1,6 @@
 ---
 title: "Der Wurstautomat"
-date: 2022-05-18 10:53:21+0100
+date: 2022-05-18 09:53:21+0100
 description: "Der Wurstautomat - beliebt bei Mensch und Sperber"
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer-Wurstautomat_2022-05-01_134900_DZ6_7971.jpg" caption="Der Wurstautomat - beliebt bei Mensch und Sperber" %}
