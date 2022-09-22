@@ -1,6 +1,6 @@
 ---
 title: "Erste Herbst Zeichen"
-date: 2022-09-22 11:34:21+0100
+date: 2022-09-22 10:34:21+0100
 description: "So langsam wird es Herbst"
 tags:
 - HR Fernsehen
