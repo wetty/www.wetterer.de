@@ -19,3 +19,4 @@ Das Bild wurde in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollo
 
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
+
