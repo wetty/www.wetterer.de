@@ -8,7 +8,7 @@ tags:
 ---
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2022-09-21_075336_DZ6_9534.jpg" caption="Erste Herbst Zeichen" alt="Erste Herbst Zeichen" %}
 
-Gestern früh kurz vor 08:00 Uhr, als die ersten bereits mit Ihren Hunden unterwegs waren, zeigten sich mit Nebel und Rauhreif an den Spinnennetzen die ersten Anzeichen des kommenden Herbstes.
+Gestern früh kurz vor 08:00 Uhr, als die ersten bereits mit Ihren Hunden unterwegs waren, zeigten sich mit Nebel und Rauhreif an den Spinnennetzen, die ersten Anzeichen des kommenden Herbstes.
 
 Das Bild wurde gestern Abend im Rahmen von Alle Wetter im Hessischen Fernsehen gezeigt. Die Sendung läßt sich in der HR Mediathek unter dem folgenden Link finden [HR - Alle Wetter vom 21.09.2022]{: target="_blank" rel="noopener noreferrer nofollow"}. Die Bilder kommen bereits nach 55 Sekunden. 
 
