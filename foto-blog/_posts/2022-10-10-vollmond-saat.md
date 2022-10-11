@@ -6,6 +6,7 @@ tags:
 - HR Fernsehen
 - Alle Wetter
 ---
+
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2022-10-09_191113_D72_9274.jpg" caption="Vollmond Saat" alt="Vollmond Saat" %}
 
 Am Sonntag Abend ging ab 19:00 Uhr der Vollmond auf. Der Zufall wollte es das ein Landwirt gerade sein Feld bestellte. Es ist nicht klar ob die bei Vollmond ausgebrachte Saat eine bessere Ernte bringt. :smile:  
@@ -18,4 +19,3 @@ Das Bild wurde zuerst in [Lightroom]{: target="_blank" rel="noopener noreferrer 
 
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
-
