@@ -145,6 +145,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [HR - Alle Wetter vom 16.12.2020]: https://www.ardmediathek.de/hr/video/alle-wetter/alle-wetter-vom-16-12-2020/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMjA5NzI/ "HR Mediathek"
 [HR - Alle Wetter vom 28.04.2021]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-28-04-2021/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMzQ2NjM/ "HR Mediathek"
 [HR - Alle Wetter vom 21.09.2022]: https://www.ardmediathek.de/video/Y3JpZDovL2hyLW9ubGluZS8xODIwOTA "HR Mediathek"
+[HR - Alle Wetter vom 10.10.2022]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-10-10-2022/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xODM3Mjg "HR Mediathek"
 [Essential Film Holder]: https://clifforth.co.uk/ "Essential Film Holder for Camera Scanning"
 [Negativ Lab Pro]: https://www.negativelabpro.com/ "Recapture the Magic of your Color Negatives"
 [Reprostativ Bausatz]: https://www.dold-mechatronik.de/Reprostativ-V5-Bausatz "Reprostativ V5 Bausatz von DOLD Mechatronik"
