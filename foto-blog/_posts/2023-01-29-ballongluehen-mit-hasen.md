@@ -17,7 +17,7 @@ Die Bilder wurden alle mit meiner [Nikon Z6 II]{: target="_blank" rel="noopener 
 
 Alle Bilder wurden in [Lightroom]{: target="_blank" rel="noopener noreferrer nofollow"} bearbeitet.
 
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-01-29_122035_D72_9479.jpg" caption="Wo ist er" alt="Wo ist er" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-01-29_112427_Z62_0505.jpg" caption="Wo ist er" alt="Wo ist er" %}
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-01-29_112435_Z62_0506.jpg" caption="Der zweite Hase" alt="Der zweite Hase" %}
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-01-29_112514_Z62_0519.jpg" caption="Zwei Hasen" alt="Zwei Hasen" %}
 
