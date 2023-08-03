@@ -23,6 +23,7 @@ Der Drittanbieter kann hierbei Cookies einsetzen, um die Herkunft der Bestellung
 [Nikon 35 mm/F 1.8 G]: https://amzn.to/3tX2hz3 "Nikon AF-S Nikkor 35mm 1:1.8G ED Objektiv"
 [Nikon AF-S Nikkor 18-35mm 1:3,5-4,5G ED]: https://amzn.to/2GUCoeQ "Nikon AF-S Nikkor 18-35mm 1:3,5-4,5G ED Objektiv"
 [Nikon Z 24-70 mm f/4 S]: https://amzn.to/3An0CbY "Nikon Nikkor Z 24-70 mm f/4 S"
+[Nikon Z 24-200mm 1:4.0-6.3 VR]: https://amzn.to/3DGQzPl "Nikon Z 24-200mm 1:4.0-6.3 VR"
 [Novoflex TrioPod A2840]: https://amzn.to/2H1pNa2 "Novoflex TrioPod A2840 Professionelles Dreibeinstativ mit 4-Segment-Aluminiumbeinen und 151 cm Arbeitshöhe - Made in Germany"
 [Lowepro Pro Runner 450 AW]: https://amzn.to/2GSv3g0 "Lowepro Pro Runner 450 AW SLR-Kamerarucksack (für SLR, Zubehör und 17-Zoll-Notebook) schwarz"
 [Lightroom]: https://amzn.to/2RTl64T "Adobe Lightroom"
