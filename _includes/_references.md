@@ -148,6 +148,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [HR - Alle Wetter vom 10.10.2022]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-10-10-2022/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xODM3Mjg "HR Mediathek"
 [HR - Alle Wetter vom 13.12.2022]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-13-12-2022/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xODk1MjA "HR Mediathek"
 [HR - Alle Wetter vom 02.08.2023]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-02-08-2023/hr-fernsehen/MTI4MmE3ZjktYzc2YS00MWVjLTgzZDgtYWY0ZWNmNWFiZjIz "HR Mediathek"
+[HR - Alle Wetter vom 03.08.2023]: https://www.ardmediathek.de/video/alle-wetter/alle-wetter-vom-03-08-2023/hr-fernsehen/MmMxZDA5N2QtNzk0Yy00ZmU1LWI3Y2ItZTM4M2ZmOTMyM2Y4 "HR Mediathek"
 [Essential Film Holder]: https://clifforth.co.uk/ "Essential Film Holder for Camera Scanning"
 [Negativ Lab Pro]: https://www.negativelabpro.com/ "Recapture the Magic of your Color Negatives"
 [Reprostativ Bausatz]: https://www.dold-mechatronik.de/Reprostativ-V5-Bausatz "Reprostativ V5 Bausatz von DOLD Mechatronik"

@@ -15,5 +15,7 @@ Das Bild wurden wurde mit meiner [Nikon Z6 II]{: target="_blank" rel="noopener n
 
 Gestern Abend wurde es im Rahmen von Alle Wetter im Hessischen Fernsehen gezeigt. Die Sendung läßt sich in der HR Mediathek unter dem folgenden Link finden [HR - Alle Wetter vom 02.08.2023]{: target="_blank" rel="noopener noreferrer nofollow"}. Die Bilder kommen bereits nach der erst Minute. 
 
+Kaum zu glauben am Freitag, den 03.08.2023, war das Bild erneut bei [HR - Alle Wetter vom 03.08.2023]{: target="_blank" rel="noopener noreferrer nofollow"} zu sehen, ca. ab der 5 Minute. Wohl weil nur Regenbogenbilder gezeigt wurden :-) 
+
 {% include _amazon_affiliate.md %}
 {% include _references.md %}
