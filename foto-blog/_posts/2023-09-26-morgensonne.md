@@ -5,7 +5,7 @@ description: "Morgensonne"
 tags:
 ---
 
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-09-26_074230_D85_1206.jpg" caption="Wolkenraeder" alt="Wolkenraeder" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2023-09-26_074230_D85_1206.jpg" caption="Morgensonne" alt="Morgensonne" %}
 
 Für einen Sonnenaufgang, bei dem die Sonne gerade so über dem Horizont ist war ich heute früh gegen 07:45 leider schon etwas zu spät. Nichtsdestotrotz konnte ich noch den herbstlichen Morgennebel in herrlichem Licht über den Maisfeldern erwischen. 
 Uhr war die Wetterlage so, dass die Windräder über Groß-Umstadt nur mit den Flügeln aus den Wolken ragten.
