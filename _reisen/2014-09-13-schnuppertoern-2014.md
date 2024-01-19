@@ -11,4 +11,5 @@ series:
   name: "Schnuppertoern 2014"
 redirect_from:
   - /schnuppertoern-2014/
+  - /2014/09/13/schnuppertoern-2014/
 ---
