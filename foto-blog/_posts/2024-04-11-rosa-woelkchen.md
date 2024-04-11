@@ -3,6 +3,8 @@ title: "Rosa Wölkchen"
 date: 2024-04-11 15:25:17+0200
 description: "Rosa Wölkchen"
 tags:
+- HR Fernsehen
+- Alle Wetter
 ---
 
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_2024-04-09_190848_Z62_4252.jpg" caption="Rosa Wölkchen" alt="Rosa Wölkchen" %}
