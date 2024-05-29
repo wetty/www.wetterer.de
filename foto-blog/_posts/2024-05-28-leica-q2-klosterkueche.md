@@ -1,6 +1,6 @@
 ---
 title: "Leica Q2 in der Klosterküche"
-date: 2024-05-28 13:40:17+0200
+date: 2024-05-28 15:40:17+0200
 description: "Auf dem Zunft- und Handwerkermarkt mit einer Leica Q2"
 tags:
 - Leica Q2

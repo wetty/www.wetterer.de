@@ -154,4 +154,5 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Negativ Lab Pro]: https://www.negativelabpro.com/ "Recapture the Magic of your Color Negatives"
 [Reprostativ Bausatz]: https://www.dold-mechatronik.de/Reprostativ-V5-Bausatz "Reprostativ V5 Bausatz von DOLD Mechatronik"
 [Seagull4A]: https://letmegooglethat.com/?q=Seagull+4A "Chinesische Seagull 4A 6x6 Kamera"
-
+[Jan Wegener Youtube]: https://www.youtube.com/channel/UCoU0PYNZQXRhFrDdffDCVhQ "Jan Wegener Vogel Fotografie Australien"
+[Jan Wegener Website]: https://aviscapes.com/ "Jan Wegener Vogel Fotografie Australien"
