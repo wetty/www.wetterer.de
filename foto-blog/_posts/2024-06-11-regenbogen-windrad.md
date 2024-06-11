@@ -18,9 +18,9 @@ Mit der Sonne wanderte der Regenbogen dann auch langsam hinter ein Windrad (Bild
 Voller Euphorie aufgrund des Regenbogens vergaß ich mich leider mal umzudrehen. Denke da hätte es noch einen ziemlich guten Sonnenuntergang unter einer Wolkendecke gegeben. Werde versuchen das nächste mal dran zu denken :smiley:
 
 
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_2_2024-06-10_210734_Z62_4729.jpg" caption="Regenbogen Otzberg" alt="Regenbogen Otzberg" %}
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_3_2024-06-10_211016_Z62_4750.jpg" caption="Regenbogen Weinberge Groß-Umstadt 1" alt="Regenbogen Weinberge Groß-Umstadt 1" %}
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_4_2024-06-10_211456_D85_2267.jpg" caption="Regenbogen Weinberge Groß-Umstadt 2" alt="Regenbogen Weinberge Groß-Umstadt 2" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_1_2024-06-10_210428_Z62_4715.jpg" caption="Regenbogen Otzberg" alt="Regenbogen Otzberg" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_2_2024-06-10_210734_Z62_4729.jpg" caption="Regenbogen Weinberge Groß-Umstadt 1" alt="Regenbogen Weinberge Groß-Umstadt 1" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Bild_3_2024-06-10_211016_Z62_4750.jpg" caption="Regenbogen Weinberge Groß-Umstadt 2" alt="Regenbogen Weinberge Groß-Umstadt 2" %}
 
 
 {% include _amazon_affiliate.md %}
