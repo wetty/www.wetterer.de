@@ -1,5 +1,5 @@
 ---
-title: "Flug nach Anchoreg"
+title: "Flug nach Anchorage"
 date: 2024-07-17 06:15:29+0200
 ---
 
