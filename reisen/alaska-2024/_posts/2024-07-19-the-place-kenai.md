@@ -17,6 +17,8 @@ Weiter gehts nach Kenai. Dort in das Motel The Place, was das Ersatzquartier fü
 
 Das läuft ja, wird aber noch besser. Sie hätte die letzten beiden Tage schon soviel Lachs gefangen, das sie und zum Abendessen einladen wollten, da ihre Bar ja offiziell zu hätte. Es gäbe frischen Roten (Sockeye) Salmon. Und ob wir Reis mögen. Na klar, da sind wir dabei.
 
+Das Wetter hat sich mittlerweile gebessert. Kein Regen mehr und teilweise kommt die Sonne kurz durch.
+
 Wir fahren dann nochmals nach Kenai um vielleicht irgendwie an den Strand zu kommen. Die eine Strasse, die wohl dahin führt ist, ist abgesperrt bzw. mit Kassenhäusern versehen. Wir drehen erstmal um und fragen jemand, der gerade seine Motorsäge auf dem PickUp klar macht. Das wäre hier wegen dem Angeln abgesperrt, wäre aber nicht teuer.
 
 Okay wir fahren ans Kassenhäuschen. Ich erkläre das wir nur mal an den Strand wollten um ein paar Bilder zu machen. No Problem. Wir bekommen kostenfrei ein Parkticket für eine Stunde.
