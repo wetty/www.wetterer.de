@@ -7,6 +7,8 @@ Samstag früh ging es nach dem Frühstück gegen 08:00 Uhr nochmals zu Salmon Ha
 
 Weiter ging es zum Glacier Lake in Valdez. Ein kleiner See wo sich ein paar Eisberge des angrenzenden Gletschers tummeln. Hier darf man nicht all zu viel erwarten. Das Eis war meist ziemlich verschmutzt.
 
+Bereits auf der Fähre hatten wir ein Sprinter Wohnmobil mit Hamburger Kennzeichen entdeckt. Konnten die Besitzer aber nicht ausmachen. Beim Parkplatz zum Worthington Gletscher kommt es uns entgegen. Wir winken und unterhalten uns kurz auf der Strasse stehen. Eine junge Frau mit kleinem Kind. Ist seit 3 Monaten unterwegs und hat noch ein Jahr vor sich. Geil! Von hier auf wünschen wir Euch noch viel Spaß und tolle Eindrücke auf Eurem Tripp.
+
 Wir überlegen uns doch noch einen Abstecher von gut 90 Meilen nach Mc Carthy zu machen. Dort stehen ein paar Häuser aus der Goldrausch Zeit. Dann gibts dort noch Kennicott, eine alte Goldmine. Sozusagen ein paar Lost Places zu erkunden.
 
 Die Straße fängt asphaltiert an, geht dann immer mehr in ein Flickwerk über und die restlichen Zweidrittel sind Schotter Piste. Die zweite Hälfte allerdings halbwegs gut mit maximal 35mph zu befahren. Etliche Male hatten wir überlegt wieder umzudrehen.
