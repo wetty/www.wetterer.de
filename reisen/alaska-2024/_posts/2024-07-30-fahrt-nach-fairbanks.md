@@ -3,6 +3,8 @@ title: "Fahrt nach Fairbanks"
 date: 2024-07-30 21:27:33+0200
 ---
 
+Beim Frühstück kam noch ein weiteres deutsches Paar hinzu. Die Israelis sahen wir leider nicht mehr. Jedenfalls kam das eine Paar aus Darmstadt, und die Frau hat eine Arbeitskollegin, die aus Semd stammt. Die Welt ist klein.
+
 Auf der Fahrt nach Fairbanks kamen wir am North Pole vorbei. Hier sehen die Straßenlaternen aus wie Zuckerstangen. Natürlich gibt es auch ein Santa Claus Haus, das wir natürlich besuchten.
 
 Hier gibts alles an Weihnachtsschmuck was man sich vorstellen kann. Unsere Postkarten geben wir hier auch ab und versehen sie mit dem North Pole Stempel.
