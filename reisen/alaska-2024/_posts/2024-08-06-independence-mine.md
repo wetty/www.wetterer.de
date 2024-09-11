@@ -34,7 +34,7 @@ Nach einer Ruhephase in unserer Unterkunft gehts noch in die [The Last Frontier 
 Während des Essens geht noch die Alarmrsirene im Lokal los. Warum, wieso, keine Ahnung. Die Bedienung schaltet sie irgendwann einfach aus.
 
 
-{% include wetty/gallery.html dir="alaska-2024/2024-08-06" %}
+{% include wetty/gallery.html dir="alaska-2024/2024-08-06" class="fourth" %}
 
 {% include _references.md %}
 
