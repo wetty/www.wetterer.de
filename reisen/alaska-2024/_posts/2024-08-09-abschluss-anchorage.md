@@ -24,9 +24,9 @@ Es gibt für uns beide mit Shrimps gefüllten Halibut. Sehr lecker. Creme Brulee
 Das war er dann auch der letzte Abend. Jetzt kommt nur noch Koffer packen.
 
 
-{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_174838_Q1000958.jpg" caption="" alt="" %}
-{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_175646_Q1000960.jpg" caption="" alt="" %}
-{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_180710_Q1000965.jpg" caption="" alt="" %}
+{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_174838_Q1000958.jpg" caption="Welcome to the Lake" alt="Welcome to the Lake" %}
+{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_175646_Q1000960.jpg" caption="Rod Perry" alt="Rod Perry" %}
+{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_180710_Q1000965.jpg" caption="Rod Perry's Schlittenhund" alt="Rod Perry's Schlittenhund" %}
 
 {% include _references.md %}
 
