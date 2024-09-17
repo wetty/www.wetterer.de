@@ -621,6 +621,14 @@ defaults:
         name: "Istrien 2019"
   -
     scope:
+      path: "reisen/alaska-2024"
+      type: posts
+    values:
+      tags: [Alaska]
+      series:
+        name: "Alaska 2024"
+  -
+    scope:
       path: "events/konzert"
       type: posts
     values:
