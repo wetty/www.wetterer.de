@@ -27,11 +27,11 @@ Ich frage ob Sie irgendwann auch mal nach Europa kommen. Tja, dafür müßten si
 
 Das waren oder besser sind sie: Die Ultimativen Weltenbummler unserer Alaska Reise. Ich hab selten jemand getroffen der so glücklich und Stolz auf das war, was er macht (und auf den VW Bus). Eigentlich müßte man hier ein Croudfunding ins Leben rufen um den beiden die Überfahrt nach Europa zu ermöglichen. 
 
-Wir fahren weiter zum Matanuska Gletscher. Wenn man direkt an den Gletscher will, muß man eine geführte Tour buchen, die 150$ kostet. Das sparen wir uns, auch wenn das Wetter hier wirklich besser ist als in Wasilla. In der [Long Rifle Lodge](https://www.longriflelodge.co/){: target="_blank" rel="noopener noreferrer nofollow"} in Sutton mit Gletscher Blick gehen wir ein paar Sandwichess essen und treten dann den Rückweg an.
+Wir fahren weiter zum Matanuska Gletscher. Wenn man direkt an den Gletscher will, muß man eine geführte Tour buchen, die 150$ kostet. Das sparen wir uns, auch wenn das Wetter hier wirklich besser ist als in Wasilla. In der [Long Rifle Lodge](https://www.longriflelodge.co/){: target="_blank" rel="noopener noreferrer nofollow"} in Sutton mit Gletscher Blick gehen wir ein paar Fisch Tacos essen und treten dann den Rückweg an.
 
-Nach einer Ruhephase in unserer Unterkunft gehts noch in die [The Last Frontier Brewing Company](https://lastfrontierbrew.com/appetizers/){: target="_blank" rel="noopener noreferrer nofollow"} zum kleinen Abendessen. Ich nehm nur einen Appetizer. Die Denali Big Wings in der BBQ Kick Ass Variante. Puh, nach den ersten Bissen bekomm ich durch die Schärfe direkt Schluckauf. Zum Glück läst dieser nach und ich kann den Rest der Flügel Schweissgebadet zu ende essen.
+Nach einer Ruhephase in unserer Unterkunft gehts noch in die [The Last Frontier Brewing Company](https://lastfrontierbrew.com/appetizers/){: target="_blank" rel="noopener noreferrer nofollow"} zum kleinen Abendessen. Anja isst einen Ceasars Salat. Ich nehm nur einen Appetizer. Die Denali Big Wings in der BBQ Kick Ass Variante. Puh, nach den ersten Bissen bekomm ich durch die Schärfe direkt Schluckauf. Zum Glück läst dieser nach und ich kann den Rest der Flügel Schweissgebadet zu ende essen.
 
-Während des Essens geht noch die Alarmrsirene im Lokal los. Warum, wieso, keine Ahnung. Die Bedienung schaltet sie irgendwann einfach aus.
+Während des Essens geht noch die Alarmsirene im Lokal los. Warum, wieso, keine Ahnung. Die Bedienung schaltet sie irgendwann einfach aus.
 
 
 {% include wetty/gallery.html dir="alaska-2024/2024-08-06" class="fourth" %}
