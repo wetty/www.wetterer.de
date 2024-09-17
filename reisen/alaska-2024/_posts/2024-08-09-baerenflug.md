@@ -26,9 +26,9 @@ Hat es sich gelohnt? Auf alle Fälle. Normale Rundflüge kosten schon ein paar h
 Alles richtig gemacht. Der Perfekte Abschluß für Alaska. 
 
 
-{% include wetty/picture.html img="alaska-2024/2024-08-06/2024-08-09_124456_D85_5515.jpg" caption="Braunbär und Angler" alt="Braunbär und Angler" %}
+{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_124456_D85_5515.jpg" caption="Braunbär und Angler" alt="Braunbär und Angler" %}
 
-{% include wetty/picture.html img="alaska-2024/2024-08-06/2024-08-09_130532_Z62_9865.jpg" caption="Schwimmender Braunbär" alt="Schwimmender Braunbär" %}
+{% include wetty/picture.html img="alaska-2024/2024-08-09/2024-08-09_130532_Z62_9865.jpg" caption="Schwimmender Braunbär" alt="Schwimmender Braunbär" %}
 
 P.S.: Mehr Bilder kommen sobald alle gesichtet und bearbeitet sind.
 
