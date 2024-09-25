@@ -13,7 +13,7 @@ Nun ja, so schaute ich mir 9 Stunden lang die Fluginformationen am Kabinen Monit
 
 Die Landung verzögerte sich auch um rund 45 Minuten aufgrund schlechten Wetters. Alaska begrüßt uns mit Regen und nur 13 Grad.
 
-Trotz langer Schlange sind Zoll und Einreise halbwegs schnell erledigt. Wir kramen die Adresse der ersten Unterkunft raus und ich schalte mein Handy ein. Ein rundum verdellter Toyota Prius ist unser Taxi. Auch im Innenraum schon ziemlich abgewohnt. Egal, keine 10 Minuten später sind wir an unserem Apartment Trinity Escapes. Zwei Schlafzimmer, riesen Ess-Wohn-Küche.
+Trotz langer Schlange sind Zoll und Einreise halbwegs schnell erledigt. Wir kramen die Adresse der ersten Unterkunft raus und ich schalte mein Handy ein. Ein rundum verdellter Toyota Prius ist unser Taxi. Auch im Innenraum schon ziemlich abgewohnt. Egal, keine 10 Minuten später sind wir an unserem [Apartment Trinity Escapes](https://www.holidaycheck.de/hi/trinity-escapes-two-bedroom-two-bathroom-full-apartment-near-airport/43afacc3-782a-427e-ab3a-660bf5f702fd){: target="_blank" rel="noopener noreferrer nofollow"}. Zwei Schlafzimmer, riesen Ess-Wohn-Küche.
 
 Die erste SMS kommt an: Roaming Gebühren von 59,95€. Hab ich wohl beim Tarifwechsel letztes Jahr vergessen das Roaming auszuschalten. Hoffe mit der eSim von Holafly den Rest der Reise keine Daten Tarifprobleme mehr zu haben.
 
@@ -25,7 +25,7 @@ Ich schreibe den Blogpost hier zu ende.
 
 Alaska, wir wären angekommen, es kann los gehen!
 
-
+{% include wetty/gallery.html dir="alaska-2024/2024-07-16" class="third" %}
 
 {% include _references.md %}
 
