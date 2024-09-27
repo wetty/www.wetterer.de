@@ -1,6 +1,8 @@
 ---
 title: "Flug nach Anchorage"
 date: 2024-07-17 06:15:29+0200
+tags:
+- Leica Q2
 ---
 
 Unser Flug nach Anchorage mit Discover Airlines ging schonmal gut eine halbe Stunde später los als geplant.
