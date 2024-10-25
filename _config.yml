@@ -147,9 +147,9 @@ analytics:
 
 # Site owner
 owner:
-  google:
-    ad-client: ca-pub-7756413429414204
-    ad-slot: 7480419251
+#  google:
+#    ad-client: ca-pub-7756413429414204
+#    ad-slot: 7480419251
 
 
 # Site Author
@@ -625,6 +625,9 @@ defaults:
       type: posts
     values:
       tags: [Alaska]
+      header:
+        image: /assets/images/responsive/popup/alaska-2024/2024-08-09/2019-07-07-istrien-2019/2024-08-09_124456_D85_5515.jpg
+        padding-bottom: 36.56%
       series:
         name: "Alaska 2024"
   -
