@@ -1,6 +1,9 @@
 ---
 title: "Foto Technik Alaska"
 date: 2024-09-17 17:33:51+0200
+header:
+   image: ",ar_5,c_crop/assets/images/responsive/popup/alaska-2024/2024-08-09/2024-08-09_124456_D85_5515.jpg"
+   padding-bottom: 36.56%
 ---
 
 Mittlerweile sind wir schon seit über 5 Wochen wieder von der Alaska Reise zurück. Ich hab insgesamt 6246 Bilder gemacht. Anja mit Ihrem Handy auch über 1000 Bilder und etliche Videos. Bis die Bilder alle aussortiert sind und bearbeitet wird es wohl noch etwas dauern. Dann sollen zu den einzelnen Blogartikeln auch die Passenden Bilder hinzu gefügt werden.
