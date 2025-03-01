@@ -627,7 +627,7 @@ defaults:
       tags: [Alaska]
       header:
         image: ",ar_5,c_crop/assets/images/responsive/popup/alaska-2024/2024-08-09/2024-08-09_124456_D85_5515-Header.jpg"
-        padding-bottom: 36.56%
+        padding-bottom: 20%
       series:
         name: "Alaska 2024"
   -
