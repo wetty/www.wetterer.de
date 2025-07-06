@@ -632,6 +632,14 @@ defaults:
         name: "Alaska 2024"
   -
     scope:
+      path: "reisen/rumaenien-2025"
+      type: posts
+    values:
+      tags: [Rumänien]
+      series:
+        name: "Rumänien 2025"
+  -
+    scope:
       path: "events/konzert"
       type: posts
     values:
