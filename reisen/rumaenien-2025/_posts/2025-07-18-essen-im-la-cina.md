@@ -33,7 +33,6 @@ Damit es dem ein oder anderen nicht so vorkommt: Dies war keine Kritik, sondern 
 
 
 
-
 {% include _references.md %}
 
 {% include _amazon_affiliate.md %}
