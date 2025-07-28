@@ -5,9 +5,9 @@ date: 2025-07-15 18:22:48+0200
 
 Gleich nach dem Frühstück ging es zum Sibin Markt. Sollen ja nur gut 35 Minuten zu Fuß sein. Auch bei gerade noch 25 Grad verweigere ich hier und greif zu Uber ab. Keine 5 Minuten später werden wir für nicht ganz 1,50 Euro abgeholt und zum Sibin Markt gefahren. 
 
-Es ist ein täglicher Markt mit Obst, Gemüse und in den festen Ständen auch Käse, Fleisch und Fisch. Anja jagdt nach ihr unbekannten Tomaten, um die Samen zu gewinnen, und ich jage mit erhöhtem Puls nach Fotomotiven. 
+Es ist ein täglicher Markt mit Obst, Gemüse und in den festen Ständen auch Käse, Fleisch und Fisch. Anja jagt nach ihr unbekannten Tomaten, um die Samen zu gewinnen. Meine Frage an eine der Verkäuferinnnen, wo man denn den Samen für die Tomaten kaufen könnte wurde knapp mit "Internet" beantwortet.
 
-Wenn fremde Personen merken das sie fotografiert werden, hatte ich schon das ein oder andere mal in verschiedenen Ländern diskussionen. Daher der erhöhte Puls. Habe dieses mal einen eher kleine unscheinbare Kamera und versuche eher unauffällig zu bleiben. Es jedenfalls keinen Stress.
+Ich jage mit erhöhtem Puls nach Fotomotiven. Wenn fremde Personen merken das sie fotografiert werden, hatte ich schon das ein oder andere mal in verschiedenen Ländern Diskussionen. Daher der erhöhte Puls. Habe dieses mal einen eher kleine unscheinbare Kamera und versuche eher unauffällig zu bleiben. Es jedenfalls keinen Stress.
 
 Vom Markt geht es in die Stadt, auf den Rathausturm. Eintritt sind 2 Lej, umgerechnet 40 cent. Der Ausblick ist gut, erfolgt aber durch die vier Fenster im oberen Stock. Der Aufstieg bei mittlerweile fast 29 Grad zehrt ganz schön.
 

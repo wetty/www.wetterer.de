@@ -19,14 +19,15 @@ Nachdem wir das Auto wieder an der Unterkunft abgestellt haben, geht es recht fr
 
 Danach ziehen wir kurz durch die Innensstadt und beobachten auf einer Bank die zahlreichen Leute.
 
-Drei Sachen gibt es noch: Mittlerweile sind uns zahlreiche Rallye Fahrzeuge begegnet. Heute konnt ich auch entziffern das es sich um die Pothole Rodeo Rallye handelt. Also Schlagloch Rodeo. Ist mehr eine Spassveranstaltung mit dem ungeeignetsten Auto wohl auch Offroad unterwegs zu sein.
+Ein paar Sachen gibt es noch: Mittlerweile sind uns zahlreiche Rallye Fahrzeuge begegnet. Heute konnt ich auch entziffern das es sich um die Pothole Rodeo Rallye handelt. Also Schlagloch Rodeo. Ist mehr eine Spassveranstaltung mit dem ungeeignetsten Auto wohl auch Offroad unterwegs zu sein.
 
 Und das andere: Leider sind wir knapp 4 Tage zu früh hier, dann am Wochenende startet hier die Red Bull Romaniacs Enduro Veranstaltung mit dem Prolog. Dürfte mit die härteste Veranstaltung sein, die man sich Offroad mit einem Enduro Motorrad geben kann. Einige der Hindernisse für den Prolog werden gerade aufgebaut. Schade, wenn ich das bei der Reiseplanung gewusst hätte, hätte ich mir das sehr gerne angeschaut.
 
-Und zu guter letzt: An allen Ampeln wird die Zeit in Sekunden angezeigt wie lange es noch grün ist und wie lange es noch dauert bis es wieder grün wird. Eigentlich nicht schlecht. 
+Und noch was: An allen Ampeln wird die Zeit in Sekunden angezeigt wie lange es noch grün ist und wie lange es noch dauert bis es wieder grün wird. Eigentlich nicht schlecht. 
 
+Und überhaupt: Tatsächlich steigen hier alle von Ihren fahrbaren Untersätzen wie e-Roller oder Fahrräder ab, wenn sie über einen Zebrastreifen die Strasse überqueren. Das nenn ich mal Vorbildlich.
 
-
+Apropos e-Roller: Die privaten e-Roller sind oft vorne und unten gefedert und gehen ab wie Schmitts Katze. In Bukarest fuhr einer mit über 50 km/h vor uns her.
 
 
 {% include _references.md %}
