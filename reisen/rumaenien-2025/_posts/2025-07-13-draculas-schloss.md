@@ -21,6 +21,8 @@ Persönliches Highlight dort: Die Musik kommt tatsächlich von zwei Akai GX-646 
 
 Im Hotel ist im 6 Stock im Frühstücksraum noch eine private Party, die uns vorab schon angekündigt wurde. Das leichte summen unserer Klima übertönt die Musik und so geht der Tag zu ende.
 
+{% include wetty/gallery.html dir="Rumaenien-2025/2025-07-12" %}
+
 {% include _references.md %}
 
 {% include _amazon_affiliate.md %}

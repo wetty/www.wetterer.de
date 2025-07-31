@@ -21,7 +21,7 @@ Als Weitwinkel war ein Summaron 35mm 1:2.8 LTM (also M39 Schraubgewinde) mit Ada
 
 Schlußendlich war mit dem Elmar-C 1:4 90mm noch ein leichtes Teleobjektiv mit dabei. Das Objektiv wurde eigentlich für die analoge Leica CL entwickelt und sollte nach der Seriennummer 2605XXX aus dem Jahre 1973 stammen. Es kam in Rumänien leider nicht zum Einsatz. 
 
-Die Leica kam tatsächlich ziemlich oft zum Einsatz. In einer kleine Lowepro Event Messenger 100 Foto Umhängetasche konnte ich bequem die Leica M inclusive der drei Objektive unter bringen. Ideal wenn wir in den Städten unterwegs waren. Eine kleine unauffällige Ausrüstung. Die Nikon ist vom Gehäuser her zwar auch nicht viel größer oder schwerer als die M 240. Aber mit angesetztem Objektiv sieht das schon ganz anders aus. Da sind die kleinen Leica M Objektive einfach unschlagbar.
+Die Leica kam ziemlich oft zum Einsatz. In einer kleine Lowepro Event Messenger 100 Foto Umhängetasche konnte ich bequem die Leica M inclusive der drei Objektive unter bringen. Ideal wenn wir in den Städten unterwegs waren. Eine kleine unauffällige Ausrüstung. Die Nikon ist vom Gehäuse her zwar auch nicht viel größer oder schwerer als die M 240. Aber mit angesetztem Objektiv sieht das schon ganz anders aus. Da sind die kleinen Leica M Objektive einfach unschlagbar.
 
 Hatte mit der Leica viel Spaß, auch wenn sie mir 2-3mal sagte dei Speicherkarten wären voll, was nicht der Fall war. Von den Objektiven hatte ich nur das 50mm mal händisch codiert, damit es von der Kamera erkannt wird. Beim 35mm mit dem Adapter hat das nicht funktioniert. So mußte ich das Objektiv immer manuell im Menu auswählen, um später zu wissen mit was ich fotografiert hab. Na ja, im Eifer des Gefechtes ging das leider ab und an mal vergessen.
 
