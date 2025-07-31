@@ -636,9 +636,9 @@ defaults:
       type: posts
     values:
       tags: [Rumänien]
-	  header:
-		image: ",ar_5,c_crop/assets/images/responsive/popup/Rumaenien-2025/2025-07-12/2025-07-12_130239_Z72_0386.jpg"
-		padding-bottom: 24%
+      header:
+        image: ",ar_5,c_crop/assets/images/responsive/popup/Rumaenien-2025/2025-07-12/2025-07-12_130239_Z72_0386.jpg"
+        padding-bottom: 24%
       series:
         name: "Rumänien 2025"
   -
