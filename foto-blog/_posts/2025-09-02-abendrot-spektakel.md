@@ -1,5 +1,5 @@
 ---
-title: "Abenrot Spektakel"
+title: "Abendrot Spektakel"
 date: 2025-09-02 08:56:18+0200
 description: "Spektakuläres Abendrot mit Wolken"
 tags:
