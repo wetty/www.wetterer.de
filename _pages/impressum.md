@@ -26,8 +26,8 @@ E-Mail: thomas@wetterer.de
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: ###
 
 Thomas Wetterer    
-Breslauer Strasse 44    
-64579 Gernsheim    
+Fasanenring 21    
+64823 Groß-Umstadt    
 
 #### Haftung für Inhalte #### 
 
