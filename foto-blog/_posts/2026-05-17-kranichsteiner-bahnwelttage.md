@@ -6,7 +6,7 @@ tags:
 - Leica M240
 ---
 
-Nachdem das Wetter heute gepasst hat hab ich die Kranichsteiner-Bahnwelttage besucht. Die Parkplatzsituation direkt vor Ort hat sich auf das Wohngebiet beschränkt. Zum Glück war ich vor 11 Uhr schon da. Das nächste mal werde ich sehen irgendwo per Bus oder Bahn anzureisen.
+Nachdem das Wetter heute gepasst hat hab ich die Kranichsteiner-Bahnwelttage der [Bahnwelt Darmstadt-Kranichstein]{: target="_blank" rel="noopener noreferrer nofollow"} besucht. Die Parkplatzsituation direkt vor Ort hat sich auf das Wohngebiet beschränkt. Zum Glück war ich vor 11 Uhr schon da. Das nächste mal werde ich sehen irgendwo per Bus oder Bahn anzureisen.
 
 Schon impossant wenn eine Dampflok quasi zum greifen nah an einem vorbei fährt. Hier ein paar Impressionen:
 
