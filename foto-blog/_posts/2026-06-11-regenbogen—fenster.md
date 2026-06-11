@@ -1,5 +1,5 @@
 ---
-title: "Mohnfeld"
+title: "Regenbogen Fenster"
 date: 2026-06-11 09:12:18+0200
 description: "Regenbogen Fenster"
 tags:
