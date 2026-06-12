@@ -154,6 +154,7 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [HR - Hallo Hessen vom 09.09.2024]: https://www.ardmediathek.de/video/hallo-hessen/hallo-hessen-teil-2-vom-09-09-2024/hr-fernsehen/MDU4MTk4YzQtZmM1Mi00M2QxLThlOWQtZTQ0YjliM2Q4OWRh "HR Mediathek"
 [HR - Hallo Hessen vom 21.10.2024]: https://www.ardmediathek.de/video/hallo-hessen/hallo-hessen-teil-2-vom-21-10-2024/hr/NDc4NmNiYmItZTQyYi00ZmRjLTk5ZTAtMzU5OTEwNGViZWVj "HR Mediathek"
 [HR - Hallo Hessen Teil 2 vom 27.05.2026]: https://www.ardmediathek.de/video/hallo-hessen/hallo-hessen-teil-2-vom-27-05-2026/hr/Nzk4MWU3NjEtNTIzMy00OGU4LTgxNTUtOTgxOWI2MzA3Mjgz "HR Mediathek"
+[HR - Hallo Hessen Teil 2 vom 11.06.2026]: https://www.ardmediathek.de/video/hallo-hessen/hallo-hessen-teil-2-vom-11-06-2026/hr/MzJkNzBiOTUtOTViZS00MTNjLTk1YzktYTVlZjBiZGIyYzhl "HR Mediathek"
 [Essential Film Holder]: https://clifforth.co.uk/ "Essential Film Holder for Camera Scanning"
 [Negativ Lab Pro]: https://www.negativelabpro.com/ "Recapture the Magic of your Color Negatives"
 [Reprostativ Bausatz]: https://www.dold-mechatronik.de/Reprostativ-V5-Bausatz "Reprostativ V5 Bausatz von DOLD Mechatronik"
