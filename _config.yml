@@ -643,6 +643,14 @@ defaults:
         name: "Rumänien 2025"
   -
     scope:
+      path: "reisen/georgien-2026"
+      type: posts
+    values:
+      tags: [Georgien]
+      series:
+        name: "Georgien 2026"
+  -
+    scope:
       path: "events/konzert"
       type: posts
     values:
