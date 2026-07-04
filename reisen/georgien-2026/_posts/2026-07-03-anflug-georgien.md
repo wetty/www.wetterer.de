@@ -1,5 +1,5 @@
 ---
-title: "Anreise Georgien"
+title: "Anflug Georgien"
 date: 2026-07-03 09:37:30+0400
 published: true
 ---
