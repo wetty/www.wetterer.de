@@ -1,7 +1,6 @@
 ---
-title: "Georgien, fast doch nicht"
-date: 2026-07-01 17:38:43+0200
-published: false
+title: "Notfall vor Georgien Reise"
+date: 2026-07-01 08:38:43+0200
 ---
 
 Ein Notfall hätte unsere Georgien Rundreise fast verhindert!
