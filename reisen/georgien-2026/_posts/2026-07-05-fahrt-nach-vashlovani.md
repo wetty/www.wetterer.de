@@ -24,7 +24,7 @@ Weiter geht’s zum Vashlovani Nationalpark. Also heut erstmal zum anmelden bzw.
 
 In Dedoplistskaro ist mit dem Savannah Guest House unsere nächste Übernachtungsstation für zwei Tage.
 
-Gab gerade Abendessen. Wie in Georgien üblich sehr reichlich, das es nicht möglich ist das alles zu schaffen. 
+Gab gerade Abendessen. Wie in Georgien üblich sehr reichlich, dass es nicht möglich ist das alles zu schaffen. 
 
 
 
