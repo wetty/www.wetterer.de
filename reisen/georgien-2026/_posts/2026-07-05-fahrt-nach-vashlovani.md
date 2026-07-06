@@ -1,7 +1,6 @@
 ---
 title: "Fahrt nach Vashlovani"
 date: 2026-07-05 18:30:21+0200
-published: false
 ---
 
 Wir waren früh beim Frühstücken um danach gleich die Koffer zu packen. Um 10:00 Uhr hat uns Otto abgeholt, es geht Richtung Vashlovani Nationalpark.

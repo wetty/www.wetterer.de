@@ -1,3 +1,10 @@
+---
+title: "Tiflis Stadtführung Teil 2"
+date: 2026-07-05 08:01:46+0200
+---
+
+
+
 Gestern ging es um 10:30 Uhr los, Toni hat uns zu Fuß abgeholt. Als erstes ging es ins Nationalmuseum. Hier gabs unter anderem eine interessante Ausstellung zu der Sovjet Zeit.
 
 Weiter durch die Stadt, das arabische Viertel und dann zum Flohmarkt. Da fing es leicht zu regnen an. Es gab 2-3 Stände, die alte Kameras anboten. Meist Sovjetische Marken wie FED oder Zorki. Ein altes 50mm Nikon Objektiv wäre evtl. was gewesen. Konnte mich aber beherrschen.
@@ -25,4 +32,8 @@ Fas 12 Stunden später gegen 22 Uhr endet der zweite Tag Tiflis. Wir sind gescha
 
 Gleich geht’s weiter, raus aus Tiflis wohl zum Höhlenkloster.
 
+{% include wetty/gallery.html dir=„georgien-2026/georgien-2026/2026-07-06“ class=„fourth“ %}
 
+{% include _references.md %}
+
+{% include _amazon_affiliate.md %}
