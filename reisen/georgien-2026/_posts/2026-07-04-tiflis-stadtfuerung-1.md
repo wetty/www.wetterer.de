@@ -1,5 +1,5 @@
 ---
-title: "Tiflis Stadtführung Teil 1
+title: "Tiflis Stadtführung Teil 1"
 date: 2026-07-04 09:29:19+0200
 ---
 
