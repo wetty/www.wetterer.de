@@ -32,7 +32,6 @@ Fas 12 Stunden später gegen 22 Uhr endet der zweite Tag Tiflis. Wir sind gescha
 
 Gleich geht’s weiter, raus aus Tiflis wohl zum Höhlenkloster.
 
-{% include wetty/gallery.html dir=„georgien-2026/georgien-2026/2026-07-06“ class=„fourth“ %}
 
 {% include _references.md %}
 
