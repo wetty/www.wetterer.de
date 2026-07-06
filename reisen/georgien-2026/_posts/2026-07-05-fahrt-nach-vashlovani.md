@@ -22,6 +22,8 @@ An so einer Location, direkt neben der viel befahrenen Landstraße hätten wir n
 
 Weiter geht’s zum Vashlovani Nationalpark. Also heut erstmal zum anmelden bzw. unsere Papiere abholen. Einmal durch den Park geht es dann morgen.
 
+Wir machen noch einen Abstecher in die Adler Schlucht. Sehen aber nur in weiter Entfernung einen Gänsegeier. Man kann nicht alles haben.
+
 In Dedoplistskaro ist mit dem Savannah Guest House unsere nächste Übernachtungsstation für zwei Tage.
 
 Gab gerade Abendessen. Wie in Georgien üblich sehr reichlich, dass es nicht möglich ist das alles zu schaffen. 
