@@ -17,6 +17,8 @@ Es wird Zeit zum Mittagessen. Mehrere feste Straßen Händler bieten hier was an
 
 Außentemperatur rund 30 Grad. In der Backstube einiges Heißer. Im Backofen, in dem die Bäckerin nahe zu halb verschwindet herrscht Glut Hitze. Wahnsinn!
 
+Direkt nebenan gab’s dann noch Maulbeeren frisch vom Baum direkt in den Mund.
+
 An so einer Location, direkt neben der viel befahrenen Landstraße hätten wir nie angehalten. Dank an Otto das er es gemacht hat und wir uns diese traditionelle Art Brot zu backen sehen konnten. Abgesehen davon war alles super lecker. Es macht doch immer mal wieder Sinn einfach mal was Neues zu probieren.
 
 Weiter geht’s zum Vashlovani Nationalpark. Also heut erstmal zum anmelden bzw. unsere Papiere abholen. Einmal durch den Park geht es dann morgen.
