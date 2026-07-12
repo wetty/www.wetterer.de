@@ -29,7 +29,7 @@ Habe nur ein iPad dabei und einen USB Hub, an den ich dann Stromversorgung per U
 
 Beim Versuch die Daten der Drohne zu sichern klappt erstmal nichts. Meine Powerbank liefert wohl nicht genug Leistung für iPad, USB-Hub, SSD Platte und die Drohne. Also ein Steckernetzteil anstatt Powerbank angeschlossen. Auch wenig Erfolg. Bin froh mich mit dem Kabesalat nicht erwürgt zu haben. Nächster Versuch mit einem stärkeren USB-C Steckerlader. Auch nicht viel besser. Die Drohne zieht wohl die gesamte Leistung um den Akku zu laden. Ich steckt einen komplett geladenen Akku in die Drohne und hab endlich Erfolg beim sichern der Daten. Super, ja nur gut eineinhalb Stunden nur für das sichern der Bilder verballert. Für den Pool wird es zu spät, es geht ja demnächst zum Abendessen.
 
-Wieder mal geht es in ein Restaurant, was man von außen nie gefunden hätte. Nicht nur das, wer sitzt an einem der Tische, die Schweitzer. Wir lachen uns schlapp, so klein ist die Welt.
+Wieder mal geht es in ein Restaurant, was man von außen nie gefunden hätte. Das Restaurant ist das Badia. Nicht nur das, wer sitzt an einem der Tische, die Schweitzer. Wir lachen uns schlapp, so klein ist die Welt.
 
 Wir setzen uns nach draußen in den Garten zum Essen. Irgendwann ist es dann soweit, wir verabschieden uns endgültig von Laura und Beda. Wir wollen in unterschiedliche Richtungen und werden uns wohl nicht mehr über den Weg laufen. 
 

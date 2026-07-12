@@ -20,6 +20,7 @@ Weiter geht’s nach Telavi und auf dem Weg dahin sehen wir uns auch die Kathedr
 
 Unser Hotel Arge, auch ein Weingut, liegt in Iqalto. Wie so oft erkennt man von außen nicht was sich hinter den Mauern verbirgt. Ein sehr großer Außenbeleuchtung mit Swimmingpool. Sehr schön. Ich gönne mir natürlich den Pool und leg mich auf eine der liegen zum trocknen.
 
+Wir gönnen uns einen Aperitif, zweimal Aperol Spritz und ein Bier. Der Mispelbaum trägt Früchte. Klar das Otto direkt welche pflückt und wir sie probieren. Super reif und schön süß.
 Abendessen nehmen wir im Aussenbereich des Hotels. Es gibt Huhn in einer Knoblauch Milch Soße. Klingt ungewöhnlich ist aber tatsächlich sehr lecker.
 
 
