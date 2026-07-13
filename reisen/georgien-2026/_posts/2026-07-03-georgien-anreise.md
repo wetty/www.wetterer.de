@@ -1,6 +1,7 @@
 ---
 title: "Georgien Anreise"
 date: 2026-07-03 09:37:30+0400
+description: 1. Tag Georgien 02.07.2026
 published: true
 ---
 
