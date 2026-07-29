@@ -56,7 +56,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./_site/
-          server-dir: ./ # Passen Sie dies an, falls ein Unterordner wie /public_html/ nötig ist
+          server-dir: ./gitsite/ # Passen Sie dies an, falls ein Unterordner wie /public_html/ nötig ist
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
