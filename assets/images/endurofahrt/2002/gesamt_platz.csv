@@ -1,0 +1,76 @@
+Platz;Start Nr.;Ges. Pkt.;Name;Fahrzeug;Beschleunigung;Slalom;Gleichmäßigkeit;Trial;Strecke;Ausfall
+1;4;44;Herz, Thomas;Husaberg 400;4;3;36;1;0;
+2;41;51;Dr. Harz, Andreas;KTM 250;6;22;5;18;0;
+3;12;52;Frese, Godehard-Jan;Yamaha 250;2;23;26;1;0;
+4;45;62;Bauer, Armin;KTM 250;37;10;10;5;0;
+5;17;68;Hartung, Lothar;Husaberg 400;32;19;8;9;0;
+6;10;73;Schröder, Thomas;KTM 400;10;26;27;9;1;
+7;19;77;Hau,  Matthias;Yamaha 250;1;57;14;5;0;
+8;46;79;Schmitt, Klaus;Suzuki 400;3;7;51;18;0;
+8;56;79;Schwind, Hubert;BWM 750;30;21;13;14;1;
+10;22;84;Goerick, Christian;KTM 400;27;5;9;43;0;
+11;3;86;Wetterer, Thomas;KTM 640;8;2;33;43;0;
+12;57;87;Tallig, Markus;KTM 400;24;35;25;1;2;
+13;9;90;Lang, Ralf;Husaberg 501;38;1;38;12;1;
+13;31;90;Fischer, Herbert;BMW  800;15;10;22;43;0;
+15;2;91;Hanewald, Joachim;Honda 600;7;29;12;43;0;
+15;5;91;Steinbichl, Thomas;GasGas Pampera;14;32;40;5;0;
+17;37;92;Kübler, Günther;Roller 125;17;63;4;8;0;
+18;15;93;Helm, Ulrich;Husquarna 610;12;54;15;12;0;
+18;28;93;Pabst, Holger;Suzuki 350;12;15;52;14;0;
+20;30;94;Stegmüller, Wolfgang;KTM ;22;9;45;18;0;
+21;33;98;Brandt, Manfred;Roller 125;31;25;11;31;0;
+22;23;100;Merkel, Andreas;Herkules 125;48;17;17;18;0;
+23;55;103;Reidel, Roland;Honda 200;36;30;28;9;0;
+24;36;104;Eull, Matthias;Roller 125;33;34;19;18;0;
+25;43;106;Funk, Roland;KTM 520;29;13;21;43;0;
+26;49;113;Busch, Andreas;Yamaha 600;21;33;41;18;0;
+26;67;113;Mörschel, Ralf;KTM 300;19;28;48;18;0;
+28;27;117;Dillmann, Kai;Husquarna 410;25;18;43;31;0;
+29;63;118;Zacheo, Giovanni;DR 400;10;51;39;18;0;
+30;7;119;Müller, Uwe;Husquarna 610;20;14;54;31;0;
+31;53;123;Büchler, Harald Gerlitschka, Markus;BWM 1000;49;37;6;31;0;
+32;11;124;Dörigmann, Karin;Yamaha 400;43;20;16;43;2;
+33;20;126;Kathage, Wilfried;KTM 400;51;31;1;43;0;
+33;47;126;Nowak, Guido;CCM-Armstrong 600;43;3;62;18;0;
+35;52;128;Reinhart, Ludwig;Africatwin 750;50;16;37;18;7;
+36;50;129;Bley, Michael;BWM 1000;33;49;3;43;1;
+37;26;132;Spott, Wieland;Husquarna 410;16;41;57;18;0;
+37;29;132;Rottmann, Kurt;KTM 400;56;10;23;43;0;
+39;21;133;Röderich, Patrick;Quad Yamaha 200;45;40;34;14;0;
+40;42;136;End, Rüdiger;KTM 620;23;48;32;31;2;
+41;34;140;Neugebauer, Frank;Roller 80;58;52;7;18;5;
+42;61;142;Lindenlaub, Jens;Suzuki 400;28;42;35;31;6;
+43;25;148;Reinhard, Axel;DT 125;47;39;31;31;0;
+44;32;149;Hans, Olaf;BMW  800;41;6;59;43;0;
+45;24;153;Merkel, Fritz;Herkules 125;52;26;61;14;0;
+46;65;158;Komorowski, Detlef;KTM 300;57;35;47;18;1;
+47;69;159;Eckardt, K.-Heinz;;55;53;20;31;0;
+48;66;161;Lamberti, Thomas;Suzuki 350;62;43;24;31;1;
+49;68;162;Koch, Werner;Honda Quad;18;56;44;43;1;
+50;18;164;Eckel, Michael;KTM 400;26;61;46;31;0;
+50;48;164;Pfeiffer, Frank;BMW 800;64;7;50;43;0;
+50;51;164;Seippel, Jochen;Cagiva 900;39;23;58;43;1;
+53;64;170;Schach, Volker         Roth, Heinz;Gespann Zündapp;59;45;2;62;2;
+54;39;174;Mütz, Heinrich;Honda 600;63;62;18;31;0;
+55;8;176;Borchers, Dirk;Husquarna 610;35;59;49;31;2;
+56;14;191;Bender, Ralf;KTM 400;61;45;42;43;0;
+57;60;195;Kundel, Sebastian;KTM 620;54;60;30;43;8;
+58;71;215;Samstag, Ralf;Gespann Ural;65;47;55;43;5;
+59;38;230;Ladner, Peter;Roller 125;59;50;60;43;18;
+60;35;242;Zölch, Birgit;Roller 125;53;58;53;43;35;
+61;72;255;;;66;64;63;62;0;
+61;73;255;;;66;64;63;62;0;
+61;74;255;;;66;64;63;62;0;
+64;6;1134;Frank, Roger;Yamaha 350;66;38;29;1;1000;ADW
+65;40;1197;Bohanka, Roland;KTM 520;8;64;63;62;1000;ADW
+66;1;1204;Gilges, Phil;Honda 600;5;64;73;62;1000;ADW
+66;54;1204;Goldberg, Rüdiger;Honda 600;42;44;56;62;1000;ADW
+68;58;1225;Bunte, Thomas;KTM 620;46;55;63;61;1000;ADW
+69;16;1229;Grab, Helmut Herrmann, Franz;BMW 1000;40;64;63;62;1000;ADW
+70;13;1255;Bernhardt, Manfred;Honda 250;66;64;63;62;1000;ADW
+70;59;1255;Klose, Volker;KTM 520;66;64;63;62;1000;ADW
+70;62;1255;Steyer, Dirk;Husaberg 501;66;64;63;62;1000;ADW
+70;70;1255;Zimmermann, Jürgen;Maico 760;66;64;63;62;1000;ADW
+74;44;1265;Weber, Stefan;Husaberg 501;66;64;73;62;1000;ADW
+;;;;;;;;;;
