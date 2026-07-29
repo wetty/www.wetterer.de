@@ -1,6 +1,7 @@
 ---
 title: "Schchara Gletscher"
 date: 2026-07-18 17:51:44+0400
+subtitle: "17.07.2026 - 16.Tag Georgien"
 ---
 
 Es gibt sehr viel leckeres Frühstück. Danach geht es nochmals durchs Dorf. Vorher können wir mit dem Bruder des verstorbenen Künstler noch einen Blick in das Art Museum werfen. Zu Lebzeiten hat der Maler versucht seine Bilder für ein paar Lari hier in Ushguli an der Brücke zu verkaufen. Er wurde zwar zu Lebzeiten noch bekannt, allerdings sind seine Arbeiten erst nach seinem Tod einiges mehr Wert geworden. Der Bruder ist nun offiziell Eigentümer der Bilder, wird aber bis auf weiteres nichts verkaufen.

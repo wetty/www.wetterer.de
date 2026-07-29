@@ -37,6 +37,7 @@
       {% endif %}
       {% endif %}
     </h2>
+    {% if page.subtitle %}<b>{{ page.subtitle | remove: "<p>" | remove: "</p>" }}</b>{% endif %}
     {% if page.read_time %}
        <p class="page__meta">
           <i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ post.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;
