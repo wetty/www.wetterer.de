@@ -27,7 +27,7 @@ Gegen 22 Uhr (2 Stunde später als bei uns) machen wir uns nochmals auf in die S
 
 Heute ist Tour durch die Stadt angesagt. Drohne anmelden, SIM Karte kaufen und Geld umtauschen.
 
-{% include wetty/gallery.html dir="georgien-2026/2026-07-02" class="fourth" %}
+{% include wetty/gallery.html dir="georgien-2026/2026-07-02" class="third" %}
 
 {% include _references.md %}
 

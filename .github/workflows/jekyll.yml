@@ -61,8 +61,8 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           port: 21
           local-dir: ./_site/
-          server-dir: ./gitsite/ # Passen Sie dies an, falls ein Unterordner wie /public_html/ nötig ist
-          timeout: 60000
+          server-dir: ./httpdocs/ # Passen Sie dies an, falls ein Unterordner wie /public_html/ nötig ist
+          timeout: 30000
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
