@@ -14,7 +14,9 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-url_cdn: //d2s7alet3cn0i1.cloudfront.net
+# 2026-08-03 raus genommen, da irgendein css nicht geladen wurde (zum Test)
+# url_cdn: //d2s7alet3cn0i1.cloudfront.net
+
 # url_cloudinary_popup: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_1600/https://www.wetterer.de/assets/images/responsive/popup/
 
 responsible_images: true
@@ -36,7 +38,7 @@ url_cloudinary: //res.cloudinary.com/dsuwkv08y/image/upload/q_auto,f_auto,c_scal
 # url_cloudinary_small_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_536/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_small_low: //res.cloudinary.com/dsuwkv08y/image/fetch/q_auto,f_auto,w_268/https://www.wetterer.de/assets/images/responsive/popup/
 # url_cloudinary_square_2x: //res.cloudinary.com/dsuwkv08y/image/fetch/f_auto,c_thumb,w_150,h_150,q_auto/https://www.wetterer.de/assets/images/responsive/popup/
-version: ".46"
+version: ".47"
 image_popup_class: image-popup
 
  
