@@ -7,7 +7,15 @@ Nach dem Frühstück fahren wir los. Heutiges Ziel ist Skaduaschi. Es geht auf k
 
 An den Strassenrändern finden sich etliche Plätze die voll mit Bienenstöcken stehen. Teilweise mehr als 100 Stück. Wir halten bei einem an, bei dem eine Frau auch Ihre Erzeugnisse anbietet. Toni rät vom Kauf ab. Der Honig schmeckt hier wohl nicht ganz so gut. Jedenfalls stoppt noch ein Auto an dem Stand und wie sich raus stellt ein Paar aus Deutschland. Die beiden haben Ihre Reise mit dem Mietauto wohl etliche Monate lang geplant. Und ganz grob fahren sie die gleichen Ecken an wie wir auch.
 
-Es geht durch das Enguri Tal und dort dann auch an die Enguri-Staumauer. Mit Ihrer Größe ist sie weltweit unter den Top 5. Insgesamt 750m breit und knapp über 271m hoch. Das Wasserkraftwerk erzeugt knapp 40% des georgischen Stroms. Der Strom dort im Gebiet ist wohl auch kostenlos. Das hat natürlich zur Folge das etliche begonnen haben Crypto Mining mit dem kostenlosen Strom zu machen. Das ganze ist mittlerweile verboten, aber es werden immer wieder illegale Crypto Farmen entdeckt.
+Es geht durch das Enguri Tal und dort dann auch an die Enguri-Staumauer. Mit Ihrer Größe ist sie weltweit unter den Top 5. Insgesamt 750m breit und knapp über 271m hoch. Besuch der Mauer kostet Eintritt. Es gibt ein kleines Kino, das zeigt wie der Bau von statten ging. Vorher waren wir in den falschen Eingang gegangen und ich mache eher unerlaubt ein Bild von einem Zimmer, was aussieht wie vor 50 Jahren.
+
+Toni erklärt noch das beim Bau wohl viel Beton verschwunden ist. Als heraus kam das er gestohlen wurde um die eigenen Häuser im Ort zu bauen, wurde wohl darüber hinweg gesehen.
+
+Für 20€ gibt es eine ZIP Line die vor der Staumauer entlang geht. Erstmal die Kamera gecheckt, wie ich damit Filme und dann wage ich die Fahrt. Im Sitz bekomme ich doch Zweifel, es ist ja doch ziemlich hoch. Frage auch ob ich nicht doch wieder aussteigen könne, werde aber nicht verstanden und bekomme nur sowas wie ein ja geht gleich los.
+
+Ab geht’s! Kaum über der Kante ist es wie Sessellift fahren. Keine Angst mehr. Es macht voll Laune. Am anderen Ende wartet ein Auto und fährt uns über die Staumauer zurück.
+
+Das Wasserkraftwerk erzeugt knapp 40% des georgischen Stroms. Der Strom dort im Gebiet ist wohl auch kostenlos. Das hat natürlich zur Folge das etliche begonnen haben Crypto Mining mit dem kostenlosen Strom zu machen. Das ganze ist mittlerweile verboten, aber es werden immer wieder illegale Crypto Farmen entdeckt.
 
 Weiter gehts nach Skaduaschi. Wir sind schon sehr gespannt, da die Übernachtung im Gästehaus Chateau Scadouache ist. Es wird von einem französischen Prinzenpaar mit georgischen Wurzeln betrieben. Der Prinz stammt aus der Napoleon Dynastie. 
 
