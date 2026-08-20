@@ -2,10 +2,8 @@
 title: "Die Magnolie blüht"
 date: 2021-04-05 14:38:23+0000
 description: "Unsere Magnolie hat rechtzeitig zu Ostern geblüht"
-header:
-  image: ",ar_5,c_crop/assets/images/responsive/popup/foto-blog/Thomas_Wetterer_Magnolie_2021-04-04_120004_D75_9135.jpg"
-  padding-bottom: 24%
 ---
+
 {% include wetty/picture.html img="foto-blog/Thomas_Wetterer_Magnolie_2021-04-04_120004_D75_9135.jpg" caption="Unsere Magnolie blüht" alt="Unsere Magnolie blüht" %}
 
 Über die Osterfeiertage hat unsere Magnolie geblüht. Die letzten Jahre gab es zu diesem Ereignis dann immer auch Nachtfrost und die Blütenpracht war direkt dahin. Diesmal kommt der Nachtfrost erst ab heute.
