@@ -4,8 +4,8 @@
 {% else %}
   {% capture img_path %}/assets/images/responsive/popup/{{ include.path }}{% endcapture %}
 {% endif %}
-{if}
-{% if site.use_cloudinary %}
+
+{% if site.use_cloudinary == true %}
 	{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
 {% else %}
 	{% assign url_responsible = img_path %}
