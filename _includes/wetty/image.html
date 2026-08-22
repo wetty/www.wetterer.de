@@ -5,12 +5,6 @@
   {% capture img_path %}/assets/images/responsive/popup/{{ include.path }}{% endcapture %}
 {% endif %}
 
-{% if site.use_cloudinary == true %}
-	{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
-{% else %}
-	{% assign url_responsible = img_path %}
-{% endif %}
-
 {% capture popup_class %}{{ site.image_popup_class }}{% endcapture %}
 {% assign popup_href = img_path %}
 {% capture incl_href %}{{ include.href | default: "" }}{% endcapture %}
@@ -20,8 +14,17 @@
   {% assign popup_href = incl_href %}
   {% assign popup_class = "" %}
 {% else %}
-{% capture popup_href %}{{ site.url_cloudinary }}{{ img_path }}{% endcapture %}
+  {% capture popup_href %}{{ site.url_cloudinary }}{{ img_path }}{% endcapture %}
 {% endif %}
+
+{% if site.use_cloudinary == true %}
+	{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
+{% else %}
+	{% assign url_responsible = img_path %}
+	{% assign popup_href = img_path %}
+{% endif %}
+
+
 
 {% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
