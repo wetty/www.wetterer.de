@@ -4,7 +4,13 @@
 {% else %}
   {% capture img_path %}/assets/images/responsive/popup/{{ include.path }}{% endcapture %}
 {% endif %}
-{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
+{if}
+{% if site.use_cloudinary %}
+	{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
+{% else %}
+	{% assign url_responsible = img_path %}
+{% endif %}
+
 {% capture popup_class %}{{ site.image_popup_class }}{% endcapture %}
 {% assign popup_href = img_path %}
 {% capture incl_href %}{{ include.href | default: "" }}{% endcapture %}
