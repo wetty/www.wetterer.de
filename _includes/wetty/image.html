@@ -24,13 +24,15 @@
 	{% assign popup_href = https://imgproxy.wetterer.de/insecure/plain/https://www.wetterer.de" | append: img_path %}
 {% endif %}
 
-{% assign img_path = img_path | prepend: "https://imgproxy.wetterer.de/insecure/plain/https://www.wetterer.de" %}
 
 {% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ img_path }}" class="{{ include.class }} lazyload" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.alt }}" />
 {% else %}
 {% if site.responsible_images %}
+{% assign img_path = ":0/plain/https://www.wetterer.de" | append: img_path %}
+{% assign url_responsible = "https://imgproxy.wetterer.de/insecure//rs:fit:" %}
+
 <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="{{ include.class }} lazyload" alt="{{ include.alt }}"
  data-src="{{ url_responsible }}288{{ img_path }} 288w"
  data-srcset="{{ url_responsible }}1920{{ img_path }} 1920w,
