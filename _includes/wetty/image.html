@@ -20,11 +20,9 @@
 {% if site.use_cloudinary == true %}
 	{% capture url_responsible %}{{ site.url_cloudinary_w }}{% endcapture %}
 {% else %}
-	{% assign url_responsible = img_path %}
-	{% assign popup_href = img_path %}
+	{% assign url_responsible = "https://imgproxy.wetterer.de/insecure/plain/https://www.wetterer.de" | append: img_path %}
+	{% assign popup_href = https://imgproxy.wetterer.de/insecure/plain/https://www.wetterer.de" | append: img_path %}
 {% endif %}
-
-
 
 {% if popup == "true" %}<a href="{{ popup_href }}" class="{{ popup_class }}" title="{{ include.alt }}">{% endif %}
 {% if include.width %}
