@@ -44,6 +44,14 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
     <img src="//placehold.it/716x480" alt="Placehold.it Test" />
 </noscript>
 
+<!-- 4. Das responsive Bild-Element -->
+<img data-sizes="auto"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     class="lazyload"
+     alt="1. GHK Multivisionsfestival Plakat"
+     data-srcset="https://imgproxy.wetterer.de:{width}:0/plain/https://www.wetterer.de/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg"
+     style="width: 100%; height: auto; display: block;">
+
 <figure class="">
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <img
