@@ -21,6 +21,14 @@ Hier die neue version:
      style="width: 100%; height: auto; display: block;">
 
 
+<img data-sizes="auto"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     class="lazyload"
+     alt="1. GHK Multivisionsfestival Plakat"
+     data-srcset="https://placehold.co/{width}:400"
+     style="width: 100%; height: auto; display: block;">
+
+
 
 <figure class="photo-with-exif">
 	<picture>
