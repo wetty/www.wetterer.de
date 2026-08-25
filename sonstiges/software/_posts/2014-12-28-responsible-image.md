@@ -11,61 +11,64 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
 
-
-<figure class="photo-with-exif">
-	<picture>
-<!-- Home Settings
-	    <source srcset="http://placehold.it/908x448" media="(min-width: 48.063em)" type="image/gif" />
-	    <source srcset="http://placehold.it/716x480" media="(min-width: 40.063em)" type="image/gif" />
--->
-<!-- Blog Page Settings
-		<source srcset="http://placehold.it/715x448" media="(min-width: 62.5em)" type="image/gif" />
-	    <source srcset="http://placehold.it/908x480" media="(min-width: 48.063em)" type="image/gif" />
-	    <source srcset="http://placehold.it/716x480" media="(min-width: 37.5em)" type="image/gif" />
--->
-<!--
-		<source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/715x448" media="(min-width: 62.5em)" type="image/gif" />
-	    <source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.it/908x480" media="(min-width: 48.063em)" type="image/gif" />
--->
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/936x468 1x, //placehold.it/1872x936 2x" media="(min-width: 1281px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/1024x512 1x, //placehold.it/2048x1024 2x" media="(min-width: 1025px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/972x486 1x, //placehold.it/1944x972 2x" media="(min-width: 901px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/848x424 1x, //placehold.it/1696x848 2x" media="(min-width: 769px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/732x366 1x, //placehold.it/1464x732 2x" media="(min-width: 601px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/553x275 1x, //placehold.it/1106x550 2x" media="(min-width: 415px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/379x175 1x, //placehold.it/718x350 2x" media="(min-width: 376px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/343x172 1x, //placehold.it/686x344 2x" media="(min-width: 361px)" />
-	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.it/328x164 1x, //placehold.it/656x328 2x" media="(min-width: 321px)" />
-	    <img data-srcset="//placehold.it/288x178 1x, //placehold.it/576x356 2x " class="lazyload" itemprop="image" data-sizes="auto" alt="Responsive Image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-	  </picture>
-	  <figcaption>Das Bild sollte sich der Auflösung anpassen.</figcaption>
-</figure>
-<noscript>
-    <img src="//placehold.it/716x480" alt="Placehold.it Test" />
-</noscript>
-
+Hier die neue version:
 <!-- 4. Das responsive Bild-Element -->
 <img data-sizes="auto"
      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
      class="lazyload"
      alt="1. GHK Multivisionsfestival Plakat"
-     data-srcset="https://imgproxy.wetterer.de:{width}:0/plain/https://www.wetterer.de/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg"
+     data-srcset="https://imgproxy.wetterer.de/rs:fit:{width}:0/plain/https://www.wetterer.de/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg {width}w"
      style="width: 100%; height: auto; display: block;">
+
+
+
+<figure class="photo-with-exif">
+	<picture>
+<!-- Home Settings
+	    <source srcset="http://placehold.co/908x448" media="(min-width: 48.063em)" type="image/gif" />
+	    <source srcset="http://placehold.co/716x480" media="(min-width: 40.063em)" type="image/gif" />
+-->
+<!-- Blog Page Settings
+		<source srcset="http://placehold.co/715x448" media="(min-width: 62.5em)" type="image/gif" />
+	    <source srcset="http://placehold.co/908x480" media="(min-width: 48.063em)" type="image/gif" />
+	    <source srcset="http://placehold.co/716x480" media="(min-width: 37.5em)" type="image/gif" />
+-->
+<!--
+		<source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.co/715x448" media="(min-width: 62.5em)" type="image/gif" />
+	    <source src="{{ site.url }}/assets/images/grey.gif" data-srcset="http://placehold.co/908x480" media="(min-width: 48.063em)" type="image/gif" />
+-->
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/936x468 1x, //placehold.co/1872x936 2x" media="(min-width: 1281px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/1024x512 1x, //placehold.co/2048x1024 2x" media="(min-width: 1025px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/972x486 1x, //placehold.co/1944x972 2x" media="(min-width: 901px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/848x424 1x, //placehold.co/1696x848 2x" media="(min-width: 769px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/732x366 1x, //placehold.co/1464x732 2x" media="(min-width: 601px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/553x275 1x, //placehold.co/1106x550 2x" media="(min-width: 415px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/379x175 1x, //placehold.co/718x350 2x" media="(min-width: 376px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/343x172 1x, //placehold.co/686x344 2x" media="(min-width: 361px)" />
+	    <source srcset="{{ site.url }}/assets/images/grey.gif" data-srcset="//placehold.co/328x164 1x, //placehold.co/656x328 2x" media="(min-width: 321px)" />
+	    <img data-srcset="//placehold.co/288x178 1x, //placehold.co/576x356 2x " class="lazyload" itemprop="image" data-sizes="auto" alt="Responsive Image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+	  </picture>
+	  <figcaption>Das Bild sollte sich der Auflösung anpassen.</figcaption>
+</figure>
+<noscript>
+    <img src="//placehold.co/716x480" alt="Placehold.co Test" />
+</noscript>
+
 
 <figure class="">
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="{{ include.alt }}">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/936x468 936w,
-//placehold.it/1024x512 1024w,
-//placehold.it/972x486 972w,
-//placehold.it/848x424 848w,
-//placehold.it/732x366 732w,
-//placehold.it/553x275 553w,
-//placehold.it/379x175 379w,
-//placehold.it/343x172 343w,
-//placehold.it/328x164 328w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/936x468 936w,
+//placehold.co/1024x512 1024w,
+//placehold.co/972x486 972w,
+//placehold.co/848x424 848w,
+//placehold.co/732x366 732w,
+//placehold.co/553x275 553w,
+//placehold.co/379x175 379w,
+//placehold.co/343x172 343w,
+//placehold.co/328x164 328w"
 	class="lazyload" />
 </a>
 <figcaption>Responsive Test</figcaption>
@@ -77,17 +80,17 @@ Nachdem ich an einem neuen Layout für meine Homepage arbeite, sollen die Bilder
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/936x468 936w,
-//placehold.it/1024x512 1024w,
-//placehold.it/972x486 972w,
-//placehold.it/848x424 848w,
-//placehold.it/732x366 732w,
-//placehold.it/553x275 553w,
-//placehold.it/379x175 379w,
-//placehold.it/343x172 343w,
-//placehold.it/328x164 328w,
-//placehold.it/274x178 274w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/936x468 936w,
+//placehold.co/1024x512 1024w,
+//placehold.co/972x486 972w,
+//placehold.co/848x424 848w,
+//placehold.co/732x366 732w,
+//placehold.co/553x275 553w,
+//placehold.co/379x175 379w,
+//placehold.co/343x172 343w,
+//placehold.co/328x164 328w,
+//placehold.co/274x178 274w"
 	class="lazyload" />
 </a>
 </figure>
@@ -102,33 +105,33 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/100x50 100w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/100x50 100w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/100x50 100w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/100x50 100w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 </figure>
@@ -143,69 +146,69 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 </figure>
@@ -219,137 +222,137 @@ Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdie
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 <a href="/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg" class="{{ site.image_popup_class }}" title="test">
 <img
 	data-sizes="auto"
-    data-src="//placehold.it/288x178 288w"
-	data-srcset="//placehold.it/457x225 457w,
-//placehold.it/350x175 350w,
-//placehold.it/288x178 288w,
-//placehold.it/250x75 250w,
-//placehold.it/223x50 223w,
-//placehold.it/200x50 200w,
-//placehold.it/150x75 150w,
-//placehold.it/106x50 106w,
-//placehold.it/75x35 75w,
-//placehold.it/50x25 50w,
-//placehold.it/25x12 25w"
+    data-src="//placehold.co/288x178 288w"
+	data-srcset="//placehold.co/457x225 457w,
+//placehold.co/350x175 350w,
+//placehold.co/288x178 288w,
+//placehold.co/250x75 250w,
+//placehold.co/223x50 223w,
+//placehold.co/200x50 200w,
+//placehold.co/150x75 150w,
+//placehold.co/106x50 106w,
+//placehold.co/75x35 75w,
+//placehold.co/50x25 50w,
+//placehold.co/25x12 25w"
 	class="lazyload" />
 </a>
 </figure>

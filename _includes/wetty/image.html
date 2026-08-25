@@ -31,7 +31,7 @@
 {% else %}
 {% if site.responsible_images %}
 {% assign img_path = ":0/plain/https://www.wetterer.de" | append: img_path %}
-{% assign url_responsible = "https://imgproxy.wetterer.de/insecure//rs:fit:" %}
+{% assign url_responsible = "https://imgproxy.wetterer.de/insecure/rs:fit:" %}
 
 <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="{{ include.class }} lazyload" alt="{{ include.alt }}"
  data-src="{{ url_responsible }}288{{ img_path }} 288w"
