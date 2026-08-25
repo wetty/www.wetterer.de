@@ -17,7 +17,7 @@ Hier die neue version:
      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
      class="lazyload"
      alt="1. GHK Multivisionsfestival Plakat"
-     data-srcset="https://imgproxy.wetterer.de/insecure/rs:fit:{width}:0/plain/https://www.wetterer.de/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg"
+     data-srcset="https://imgproxy.wetterer.de/insecure/rs:fit:{width}:0/format:webp/plain/https://www.wetterer.de/assets/images/responsive/popup/2020-02-11-1-ghk-multivisionsfestival/GHK-Multivisionsfestival.jpg"
      style="width: 100%; height: auto; display: block;">
 
 
@@ -25,7 +25,7 @@ Hier die neue version:
      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
      class="lazyload"
      alt="1. GHK Multivisionsfestival Plakat"
-     data-srcset="https://placehold.co/{width}:400"
+     data-srcset="https://placehold.co/{width}x400"
      style="width: 100%; height: auto; display: block;">
 
 
