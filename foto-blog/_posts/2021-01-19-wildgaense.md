@@ -6,7 +6,7 @@ tags:
 - HR Fernsehen
 - Alle Wetter
 ---
-{% include wetty/picture.html img="foto-blog/Thomas_Wetterer—Wildgaense-2021-01-17_134104.jpg" caption="Rast der Wildgänse in Semd" alt="Rast der Wildgänse in Semd" %}
+{% include wetty/picture.html img="foto-blog/Thomas_Wetterer-Wildgaense-2021-01-17_134104.jpg" caption="Rast der Wildgänse in Semd" alt="Rast der Wildgänse in Semd" %}
 
 Aufgenommen wurde das Bild am Sonntag gegen 13:41 Uhr mit einer 1/2000 Sekunde bei Blende 2.8 und ISO 100 mit meiner [Nikon D750]{: target="_blank" rel="noopener noreferrer nofollow"} und dem [Tamron SP 70-200mm F/2.8 Di VC USD G2]{: target="_blank" rel="noopener noreferrer nofollow"} Objektiv bei 200mm Brennweite im RAW Format. 
 
