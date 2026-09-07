@@ -9,6 +9,4 @@ categories:
   - englischer-kanal-2014
 series:
   name: "Englischer Kanal 2014"
-redirect_from:
-  - /englischer-kanal-2014/
 ---

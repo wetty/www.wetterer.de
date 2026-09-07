@@ -9,8 +9,6 @@ categories:
   - lofoten-tromsoe-bodoe-2010
 series:
   name: "Lofoten Tromsoe Bodoe 2010"
-redirect_from:
-  - /lofoten-tromsoe-bodoe-2010/
 header:
   image: /assets/images/responsive/popup/headers/header_1070.jpg
   padding-bottom: 16.44%

@@ -9,6 +9,4 @@ categories:
   - ueberfuehrungstoern-2012
 series:
   name: "Ueberfuehrungstoern 2012"
-redirect_from:
-  - /ueberfuehrungstoern-2012/
 ---
