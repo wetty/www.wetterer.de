@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d36a"/>
+      <stop offset="100%" stop-color="#00b84f"/>
+    </linearGradient>
+    <style>.white{fill:#fff}.green{fill:url(#green)}.font{font-family:Arial,Helvetica,sans-serif;font-weight:700}</style>
+  </defs>
+  <path class="white" d="M140 270 L280 270 L375 475 L470 270 L610 270 L485 650 L405 520 L315 650 Z"/>
+  <path class="white" d="M455 500 L535 500 L470 640 L600 480 L520 480 L570 390 Z"/>
+  <path class="green" d="M640 260 C770 180 860 210 880 175 C865 335 825 415 730 455 L595 705 L540 575 C615 435 645 335 640 260 Z"/>
+  <path fill="#ffffff" d="M780 275 C700 325 630 405 620 520 C650 430 720 340 795 275 Z"/>
+  <text x="60" y="815" class="font white" font-size="110">Watt-</text>
+  <text x="365" y="815" class="font green" font-size="110">machen</text>
+  <text x="855" y="815" class="font white" font-size="90">.de</text>
+</svg>

@@ -378,11 +378,11 @@ defaults:
       sharing: true
       footer: true
       author_profile: true
-      banner: 
+      banner2: 
         image: /assets/images/watt-machen.svg
         alt: "Watt-machen - Unabhängige PV, Speicher, eMobilität und Smart Home Beratung"
         link: https://watt-machen.de
-      banner2: 
+      banner: 
         image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper_ad.png
         alt: "FotoBox - Fotos aus der Box - Darmstadt, Mannheim, Frankfurt, Groß-Umstadt, Aschaffenburg"
         link: https://www.fotos-aus-der-box.de
@@ -399,11 +399,11 @@ defaults:
       share: true
       classes: wide
       related: true
-      banner: 
+      banner2: 
         image: https://watt-machen.de/assets/img/clients/watt-machen-logo-schrift.png
         alt: "Watt-machen - Unabhängige PV, Speicher, eMobilität und Smart Home Beratung"
         link: https://watt-machen.de
-      banner2: 
+      banner: 
         image: /assets/images/responsive/popup/ads/fotobox_banner_skyscraper_ad.png
         alt: "FotoBox - Fotos aus der Box - Darmstadt, Mannheim, Frankfurt, Groß-Umstadt, Aschaffenburg"
         link: https://www.fotos-aus-der-box.de
