@@ -163,3 +163,4 @@ Dieser Artikel enthält Links zu Drittanbietern. Der Drittanbieter kann hierbei 
 [Jan Wegener Youtube]: https://www.youtube.com/channel/UCoU0PYNZQXRhFrDdffDCVhQ "Jan Wegener Vogel Fotografie Australien"
 [Jan Wegener Website]: https://aviscapes.com/ "Jan Wegener Vogel Fotografie Australien"
 [Bahnwelt Darmstadt-Kranichstein]: https://bahnwelt.de/ "Bahnwelt Darmstadt-Kranichstein"
+[Cafe 43]: https://www.cafe43.ge/ "The Artof Pastry"

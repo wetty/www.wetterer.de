@@ -7,7 +7,7 @@ Unser erster Abend in Batumi steht bevor. Wir ziehen mit Toni los und gehen erst
 
 Wir besuchen kurz die Roof Top bar von "The Kitchen" auf dem Batumi Rooms Hotel und geniesen die Aussicht.
 
-Einen Absager würden wir noch nehmen, aber alle Locations an denen wir vorbei kommen sind schon voll besetzt. So kommen wir kurz vor Mitternacht wieder am Hotel an und fallen totmüde ins Bett.
+Einen Absacker würden wir noch nehmen, aber alle Locations an denen wir vorbei kommen sind schon voll besetzt. So kommen wir kurz vor Mitternacht wieder am Hotel an und fallen totmüde ins Bett.
 
 Für den nächsten morgen hab ich mit Toni ausgemacht das wir erstmal eine Runde schwimmen ins schwarze Meer gehen. Bin gespannt.
 
